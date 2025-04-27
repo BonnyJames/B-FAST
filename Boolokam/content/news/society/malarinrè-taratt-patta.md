@@ -1,0 +1,25 @@
+---
+title: "\"മലരിന്റെ താരാട്ട് പാട്ട് വൈറലാകുന്നു\" ; വീഡിയോ"
+date: 2015-08-10T18:57:13
+draft: false
+categories: ["Society"]
+tags: ['Baseball', 'malar', 'premam', 'sai pallavi']
+author: "boolokamtv@gmail.com"
+---
+
+പ്രേമം, മലര്‍, സായി പല്ലവി..!
+
+കഴിഞ്ഞ കുറച്ചു മാസങ്ങളായി മലയായി പറയുന്ന ഒരു കഥയിലെ പ്രധാന പേരുകള്‍ ആണിവ. അല്‍ഫോന്‍സ്‌ പുത്രന്‍ സംവിധാനം ചെയ്തു നിവിന്‍ പോളി നായകനായി എത്തിയ സൂപ്പര്‍ ഹിറ്റ്‌ ചിത്രമായ പ്രേമത്തിലെ മലര്‍ എന്നാ നായിക കഥാപാത്രത്തെ അവതരിപ്പിച്ച സായി പല്ലവി എന്നാ നടിയെ മലയാളി ഇന്നും പ്രേമിക്കുകയാണ്.
+
+മലരിനെ കുറിച്ചുള്ള വാര്‍ത്തകള്‍ എന്നും വരുന്നു, മലയാളി അത് എന്നും ചര്‍ച്ച വിഷയമാക്കുന്നു.
+
+ഇപ്പോള്‍ ഫേസ്ബുക്കില്‍ വൈറലാകുന്നത് സായി പല്ലവി ഒരു കുഞ്ഞിനെ പാട്ടുപാടി ഉറക്കുന്ന വീഡിയോ ആണ്. സ്‌കൈലാര്‍ക് പിക്‌ചേഴ്‌സ് എന്റര്‍ടൈന്‍മെന്റ് എന്ന ഫേസ്ബുക്ക് പേജിലാണ് വീഡിയോ ഇപ്പോള്‍ പ്രത്യക്ഷപ്പെട്ടിരിക്കുന്നത്.
+
+<video id="u_0_7" class="_ox1" src="https://video-sin1-1.xx.fbcdn.net/hvideo-xpt1/v/t43.1792-2/11746203_890046707710294_1683438960_n.mp4?efg=eyJybHIiOjE1MDAsInJsYSI6MTAyNCwidmVuY29kZV90YWciOiJsZWdhY3lfaGQifQ%3D%3D&amp;rl=1500&amp;vabr=329&amp;oh=743327aed6df0209f635e1786f7d6d5e&amp;oe=55C8C370" preload="auto" width="320" height="620" data-video-width="720" data-video-height="720">
+<div data-flash="1" id="id_55c8a66e739999009286805" data-fallback-markup="1" style="width:720px;height:720px" class="swfObject" data-swfid="swf_id_55c8a66e739999009286805"><embed type="application/x-shockwave-flash" src="https://fbstatic-a.akamaihd.net/rsrc.php/v1/y8/r/CL6X1Y9uj7d.swf" width="720" height="720" style="display: block;" id="swf_id_55c8a66e739999009286805" name="swf_id_55c8a66e739999009286805" bgcolor="#000000" quality="high" allowfullscreen="allowfullscreen" allowscriptaccess="always" salign="tl" scale="noscale" wmode="opaque" flashvars="params=%7B%22auto_hd%22%3Afalse%2C%22autoplay_reason%22%3A%22unknown%22%2C%22default_hd%22%3Atrue%2C%22disable_native_controls%22%3Atrue%2C%22inline_player%22%3Afalse%2C%22pixel_ratio%22%3A1%2C%22preload%22%3Atrue%2C%22start_muted%22%3Afalse%2C%22video_data%22%3A%5B%7B%22hd_src%22%3A%22https%3A%5C%2F%5C%2Fvideo-sin1-1.xx.fbcdn.net%5C%2Fhvideo-xpt1%5C%2Fv%5C%2Ft43.1792-2%5C%2F11746203_890046707710294_1683438960_n.mp4%3Fefg%3DeyJybHIiOjE1MDAsInJsYSI6MTAyNCwidmVuY29kZV90YWciOiJsZWdhY3lfaGQifQ%5Cu00253D%5Cu00253D%26rl%3D1500%26vabr%3D329%26oh%3D743327aed6df0209f635e1786f7d6d5e%26oe%3D55C8C370%22%2C%22is_hds%22%3Afalse%2C%22is_hls%22%3Afalse%2C%22is_rtmp%22%3Afalse%2C%22stream_type%22%3A%22progressive%22%2C%22is_live_stream%22%3Afalse%2C%22rotation%22%3A0%2C%22sd_src%22%3A%22https%3A%5C%2F%5C%2Ffbcdn-video-i-a.akamaihd.net%5C%2Fhvideo-ak-xtf1%5C%2Fv%5C%2Ft42.1790-2%5C%2F11858500_890048041043494_210218112_n.mp4%3Fefg%3DeyJybHIiOjQyNiwicmxhIjo1MTIsInZlbmNvZGVfdGFnIjoicWZfNDI2d19jcmZfMjNfbWFpbl8zLjBfcDFoY19zZCJ9%26rl%3D426%26vabr%3D237%26oh%3D06d0b6b5191832ec97c14933cbd78c06%26oe%3D55C8C6C1%26__gda__%3D1439221131_493d1d5880b19086e1236c5e7e4a701a%22%2C%22video_id%22%3A%22890046447710320%22%2C%22sd_tag%22%3A%22qf_426w_crf_23_main_3.0_p1hc_sd%22%2C%22hd_tag%22%3A%22legacy_hd%22%2C%22spherical_hd_src%22%3Anull%2C%22spherical_hd_tag%22%3Anull%2C%22spherical_sd_src%22%3Anull%2C%22spherical_sd_tag%22%3Anull%2C%22projection%22%3A%22flat%22%2C%22sd_src_no_ratelimit%22%3A%22https%3A%5C%2F%5C%2Ffbcdn-video-i-a.akamaihd.net%5C%2Fhvideo-ak-xtf1%5C%2Fv%5C%2Ft42.1790-2%5C%2F11858500_890048041043494_210218112_n.mp4%3Fefg%3DeyJ2ZW5jb2RlX3RhZyI6InFmXzQyNndfY3JmXzIzX21haW5fMy4wX3AxaGNfc2QifQ%5Cu00253D%5Cu00253D%26oh%3D06d0b6b5191832ec97c14933cbd78c06%26oe%3D55C8C6C1%26__gda__%3D1439221131_188b584f6373acf40ad3d72bead3e4ce%22%2C%22hd_src_no_ratelimit%22%3A%22https%3A%5C%2F%5C%2Fvideo-sin1-1.xx.fbcdn.net%5C%2Fhvideo-xpt1%5C%2Fv%5C%2Ft43.1792-2%5C%2F11746203_890046707710294_1683438960_n.mp4%3Fefg%3DeyJ2ZW5jb2RlX3RhZyI6ImxlZ2FjeV9oZCJ9%26oh%3D743327aed6df0209f635e1786f7d6d5e%26oe%3D55C8C370%22%2C%22subtitles_src%22%3Anull%7D%5D%2C%22show_captions_default%22%3Afalse%2C%22persistent_volume%22%3Atrue%2C%22hide_controls_when_finished_in_fullscreen%22%3Afalse%2C%22buffer_length%22%3A0.1%7D&amp;width=720&amp;height=720&amp;user=100001907840275&amp;log=no&amp;div_id=id_55c8a66e739999009286805&amp;swf_id=swf_id_55c8a66e739999009286805&amp;browser=Chrome+44.0.2403.130&amp;tracking_domain=https%3A%2F%2Fpixel.facebook.com&amp;post_form_id=&amp;string_table=https%3A%2F%2Fs-static.ak.facebook.com%2Fflash_strings.php%2Ft99945%2Fen_GB" /></div>
+&amp;nbsp;
+
+</video>
+പ്രേമം, മലര്‍, സായി പല്ലവി..! കഴിഞ്ഞ കുറച്ചു മാസങ്ങളായി മലയായി പറയുന്ന ഒരു കഥയിലെ പ്രധാന പേരുകള്‍ ആണിവ. അല്‍ഫോന്‍സ്‌ പുത്രന്‍ സംവിധാനം ചെയ്തു നിവിന്‍ പോളി നായകനായി എത്തിയ സൂപ്പര്‍ ഹിറ്റ്‌ ചിത്രമായ പ്രേമത്തിലെ മലര്‍ എന്നാ നായിക കഥാപാത്രത്തെ അവതരിപ്പിച്ച സായി പല്ലവി എന്നാ നടിയെ മലയാളി ഇന്നും പ്രേമിക്കുകയാണ്. മലരിനെ കുറിച്ചുള്ള വാര്‍ത്തകള്‍ എന്നും വരുന്നു, മലയാളി അത് എന്നും ചര്‍ച്ച വിഷയമാക്കുന്നു. ഇപ്പോള്‍ ഫേസ്ബുക്കില്‍ വൈറലാകുന്നത് സായി പല്ലവി ഒരു കുഞ്ഞിനെ പാട്ടുപാടി ഉറക്കുന്ന വീഡിയോ ആണ്. സ്‌കൈലാര്‍ക് പിക്‌ചേഴ്‌സ് എന്റര്‍ടൈന്‍മെന്റ് എന്ന ഫേസ്ബുക്ക് പേജിലാണ് വീഡിയോ ഇപ്പോള്‍ പ്രത്യക്ഷപ്പെട്ടിരിക്കുന്നത്. 
+
+&nbsp; 

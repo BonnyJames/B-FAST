@@ -1,0 +1,165 @@
+---
+title: "നാല്പതുകളിലും ഗ്ലാമറിലും ചുറുചുറുക്കിലും കനിഹ"
+date: 2023-08-04T13:20:25
+draft: false
+categories: ["Entertainment"]
+tags: ['actress', 'glamour photos', 'kaniha']
+author: "Bonny"
+---
+
+കനിഹയെ മലയാള ചലച്ചിത്ര വേദിയിലും, തമിഴ് ചലച്ചിത്ര വേദിയിലും കനിഹ എന്നും തെലുഗു ചലച്ചിത്ര വേദിയിൽ ശ്രവന്തി എന്നു അറിയപ്പെടുന്നു. പിതാവ് എൻ‌ജിനീയറായ മി. വെങ്കടസുബ്രമണ്യമാണ്. ബിരുദ വിദ്യാഭ്യാസം പൂർത്തീകരിച്ചത് ബിറ്റ്സ്, പിലാനിയിൽ നിന്ന് ആ‍ണ്. അതിനു ശേഷം അഭിനയ രംഗത്തേക്ക് തിരിയുകയായിരുന്നു.
+
+<a href="https://cdn.boolokam.com/articles/2023/08/efff.jpg"><img class="alignnone size-large wp-image-406090" src="https://cdn.boolokam.com/articles/2023/08/efff-820x1024.jpg" alt="" width="820" height="1024" /></a>  20 വർഷത്തിലേറെയായി കനിഹ സിനിമയിൽ എത്തിയിട്ട്. സൂസി ഗണേഷന്‍റെ ഫൈവ് സ്റ്റാർ എന്ന തമിഴ് ചിത്രമാണ് ആദ്യത്തേത്. പിന്നീടാണ് മലയാളത്തിൽ. അതിനിടക്ക് വിവാഹം, ബ്രേക്ക്, അമേരിക്ക... അങ്ങനെ നീളുന്നു. അവതാരകയുടെയും ഡബിങ് ആര്‍ട്ടിസ്റ്റിന്റെയും വേഷവുമിട്ടു.കനിഹ ഒരു എൻജിനീയർ ആണ്. 1999ൽ മിസ്സ് മധുര, 2001ൽ മിസ്സ് ചെന്നൈ റണ്ണറപ് പട്ടങ്ങളൊക്കെ നേടിയിട്ടുണ്ട്.
+
+<a href="http://13.232.38.164/wp-content/uploads/2023/08/ddddqq.jpeg"><img class="size-large wp-image-406089 aligncenter" src="http://13.232.38.164/wp-content/uploads/2023/08/ddddqq-816x1024.jpeg" alt="" width="816" height="1024" /></a>1999 ലെ മിസ്സ്. മധുര ആയി കനിഹ തിരഞ്ഞെടുക്കപ്പെട്ടു. പിന്നീട് 2001 ലെ മിസ്സ്.ചെന്നൈ മത്സരത്തിൽ രണ്ടാം സ്ഥാനവും നേടി. ഈ മത്സരങ്ങൾക്കിടയിൽ ആറടി പൊക്കമുള്ള കനിഹ സംവിധായകനായ സൂസി ഗണേശന്റെ ശ്രദ്ധയിൽ പെടുകയും തന്റെ ചിത്രമായ ഫൈവ് സ്റ്റാർ ൽ അവസരം നൽകുകയും ചെയ്തു. ശ്രദ്ധേയമായ ഒരു വേഷം ചെയ്തത് കന്നട ചിത്രമായ അണ്ണവരു എന്ന ചിത്രത്തിലാണ്. ഇത് തമിഴ് ചിത്രമായ ആട്ടോഗ്രാഫ് എന്ന ചിത്രത്തിന്റെ പുനർനിർമ്മാണമായിരുന്നു. മലയാളത്തിൽ പഴശ്ശിരാ‍ജ എന്ന ചിത്രത്തിൽ മമ്മൂട്ടിയോടൊപ്പം അഭിനയിച്ചു.
+<blockquote class="instagram-media" style="background: #FFF; border: 0; border-radius: 3px; box-shadow: 0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width: 540px; min-width: 326px; padding: 0; width: calc(100% - 2px);" data-instgrm-captioned="" data-instgrm-permalink="https://www.instagram.com/p/CvgkPALryE7/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14">
+<div style="padding: 16px;">
+
+&nbsp;
+<div style="display: flex; flex-direction: row; align-items: center;">
+<div style="background-color: #f4f4f4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div>
+<div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;">
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div>
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div>
+</div>
+</div>
+<div style="padding: 19% 0;"></div>
+<div style="display: block; height: 50px; margin: 0 auto 12px; width: 50px;"></div>
+<div style="padding-top: 8px;">
+<div style="color: #3897f0; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: 550; line-height: 18px;">View this post on Instagram</div>
+</div>
+<div style="padding: 12.5% 0;"></div>
+<div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;">
+<div>
+<div style="background-color: #f4f4f4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div>
+<div style="background-color: #f4f4f4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div>
+<div style="background-color: #f4f4f4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div>
+</div>
+<div style="margin-left: 8px;">
+<div style="background-color: #f4f4f4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div>
+<div style="width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg);"></div>
+</div>
+<div style="margin-left: auto;">
+<div style="width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div>
+<div style="background-color: #f4f4f4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div>
+<div style="width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div>
+</div>
+</div>
+<div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;">
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div>
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div>
+</div>
+&nbsp;
+<p style="color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; line-height: 17px; margin-bottom: 0; margin-top: 8px; overflow: hidden; padding: 8px 0 7px; text-align: center; text-overflow: ellipsis; white-space: nowrap;"><a style="color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: normal; line-height: 17px; text-decoration: none;" href="https://www.instagram.com/p/CvgkPALryE7/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" rel="noopener">A post shared by Kaniha (@kaniha_official)</a></p>
+
+</div></blockquote>
+<script async src="//www.instagram.com/embed.js"></script>
+
+കനിഹ, അഭിനയം കൂടാതെ ടെലിവിഷൻ അവതാരകയായും ജോലി ചെയ്തിട്ടുണ്ട്. തമിഴ് ചാനലുകളായ സ്റ്റാർ വിജയ്, സൺ ടി.വി എന്നീ ചാനലുകളിൽ ചില പരിപാടികളിൽ അവതാരകയായിരുന്നു.തന്റെ ശബ്ദം പല തമിഴ് നടികൾക്കും യോജിക്കുന്നതിനാൽ തമിഴിൽ, ജെനീലിയ, ശ്രിയ ശരൺ, സധ എന്നിവർക്ക് ശബ്ദം നൽകിയിട്ടുണ്ട്.
+
+<a href="https://cdn.boolokam.com/articles/2023/08/vf2.jpg"><img class="size-large wp-image-406092 aligncenter" src="https://cdn.boolokam.com/articles/2023/08/vf2-819x1024.jpg" alt="" width="819" height="1024" /></a>കനിഹയുടെ ഫിറ്റ്നസിന്റെ രഹസ്യം താരം എത്ര തിരക്കായാലും വർക്കൗട്ട് ഒഴിവാക്കാറില്ല എന്നതുതന്നെ. . ദിവസം 45 മിനിറ്റെങ്കിലും വ്യായാമത്തിനായി മാറ്റിവെക്കും. ആഴ്ചയിൽ കുറഞ്ഞത് 4-5 മണിക്കൂർ. എന്നാൽ, ഷൂട്ടിന്‍റെ തിരക്കിൽപെട്ടോ മറ്റോ അപൂർവമായേ വർക്കൗട്ട് മുടങ്ങാറുള്ളൂ. അത് ആ ആഴ്ചയിൽതന്നെ ഫ്രീ സമയത്ത് കോമ്പൻസേറ്റ് ചെയ്യാനും ശ്രമിക്കും. "മനസ്സിന്‍റെ ഊർജസ്വലത നഷ്ടപ്പെടാൻ നിരവധി കാരണങ്ങളുണ്ടാവാം. എന്നാൽ, ആത്മവിശ്വാസത്തോടെ അതിനെയൊക്കെ അതിജീവിക്കാനും നമ്മുടെ മുന്നിൽ വഴികളേറെയുണ്ട്. കഠിനാധ്വാനവും മനസ്സും ഉണ്ടാകണമെന്നു മാത്രം. അലസത, ക്ഷീണം, മടി എന്നിവയെല്ലാം അകറ്റി ഉണർവേകാൻ എന്നെ സഹായിക്കുന്നത് വർക്കൗട്ടാണ്. ദിവസം മുഴുവൻ ഊർജസ്വലത നിലനിർത്താനും മാനസിക ശാന്തത കൈവരിക്കാനും സാധിക്കുന്നു.
+
+<a href="http://13.232.38.164/wp-content/uploads/2023/08/fffg.jpeg"><img class="size-large wp-image-406091 aligncenter" src="http://13.232.38.164/wp-content/uploads/2023/08/fffg-1024x1024.jpeg" alt="" width="1024" height="1024" /></a>നിസ്സാര കാര്യങ്ങള്‍ നേരിടേണ്ട അവസ്ഥ വരുമ്പോൾ ആത്മവിശ്വാസം നഷ്ടപ്പെട്ട് പതറാതിരിക്കാൻ നമ്മെ സഹായിക്കും. വർക്കൗട്ട് മുടങ്ങുന്ന ദിവസം ഭയങ്കര ബോറാണ്. ക്ഷീണമൊക്കെ തോന്നും. ലൊക്കേഷനിലാണെങ്കിൽ ഷെഡ്യൂളിന്‍റെ ഇടയിൽ അലസതയും ഉന്മേഷമില്ലായ്മയും തോന്നാറുണ്ട്. വ്യായാമം ഒരു അഡിക്ട് ആക്കുന്നതുകൊണ്ട് ഗുണം മാത്രമെന്ന് ചുരുക്കം.ഹ്രസ്വകാല ലക്ഷ്യങ്ങളെക്കാൾ ആരോ​ഗ്യകരമായ ഭാവിക്കായി ഞാൻ കരുതുന്ന സമ്പാദ്യമാണ് എന്‍റെ ഫിറ്റ്നസ്. ബ്യൂട്ടി പാർലറിൽ പോയി മുഖസൗന്ദര്യത്തിന് ഏറെ പ്രാധാന്യം നൽകുന്ന നമ്മൾ അതിനെക്കാൾ ഫിറ്റ്നസിലാണ് ശ്രദ്ധ പതിപ്പിക്കേണ്ടതെന്ന തിരിച്ചറിവ് ആർജിക്കണം. ആരോഗ്യമുള്ള ശരീരമുണ്ടെങ്കിലല്ലേ ബാക്കി എല്ലാമുള്ളൂ... " കനിഹ പറയുന്നു.സൂംബ, പലാറ്റെയ്സ് (pilates), ജിം വർക്കൗട്ട്, ഓട്ടം, യോഗ എന്നിങ്ങനെ ഏതെങ്കിലുമൊന്ന് താരത്തിന്റെ ദൈനംദിന ജീവിതത്തിന്‍റെ ഭാഗമായിരുന്നു. ഇപ്പോൾ ഹൈ ഇന്‍റൻസിറ്റി ട്രെയിനിങ്ങും ‍(high Intensity training) ചെയ്തുവരുന്നുണ്ട്.
+
+<a href="http://13.232.38.164/wp-content/uploads/2023/08/ddddfff.jpeg"><img class="size-large wp-image-406088 aligncenter" src="http://13.232.38.164/wp-content/uploads/2023/08/ddddfff.jpeg" alt="" width="702" height="812" /></a>ആഹാരത്തോടു വളരെ പ്രിയമുള്ള താരത്തിനു ഇഷ്ടമില്ലാത്ത ഭക്ഷണം എന്നൊന്ന് ഇല്ലായിരുന്നു.. മുമ്പ് വെജായിരുന്ന കനിഹ വിവാഹശേഷം നോണും ഉപയോഗിച്ചുതുടങ്ങി . ഇപ്പോൾ കൃത്യമായ ഡയറ്റ് പിന്തുടരുന്നതിനാൽ വളരെ ലളിതമാണ്​ ഭക്ഷണക്രമം. ഭക്ഷണത്തിന്റെ അളവ് വളരെ കുറക്കാൻ എപ്പോഴും ശ്രദ്ധിക്കും.രണ്ടുനേരം ഹെവിയായി കഴിക്കുന്നതിനു പകരം ഗ്യാപ്പിട്ട് ചെറിയ മീൽസാക്കി കഴിക്കാൻ ശ്രമിക്കും. നട്സ്, ഫ്രൂട്സ് ഒക്കെ ഡയറ്റ് പ്ലാനിന്‍റെ ഭാഗമാണ്. രാവിലെ സാധാരണയായി ഓട്സ് അല്ലെങ്കിൽ നട്സ് കഴിക്കും. ഉച്ചക്ക് മില്ലറ്റ്സും പച്ചക്കറികളും പരിപ്പും. രാത്രി ഇഡ്ഡലി അല്ലെങ്കിൽ ദോശ. ഫിറ്റ്നസിനുവേണ്ടി പട്ടിണി കിടക്കുന്നതിൽ അർഥമില്ല. പകരം ആവശ്യമുള്ളത് കഴിക്കാൻ ശ്രദ്ധിക്കണം, ആവശ്യമില്ലാത്തത് കഴിക്കാതിരിക്കാനും.
+<blockquote class="instagram-media" style="background: #FFF; border: 0; border-radius: 3px; box-shadow: 0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width: 540px; min-width: 326px; padding: 0; width: calc(100% - 2px);" data-instgrm-captioned="" data-instgrm-permalink="https://www.instagram.com/p/CvPfNMPxIC8/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14">
+<div style="padding: 16px;">
+
+&nbsp;
+<div style="display: flex; flex-direction: row; align-items: center;">
+<div style="background-color: #f4f4f4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div>
+<div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;">
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div>
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div>
+</div>
+</div>
+<div style="padding: 19% 0;"></div>
+<div style="display: block; height: 50px; margin: 0 auto 12px; width: 50px;"></div>
+<div style="padding-top: 8px;">
+<div style="color: #3897f0; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: 550; line-height: 18px;">View this post on Instagram</div>
+</div>
+<div style="padding: 12.5% 0;"></div>
+<div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;">
+<div>
+<div style="background-color: #f4f4f4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div>
+<div style="background-color: #f4f4f4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div>
+<div style="background-color: #f4f4f4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div>
+</div>
+<div style="margin-left: 8px;">
+<div style="background-color: #f4f4f4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div>
+<div style="width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg);"></div>
+</div>
+<div style="margin-left: auto;">
+<div style="width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div>
+<div style="background-color: #f4f4f4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div>
+<div style="width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div>
+</div>
+</div>
+<div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;">
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div>
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div>
+</div>
+&nbsp;
+<p style="color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; line-height: 17px; margin-bottom: 0; margin-top: 8px; overflow: hidden; padding: 8px 0 7px; text-align: center; text-overflow: ellipsis; white-space: nowrap;"><a style="color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: normal; line-height: 17px; text-decoration: none;" href="https://www.instagram.com/p/CvPfNMPxIC8/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" rel="noopener">A post shared by Kaniha (@kaniha_official)</a></p>
+
+</div></blockquote>
+<script async src="//www.instagram.com/embed.js"></script>
+<blockquote class="instagram-media" style="background: #FFF; border: 0; border-radius: 3px; box-shadow: 0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width: 540px; min-width: 326px; padding: 0; width: calc(100% - 2px);" data-instgrm-captioned="" data-instgrm-permalink="https://www.instagram.com/reel/CnhGcrDDYqx/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14">
+<div style="padding: 16px;">
+
+&nbsp;
+<div style="display: flex; flex-direction: row; align-items: center;">
+<div style="background-color: #f4f4f4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div>
+<div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;">
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div>
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div>
+</div>
+</div>
+<div style="padding: 19% 0;"></div>
+<div style="display: block; height: 50px; margin: 0 auto 12px; width: 50px;"></div>
+<div style="padding-top: 8px;">
+<div style="color: #3897f0; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: 550; line-height: 18px;">View this post on Instagram</div>
+</div>
+<div style="padding: 12.5% 0;"></div>
+<div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;">
+<div>
+<div style="background-color: #f4f4f4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div>
+<div style="background-color: #f4f4f4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div>
+<div style="background-color: #f4f4f4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div>
+</div>
+<div style="margin-left: 8px;">
+<div style="background-color: #f4f4f4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div>
+<div style="width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg);"></div>
+</div>
+<div style="margin-left: auto;">
+<div style="width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div>
+<div style="background-color: #f4f4f4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div>
+<div style="width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div>
+</div>
+</div>
+<div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;">
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div>
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div>
+</div>
+&nbsp;
+<p style="color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; line-height: 17px; margin-bottom: 0; margin-top: 8px; overflow: hidden; padding: 8px 0 7px; text-align: center; text-overflow: ellipsis; white-space: nowrap;"><a style="color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: normal; line-height: 17px; text-decoration: none;" href="https://www.instagram.com/reel/CnhGcrDDYqx/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" rel="noopener">A post shared by Kaniha (@kaniha_official)</a></p>
+
+</div></blockquote>
+<script async src="//www.instagram.com/embed.js"></script>
+
+
+![നാല്പതുകളിലും ഗ്ലാമറിലും ചുറുചുറുക്കിലും കനിഹ](https://cdn.boolokam.com/articles/2023/08/efff-820x1024.jpg)കനിഹയെ മലയാള ചലച്ചിത്ര വേദിയിലും, തമിഴ് ചലച്ചിത്ര വേദിയിലും കനിഹ എന്നും തെലുഗു ചലച്ചിത്ര വേദിയിൽ ശ്രവന്തി എന്നു അറിയപ്പെടുന്നു. പിതാവ് എൻ‌ജിനീയറായ മി. വെങ്കടസുബ്രമണ്യമാണ്. ബിരുദ വിദ്യാഭ്യാസം പൂർത്തീകരിച്ചത് ബിറ്റ്സ്, പിലാനിയിൽ നിന്ന് ആ‍ണ്. അതിനു ശേഷം അഭിനയ രംഗത്തേക്ക് തിരിയുകയായിരുന്നു. [](https://cdn.boolokam.com/articles/2023/08/efff.jpg) 20 വർഷത്തിലേറെയായി കനിഹ സിനിമയിൽ എത്തിയിട്ട്. സൂസി ഗണേഷന്‍റെ ഫൈവ് സ്റ്റാർ എന്ന തമിഴ് ചിത്രമാണ് ആദ്യത്തേത്. പിന്നീടാണ് മലയാളത്തിൽ. അതിനിടക്ക് വിവാഹം, ബ്രേക്ക്, അമേരിക്ക... അങ്ങനെ നീളുന്നു. അവതാരകയുടെയും ഡബിങ് ആര്‍ട്ടിസ്റ്റിന്റെയും വേഷവുമിട്ടു.കനിഹ ഒരു എൻജിനീയർ ആണ്. 1999ൽ മിസ്സ് മധുര, 2001ൽ മിസ്സ് ചെന്നൈ റണ്ണറപ് പട്ടങ്ങളൊക്കെ നേടിയിട്ടുണ്ട്. [![](http://13.232.38.164/wp-content/uploads/2023/08/ddddqq-816x1024.jpeg)](http://13.232.38.164/wp-content/uploads/2023/08/ddddqq.jpeg)1999 ലെ മിസ്സ്. മധുര ആയി കനിഹ തിരഞ്ഞെടുക്കപ്പെട്ടു. പിന്നീട് 2001 ലെ മിസ്സ്.ചെന്നൈ മത്സരത്തിൽ രണ്ടാം സ്ഥാനവും നേടി. ഈ മത്സരങ്ങൾക്കിടയിൽ ആറടി പൊക്കമുള്ള കനിഹ സംവിധായകനായ സൂസി ഗണേശന്റെ ശ്രദ്ധയിൽ പെടുകയും തന്റെ ചിത്രമായ ഫൈവ് സ്റ്റാർ ൽ അവസരം നൽകുകയും ചെയ്തു. ശ്രദ്ധേയമായ ഒരു വേഷം ചെയ്തത് കന്നട ചിത്രമായ അണ്ണവരു എന്ന ചിത്രത്തിലാണ്. ഇത് തമിഴ് ചിത്രമായ ആട്ടോഗ്രാഫ് എന്ന ചിത്രത്തിന്റെ പുനർനിർമ്മാണമായിരുന്നു. മലയാളത്തിൽ പഴശ്ശിരാ‍ജ എന്ന ചിത്രത്തിൽ മമ്മൂട്ടിയോടൊപ്പം അഭിനയിച്ചു. 
+
+> View this post on Instagram
+> 
+> [A post shared by Kaniha (@kaniha_official)](https://www.instagram.com/p/CvgkPALryE7/?utm_source=ig_embed&utm_campaign=loading)
+
+കനിഹ, അഭിനയം കൂടാതെ ടെലിവിഷൻ അവതാരകയായും ജോലി ചെയ്തിട്ടുണ്ട്. തമിഴ് ചാനലുകളായ സ്റ്റാർ വിജയ്, സൺ ടി.വി എന്നീ ചാനലുകളിൽ ചില പരിപാടികളിൽ അവതാരകയായിരുന്നു.തന്റെ ശബ്ദം പല തമിഴ് നടികൾക്കും യോജിക്കുന്നതിനാൽ തമിഴിൽ, ജെനീലിയ, ശ്രിയ ശരൺ, സധ എന്നിവർക്ക് ശബ്ദം നൽകിയിട്ടുണ്ട്. [![](https://cdn.boolokam.com/articles/2023/08/vf2-819x1024.jpg)](https://cdn.boolokam.com/articles/2023/08/vf2.jpg)കനിഹയുടെ ഫിറ്റ്നസിന്റെ രഹസ്യം താരം എത്ര തിരക്കായാലും വർക്കൗട്ട് ഒഴിവാക്കാറില്ല എന്നതുതന്നെ. . ദിവസം 45 മിനിറ്റെങ്കിലും വ്യായാമത്തിനായി മാറ്റിവെക്കും. ആഴ്ചയിൽ കുറഞ്ഞത് 4-5 മണിക്കൂർ. എന്നാൽ, ഷൂട്ടിന്‍റെ തിരക്കിൽപെട്ടോ മറ്റോ അപൂർവമായേ വർക്കൗട്ട് മുടങ്ങാറുള്ളൂ. അത് ആ ആഴ്ചയിൽതന്നെ ഫ്രീ സമയത്ത് കോമ്പൻസേറ്റ് ചെയ്യാനും ശ്രമിക്കും. "മനസ്സിന്‍റെ ഊർജസ്വലത നഷ്ടപ്പെടാൻ നിരവധി കാരണങ്ങളുണ്ടാവാം. എന്നാൽ, ആത്മവിശ്വാസത്തോടെ അതിനെയൊക്കെ അതിജീവിക്കാനും നമ്മുടെ മുന്നിൽ വഴികളേറെയുണ്ട്. കഠിനാധ്വാനവും മനസ്സും ഉണ്ടാകണമെന്നു മാത്രം. അലസത, ക്ഷീണം, മടി എന്നിവയെല്ലാം അകറ്റി ഉണർവേകാൻ എന്നെ സഹായിക്കുന്നത് വർക്കൗട്ടാണ്. ദിവസം മുഴുവൻ ഊർജസ്വലത നിലനിർത്താനും മാനസിക ശാന്തത കൈവരിക്കാനും സാധിക്കുന്നു. [![](http://13.232.38.164/wp-content/uploads/2023/08/fffg-1024x1024.jpeg)](http://13.232.38.164/wp-content/uploads/2023/08/fffg.jpeg)നിസ്സാര കാര്യങ്ങള്‍ നേരിടേണ്ട അവസ്ഥ വരുമ്പോൾ ആത്മവിശ്വാസം നഷ്ടപ്പെട്ട് പതറാതിരിക്കാൻ നമ്മെ സഹായിക്കും. വർക്കൗട്ട് മുടങ്ങുന്ന ദിവസം ഭയങ്കര ബോറാണ്. ക്ഷീണമൊക്കെ തോന്നും. ലൊക്കേഷനിലാണെങ്കിൽ ഷെഡ്യൂളിന്‍റെ ഇടയിൽ അലസതയും ഉന്മേഷമില്ലായ്മയും തോന്നാറുണ്ട്. വ്യായാമം ഒരു അഡിക്ട് ആക്കുന്നതുകൊണ്ട് ഗുണം മാത്രമെന്ന് ചുരുക്കം.ഹ്രസ്വകാല ലക്ഷ്യങ്ങളെക്കാൾ ആരോ​ഗ്യകരമായ ഭാവിക്കായി ഞാൻ കരുതുന്ന സമ്പാദ്യമാണ് എന്‍റെ ഫിറ്റ്നസ്. ബ്യൂട്ടി പാർലറിൽ പോയി മുഖസൗന്ദര്യത്തിന് ഏറെ പ്രാധാന്യം നൽകുന്ന നമ്മൾ അതിനെക്കാൾ ഫിറ്റ്നസിലാണ് ശ്രദ്ധ പതിപ്പിക്കേണ്ടതെന്ന തിരിച്ചറിവ് ആർജിക്കണം. ആരോഗ്യമുള്ള ശരീരമുണ്ടെങ്കിലല്ലേ ബാക്കി എല്ലാമുള്ളൂ... " കനിഹ പറയുന്നു.സൂംബ, പലാറ്റെയ്സ് (pilates), ജിം വർക്കൗട്ട്, ഓട്ടം, യോഗ എന്നിങ്ങനെ ഏതെങ്കിലുമൊന്ന് താരത്തിന്റെ ദൈനംദിന ജീവിതത്തിന്‍റെ ഭാഗമായിരുന്നു. ഇപ്പോൾ ഹൈ ഇന്‍റൻസിറ്റി ട്രെയിനിങ്ങും ‍(high Intensity training) ചെയ്തുവരുന്നുണ്ട്. [![](http://13.232.38.164/wp-content/uploads/2023/08/ddddfff.jpeg)](http://13.232.38.164/wp-content/uploads/2023/08/ddddfff.jpeg)ആഹാരത്തോടു വളരെ പ്രിയമുള്ള താരത്തിനു ഇഷ്ടമില്ലാത്ത ഭക്ഷണം എന്നൊന്ന് ഇല്ലായിരുന്നു.. മുമ്പ് വെജായിരുന്ന കനിഹ വിവാഹശേഷം നോണും ഉപയോഗിച്ചുതുടങ്ങി . ഇപ്പോൾ കൃത്യമായ ഡയറ്റ് പിന്തുടരുന്നതിനാൽ വളരെ ലളിതമാണ്​ ഭക്ഷണക്രമം. ഭക്ഷണത്തിന്റെ അളവ് വളരെ കുറക്കാൻ എപ്പോഴും ശ്രദ്ധിക്കും.രണ്ടുനേരം ഹെവിയായി കഴിക്കുന്നതിനു പകരം ഗ്യാപ്പിട്ട് ചെറിയ മീൽസാക്കി കഴിക്കാൻ ശ്രമിക്കും. നട്സ്, ഫ്രൂട്സ് ഒക്കെ ഡയറ്റ് പ്ലാനിന്‍റെ ഭാഗമാണ്. രാവിലെ സാധാരണയായി ഓട്സ് അല്ലെങ്കിൽ നട്സ് കഴിക്കും. ഉച്ചക്ക് മില്ലറ്റ്സും പച്ചക്കറികളും പരിപ്പും. രാത്രി ഇഡ്ഡലി അല്ലെങ്കിൽ ദോശ. ഫിറ്റ്നസിനുവേണ്ടി പട്ടിണി കിടക്കുന്നതിൽ അർഥമില്ല. പകരം ആവശ്യമുള്ളത് കഴിക്കാൻ ശ്രദ്ധിക്കണം, ആവശ്യമില്ലാത്തത് കഴിക്കാതിരിക്കാനും. 
+
+> View this post on Instagram
+> 
+> [A post shared by Kaniha (@kaniha_official)](https://www.instagram.com/p/CvPfNMPxIC8/?utm_source=ig_embed&utm_campaign=loading)
+
+> View this post on Instagram
+> 
+> [A post shared by Kaniha (@kaniha_official)](https://www.instagram.com/reel/CnhGcrDDYqx/?utm_source=ig_embed&utm_campaign=loading)

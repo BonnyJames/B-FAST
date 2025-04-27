@@ -1,0 +1,110 @@
+---
+title: "നിങ്ങളിലെ വിള്ളലുകളുടെ സത്യം നിങ്ങൾ കരുതുന്നതാകില്ല"
+date: 2021-11-07T12:46:28
+draft: false
+categories: ["Entertainment"]
+tags: ['boolokam tv', 'NOUFAL MANNILKADAVU', 'villal short movie']
+author: "Beaumaris"
+---
+
+NOUFAL MANNILKADAVU സംവിധാനം ചെയ്ത വിള്ളൽ പാറയുടെയോ ചുവരിന്റെയോ വിള്ളൽ അല്ല..അത് നമ്മൾ മനുഷ്യബന്ധങ്ങൾക്കിടയിലെ വിള്ളൽ തന്നെയാണ്. പ്രത്യേകിച്ചും സൗഹൃദങ്ങൾക്കിടയിലെ വിള്ളൽ. പലപ്പോഴും സൗഹൃദങ്ങൾക്കിടയിലെ വിള്ളൽ സംഭവിക്കുന്നത് രണ്ടു കാരണങ്ങൾ കൊണ്ടാകും , പെണ്ണ് അല്ലെങ്കിൽ പണം. എന്തൊക്കെ ആയാലും വിള്ളലുകൾ രൂപപ്പെട്ടു കഴിഞ്ഞാൽ ക്രമേണ അത് പകയിലേക്കും വയലൻസിലേക്കും നയിക്കും. ഒരുപക്ഷെ ഏറ്റവുമധികം ആഴത്തിൽ പക രൂപപ്പെടുന്നത് ഏറ്റവുമധികം ആഴത്തിൽ സ്നേഹിച്ചിരുന്നവർ തമ്മിൽ തന്നെയാകും എന്നതാണ് സത്യം.
+
+<strong>vote for villal</strong>
+
+<a href="https://apkdownload.com/BoolokamTV/com.boolokam.boolokamtv.html"><img class="size-full wp-image-323862 alignleft" src="https://cdn.boolokam.com/articles/2021/11/villal.jpg" alt="" width="300" height="251" /></a>പെണ്ണായാലും പണമായാലും ഒരിടത്തു പ്രശ്‌നമുണ്ടാകുന്നത് ചതി, വഞ്ചന എന്നീ പ്രവർത്തികളിലൂടെയാണ്. ഈ ഷോർട്ട് മൂവി പറയുന്നതും അതു തന്നെയാണ് . നമുക്കിടയിലെ ആ പ്രശ്നക്കാരനായ ചങ്ങാതിയെ കണ്ടെത്തി അകറ്റുന്നതിലൂടെ മാത്രമേ ബാക്കിയുള്ള സൗഹൃദങ്ങൾക്ക് ആ ചങ്ങാത്തത്തിന്റെ സൗഗന്ധം ആസ്വദിക്കാൻ സാധിക്കൂ. ഇല്ലെങ്കിൽ ചിലപ്പോൾ ഒരാൾ കാരണം യാദവകുലം അടിച്ചുതകർന്നതുപോലെ ഒരു സൗഹൃദഗ്രൂപ്പ് തന്നെ അടിച്ചുതകർന്നേക്കാം.
+
+ഈ ഷോർട്ട് മൂവിയിൽ സൗഹൃദങ്ങൾക്കു തമ്മിലുള്ള വിള്ളൽ എന്തുകൊണ്ടുണ്ടായി എന്ന് മനസ്സിലാക്കണമെങ്കിൽ അതിന്റെ ക്ളൈമാക്സ് വരെ കാത്തിരിക്കേണ്ടതുണ്ട്. മൂന്നു സുഹൃത്തുക്കൾക്കിടയിൽ രൂപപ്പെട്ട വിള്ളലിന്റെ കാര്യമറിയാതെ തെറ്റിദ്ധരിച്ചു രണ്ടുപേർ തമ്മിൽ അടികൂടുമ്പോൾ മൂന്നാമൻ എവിടെയാണ് എന്ന ചോദ്യം നിങ്ങളിൽ അവശേഷിക്കും. നിങ്ങൾ കരുതുന്നത് പലതും തെറ്റാണ് എന്ന് ഈ ഷോർട്ട് മൂവി അടിവരയിടുന്നു.
+
+ഈ സസ്പെൻസ് ത്രില്ലറിന്റെ തിരക്കഥയും സംവിധാനവും സംഘടനരംഗങ്ങളും ക്യാമറയും മ്യൂസിക്കും എല്ലാം മികച്ചു നിൽക്കുന്നു.
+
+<strong>വിള്ളൽ സംവിധാനം ചെയ്ത NOUFAL MANNILKADAVU ബൂലോകം ടീവിയോട് സംസാരിക്കുന്നു</strong>
+
+"നമസ്കാരം ഞാൻ നൗഫൽ മണ്ണിൽക്കടവ് . മണ്ണിൽക്കടവ് എന്നത് എന്റെ സ്ഥലപ്പേരാണ്. കോഴിക്കോട് ജില്ലയിലെ കൊടുവള്ളി ഭാഗത്തായിട്ടു വരും. ഞാനൊരു പ്രവാസി ആയിരുന്നു. കോവിഡ് കാരണം രണ്ടുവർഷമായി നാട്ടിൽ തന്നെയുണ്ട്.സിനിമയിലുള്ള പരിചയത്തെ കുറിച്ച് പറഞ്ഞാൽ, ചെറുപ്പം മുതൽക്കു തന്നെ ഒരുപാട് സിനിമകൾ കാണാറുണ്ട് , ഷൂട്ടിങ് കാണാൻ, എത്തിപ്പെടാൻ സാധിക്കുന്ന ലൊക്കേഷനുകളിൽ ഒക്കെ പോകാറുണ്ട്, അങ്ങനെ ഈ മേഖലയിൽ വളരെ ഇന്ററസ്റ്റിങ് ഉള്ള ആളാണ്."
+
+<strong>നൗഫൽ മണ്ണിൽക്കടവ് ശബ്‌ദരേഖ </strong>
+
+[zoomsounds_player artistname="BoolokamTV Interview" songname="<strong>NOUFAL MANNILKADAVU</strong>" config="sample--skin-wave-simple" type="audio" dzsap_meta_source_attachment_id="323164" source="https://cdn.boolokam.com/articles/2021/11/villalfinal.mp3" thumb="https://cdn.boolokam.com/articles/2021/10/BoolokamFavicon-wh.png" autoplay="off" loop="off" play_in_footer_player="default" enable_download_button="off" enable_downloads_counter="off" download_custom_link_enable="off" open_in_ultibox="off"]
+
+<strong>വിള്ളൽ എന്ന മൂവി രൂപപ്പെടാൻ കാരണം</strong>
+
+"എന്റെയൊരു സുഹൃത്ത് നിഷാദ് , അവനൊരു DOP ആണ്. പുള്ളി ചെയ്ത ഒരു വെബ് സീരീസിൽ ചെറിയ ഭാഗമാകാൻ എനിക്കും സാധിച്ചിട്ടുണ്ട്. അന്ന് അവരുടെ
+
+[caption id="attachment_323887" align="alignleft" width="162"]<img class=" wp-image-323887" src="https://cdn.boolokam.com/articles/2021/11/pp-1.jpg" alt="NOUFAL MANNILKADAVU" width="162" height="162" /> <strong>NOUFAL MANNILKADAVU</strong>[/caption]
+
+കൂടെ വർക്ക് ചെയ്തപ്പോൾ എന്റെ മനസ്സിൽ തോന്നിയ ആശയം എന്റെ സുഹൃത്തും ഇതിന്റെ പ്രൊഡ്യൂസറുമായ MANSOOR 4DC യുമായി സംസാരിക്കുകയും അങ്ങനെ രൂപപ്പെടുകയും ചെയ്തതാണ് വിള്ളൽ എന്ന മൂവി ."
+
+"വിള്ളലിൽ പറയുന്നപോലൊരു അനുഭവം ഒരു വ്യക്തി എന്ന നിലയ്ക്ക് എനിക്കോ സുഹൃത്തുക്കൾക്കോ ഉണ്ടായിട്ടില്ല. ഇതിലെ കഥയും കഥാപാത്രങ്ങളും തികച്ചും സാങ്കല്പികം മാത്രമാണ്.ഇതിലെ അഭിനേതാക്കൾ എന്റെ സുഹൃത്തുക്കളും നാട്ടുകാരും തന്നെയാണ്. പ്രത്യകം എടുത്തുപറയേണ്ടത്, ഇതിലെ കേന്ദ്രകഥാപാത്രം ആയി അഭിനയിച്ച BICHAL MUHAMMED നെയാണ് . അദ്ദേഹം ഒരു ആക്ടർ ആണ്. അനവധി ഫിലിമുകളിലും ഷോർട്ട് ഫിലിമുകളിലും ഒക്കെ അഭിനയിച്ചിട്ടുള്ള ഒരാളാണ്."
+
+"സിനിമ എന്റെയൊരു ഡ്രീം ആണ്. സിനിമയിലേക്ക് ശ്രമങ്ങൾ നടക്കുന്നുണ്ട്. ഒരു സംവിധായകൻ ആകുക ആണ് എന്റെ പ്രധാനപ്പെട്ട ഡ്രീം.അടുത്ത പ്രോജക്റ്റ് ആയി ഒരു ഷോർട്ട് മൂവി ചെയുന്നുണ്ട്. അതിന്റെ വർക്ക് നടന്നുകൊണ്ടിരിക്കുകയാണ്. ഉടൻ തന്നെ റിലീസ് ചെയ്യും. ഈ മൂവി ഫെസ്റ്റിവൽസിനു അയക്കുകയോ അംഗീകാരം ലഭിക്കുകയോ ഒന്നും ചെയ്തിട്ടില്ല. ഇതുകണ്ട ഒരുപാടുപേർ നേരിട്ട് അഭിനന്ദനങ്ങൾ അറിയിക്കുകയുണ്ടായി. ഞങ്ങളോട് സഹകരിച്ച എല്ലാപേർക്കും നന്ദി അറിയിക്കുകയാണ്, തുടർന്നും നിങ്ങളുടെ പ്രോത്സാഹനവും അംഗീകാരവും ഞങ്ങൾക്ക് ലഭിക്കണം. നന്ദി ..നമസ്കാരം."
+
+<strong>vote for villal</strong>
+
+<a href="https://apkdownload.com/BoolokamTV/com.boolokam.boolokamtv.html"><img class="size-full wp-image-323862 alignleft" src="https://cdn.boolokam.com/articles/2021/11/villal.jpg" alt="" width="300" height="251" /></a>New malayalam short film 2021 action cinematic suspense thriller short movie
+VILLAL MALAYALAM SHORT FILM|NOUFAL MANNILKADAVU|BICHAL MUHAMMED|MANSOOR 4DC|MIRSHAD NOOR|SHORT MOVIE
+
+<strong>VILLAL MALAYALAM SHORT MOVIE</strong>
+STORY SCREEN PLAY&amp;DIRECTION
+NOUFAL MANNILKADAVU
+
+PRODUCED BY
+MANSOOR 4DC
+
+DOP &amp; EDIT:
+MIRSHAD NOOR
+
+ASSO.DIRECTOR:
+MUTAYI
+
+PRO. CONTROLLER:
+RAFI ELETTIL
+
+STUNT:
+MUHAMMED AK
+
+MAKEUP:
+SHADIYA CM KOLIKKAL
+
+ANIMATION:
+RASHID ZABAN
+
+AOUDIOGRAPHY:
+HARIRAG M WARRIER
+
+STUDIO:
+SHIVAM SOUND STUDIO CALICUT
+
+MUSIC &amp; BGM:
+SAMEER ALI, RISHAD KODINHI
+
+POSTER DESIGN:
+BADUSHA VAVAD
+VIBE ADMEDIA
+
+DISTRIBUTION:
+
+SAVIOR OF THE WEB
+
+PRODUCTION COMPANY:
+MAN MOVIES
+
+&amp;nbsp;
+
+JOSE - BICHAL MUHAMMED
+ANTONY - GAFOOR KUNNUMMAL
+SAIMON - NOUFAL MANNILKADAVU
+SUNNY - MUTAI
+SIDHU - RAFI ELETTIL
+MIDHUN - SAMEER VAVAD
+SIBI - MISBAH
+SHIMIJA
+MANSOOR
+FIROZ
+RISHAD
+SHAKIR
+MIDLAJ
+RIYAS
+NAJI
+SIDHEEQUE
+
+
+![നിങ്ങളിലെ വിള്ളലുകളുടെ സത്യം നിങ്ങൾ കരുതുന്നതാകില്ല](https://cdn.boolokam.com/articles/2021/11/villal.jpg)NOUFAL MANNILKADAVU സംവിധാനം ചെയ്ത വിള്ളൽ പാറയുടെയോ ചുവരിന്റെയോ വിള്ളൽ അല്ല..അത് നമ്മൾ മനുഷ്യബന്ധങ്ങൾക്കിടയിലെ വിള്ളൽ തന്നെയാണ്. പ്രത്യേകിച്ചും സൗഹൃദങ്ങൾക്കിടയിലെ വിള്ളൽ. പലപ്പോഴും സൗഹൃദങ്ങൾക്കിടയിലെ വിള്ളൽ സംഭവിക്കുന്നത് രണ്ടു കാരണങ്ങൾ കൊണ്ടാകും , പെണ്ണ് അല്ലെങ്കിൽ പണം. എന്തൊക്കെ ആയാലും വിള്ളലുകൾ രൂപപ്പെട്ടു കഴിഞ്ഞാൽ ക്രമേണ അത് പകയിലേക്കും വയലൻസിലേക്കും നയിക്കും. ഒരുപക്ഷെ ഏറ്റവുമധികം ആഴത്തിൽ പക രൂപപ്പെടുന്നത് ഏറ്റവുമധികം ആഴത്തിൽ സ്നേഹിച്ചിരുന്നവർ തമ്മിൽ തന്നെയാകും എന്നതാണ് സത്യം. **vote for villal** [](https://apkdownload.com/BoolokamTV/com.boolokam.boolokamtv.html)പെണ്ണായാലും പണമായാലും ഒരിടത്തു പ്രശ്‌നമുണ്ടാകുന്നത് ചതി, വഞ്ചന എന്നീ പ്രവർത്തികളിലൂടെയാണ്. ഈ ഷോർട്ട് മൂവി പറയുന്നതും അതു തന്നെയാണ് . നമുക്കിടയിലെ ആ പ്രശ്നക്കാരനായ ചങ്ങാതിയെ കണ്ടെത്തി അകറ്റുന്നതിലൂടെ മാത്രമേ ബാക്കിയുള്ള സൗഹൃദങ്ങൾക്ക് ആ ചങ്ങാത്തത്തിന്റെ സൗഗന്ധം ആസ്വദിക്കാൻ സാധിക്കൂ. ഇല്ലെങ്കിൽ ചിലപ്പോൾ ഒരാൾ കാരണം യാദവകുലം അടിച്ചുതകർന്നതുപോലെ ഒരു സൗഹൃദഗ്രൂപ്പ് തന്നെ അടിച്ചുതകർന്നേക്കാം. ഈ ഷോർട്ട് മൂവിയിൽ സൗഹൃദങ്ങൾക്കു തമ്മിലുള്ള വിള്ളൽ എന്തുകൊണ്ടുണ്ടായി എന്ന് മനസ്സിലാക്കണമെങ്കിൽ അതിന്റെ ക്ളൈമാക്സ് വരെ കാത്തിരിക്കേണ്ടതുണ്ട്. മൂന്നു സുഹൃത്തുക്കൾക്കിടയിൽ രൂപപ്പെട്ട വിള്ളലിന്റെ കാര്യമറിയാതെ തെറ്റിദ്ധരിച്ചു രണ്ടുപേർ തമ്മിൽ അടികൂടുമ്പോൾ മൂന്നാമൻ എവിടെയാണ് എന്ന ചോദ്യം നിങ്ങളിൽ അവശേഷിക്കും. നിങ്ങൾ കരുതുന്നത് പലതും തെറ്റാണ് എന്ന് ഈ ഷോർട്ട് മൂവി അടിവരയിടുന്നു. ഈ സസ്പെൻസ് ത്രില്ലറിന്റെ തിരക്കഥയും സംവിധാനവും സംഘടനരംഗങ്ങളും ക്യാമറയും മ്യൂസിക്കും എല്ലാം മികച്ചു നിൽക്കുന്നു. **വിള്ളൽ സംവിധാനം ചെയ്ത NOUFAL MANNILKADAVU ബൂലോകം ടീവിയോട് സംസാരിക്കുന്നു** "നമസ്കാരം ഞാൻ നൗഫൽ മണ്ണിൽക്കടവ് . മണ്ണിൽക്കടവ് എന്നത് എന്റെ സ്ഥലപ്പേരാണ്. കോഴിക്കോട് ജില്ലയിലെ കൊടുവള്ളി ഭാഗത്തായിട്ടു വരും. ഞാനൊരു പ്രവാസി ആയിരുന്നു. കോവിഡ് കാരണം രണ്ടുവർഷമായി നാട്ടിൽ തന്നെയുണ്ട്.സിനിമയിലുള്ള പരിചയത്തെ കുറിച്ച് പറഞ്ഞാൽ, ചെറുപ്പം മുതൽക്കു തന്നെ ഒരുപാട് സിനിമകൾ കാണാറുണ്ട് , ഷൂട്ടിങ് കാണാൻ, എത്തിപ്പെടാൻ സാധിക്കുന്ന ലൊക്കേഷനുകളിൽ ഒക്കെ പോകാറുണ്ട്, അങ്ങനെ ഈ മേഖലയിൽ വളരെ ഇന്ററസ്റ്റിങ് ഉള്ള ആളാണ്." **നൗഫൽ മണ്ണിൽക്കടവ് ശബ്‌ദരേഖ** [zoomsounds_player artistname="BoolokamTV Interview" songname="**NOUFAL MANNILKADAVU** " config="sample--skin-wave-simple" type="audio" dzsap_meta_source_attachment_id="323164" source="https://cdn.boolokam.com/articles/2021/11/villalfinal.mp3" thumb="https://cdn.boolokam.com/articles/2021/10/BoolokamFavicon-wh.png" autoplay="off" loop="off" play_in_footer_player="default" enable_download_button="off" enable_downloads_counter="off" download_custom_link_enable="off" open_in_ultibox="off"] **വിള്ളൽ എന്ന മൂവി രൂപപ്പെടാൻ കാരണം** "എന്റെയൊരു സുഹൃത്ത് നിഷാദ് , അവനൊരു DOP ആണ്. പുള്ളി ചെയ്ത ഒരു വെബ് സീരീസിൽ ചെറിയ ഭാഗമാകാൻ എനിക്കും സാധിച്ചിട്ടുണ്ട്. അന്ന് അവരുടെ [caption id="attachment_323887" align="alignleft" width="162"]![NOUFAL MANNILKADAVU](https://cdn.boolokam.com/articles/2021/11/pp-1.jpg) **NOUFAL MANNILKADAVU**[/caption] കൂടെ വർക്ക് ചെയ്തപ്പോൾ എന്റെ മനസ്സിൽ തോന്നിയ ആശയം എന്റെ സുഹൃത്തും ഇതിന്റെ പ്രൊഡ്യൂസറുമായ MANSOOR 4DC യുമായി സംസാരിക്കുകയും അങ്ങനെ രൂപപ്പെടുകയും ചെയ്തതാണ് വിള്ളൽ എന്ന മൂവി ." "വിള്ളലിൽ പറയുന്നപോലൊരു അനുഭവം ഒരു വ്യക്തി എന്ന നിലയ്ക്ക് എനിക്കോ സുഹൃത്തുക്കൾക്കോ ഉണ്ടായിട്ടില്ല. ഇതിലെ കഥയും കഥാപാത്രങ്ങളും തികച്ചും സാങ്കല്പികം മാത്രമാണ്.ഇതിലെ അഭിനേതാക്കൾ എന്റെ സുഹൃത്തുക്കളും നാട്ടുകാരും തന്നെയാണ്. പ്രത്യകം എടുത്തുപറയേണ്ടത്, ഇതിലെ കേന്ദ്രകഥാപാത്രം ആയി അഭിനയിച്ച BICHAL MUHAMMED നെയാണ് . അദ്ദേഹം ഒരു ആക്ടർ ആണ്. അനവധി ഫിലിമുകളിലും ഷോർട്ട് ഫിലിമുകളിലും ഒക്കെ അഭിനയിച്ചിട്ടുള്ള ഒരാളാണ്." "സിനിമ എന്റെയൊരു ഡ്രീം ആണ്. സിനിമയിലേക്ക് ശ്രമങ്ങൾ നടക്കുന്നുണ്ട്. ഒരു സംവിധായകൻ ആകുക ആണ് എന്റെ പ്രധാനപ്പെട്ട ഡ്രീം.അടുത്ത പ്രോജക്റ്റ് ആയി ഒരു ഷോർട്ട് മൂവി ചെയുന്നുണ്ട്. അതിന്റെ വർക്ക് നടന്നുകൊണ്ടിരിക്കുകയാണ്. ഉടൻ തന്നെ റിലീസ് ചെയ്യും. ഈ മൂവി ഫെസ്റ്റിവൽസിനു അയക്കുകയോ അംഗീകാരം ലഭിക്കുകയോ ഒന്നും ചെയ്തിട്ടില്ല. ഇതുകണ്ട ഒരുപാടുപേർ നേരിട്ട് അഭിനന്ദനങ്ങൾ അറിയിക്കുകയുണ്ടായി. ഞങ്ങളോട് സഹകരിച്ച എല്ലാപേർക്കും നന്ദി അറിയിക്കുകയാണ്, തുടർന്നും നിങ്ങളുടെ പ്രോത്സാഹനവും അംഗീകാരവും ഞങ്ങൾക്ക് ലഭിക്കണം. നന്ദി ..നമസ്കാരം." **vote for villal** [](https://apkdownload.com/BoolokamTV/com.boolokam.boolokamtv.html)New malayalam short film 2021 action cinematic suspense thriller short movie VILLAL MALAYALAM SHORT FILM|NOUFAL MANNILKADAVU|BICHAL MUHAMMED|MANSOOR 4DC|MIRSHAD NOOR|SHORT MOVIE **VILLAL MALAYALAM SHORT MOVIE** STORY SCREEN PLAY&DIRECTION NOUFAL MANNILKADAVU PRODUCED BY MANSOOR 4DC DOP & EDIT: MIRSHAD NOOR ASSO.DIRECTOR: MUTAYI PRO. CONTROLLER: RAFI ELETTIL STUNT: MUHAMMED AK MAKEUP: SHADIYA CM KOLIKKAL ANIMATION: RASHID ZABAN AOUDIOGRAPHY: HARIRAG M WARRIER STUDIO: SHIVAM SOUND STUDIO CALICUT MUSIC & BGM: SAMEER ALI, RISHAD KODINHI POSTER DESIGN: BADUSHA VAVAD VIBE ADMEDIA DISTRIBUTION: SAVIOR OF THE WEB PRODUCTION COMPANY: MAN MOVIES &nbsp; JOSE - BICHAL MUHAMMED ANTONY - GAFOOR KUNNUMMAL SAIMON - NOUFAL MANNILKADAVU SUNNY - MUTAI SIDHU - RAFI ELETTIL MIDHUN - SAMEER VAVAD SIBI - MISBAH SHIMIJA MANSOOR FIROZ RISHAD SHAKIR MIDLAJ RIYAS NAJI SIDHEEQUE

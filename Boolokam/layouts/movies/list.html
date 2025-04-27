@@ -1,52 +1,49 @@
 {{ define "main" }}
-<div class="list-container movies-list">
-    <header class="section-header">
-        <h1>{{ .Title }}</h1>
-        {{ with .Description }}
-        <div class="section-description">{{ . | markdownify }}</div>
-        {{ end }}
-    </header>
+<div class="list-header">
+    <h1>{{ .Title }}</h1>
+    {{ with .Description }}
+    <p>{{ . }}</p>
+    {{ end }}
+</div>
 
-    <div class="grid-container movie-grid">
-        {{ range .Paginator.Pages }}
-        <div class="grid-item">
-            <div class="card movie-card">
-                {{ if .Params.image }}
-                <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
-                {{ else if .Params.poster }}
-                <img src="{{ .Params.poster | relURL }}" alt="{{ .Title }}">
-                {{ else }}
-                <img src="https://images.unsplash.com/photo-1579353977828-2a4eab540b9a" alt="{{ .Title }}">
+<div class="movie-list">
+    {{ range .Paginator.Pages }}
+    <div class="movie-item">
+        <a href="{{ .Permalink }}" class="movie-item-link" aria-label="View {{ .Title }}"></a>
+        <div class="movie-item-poster">
+            {{ if .Params.image }}
+            <img src="{{ .Params.image | relURL }}" alt="{{ .Title }} Poster">
+            {{ else if .Params.poster }}
+            <img src="{{ .Params.poster | relURL }}" alt="{{ .Title }} Poster">
+            {{ else }}
+            <img src="https://images.unsplash.com/photo-1579353977828-2a4eab540b9a" alt="{{ .Title }} Poster">
+            {{ end }}
+            
+            {{ if .Params.movie_genres }}
+            {{ range first 1 .Params.movie_genres }}
+            <span class="featured-category-tag">{{ . }}</span>
+            {{ end }}
+            {{ else if .Params.genres }}
+            {{ range first 1 .Params.genres }}
+            <span class="featured-category-tag">{{ . }}</span>
+            {{ end }}
+            {{ end }}
+        </div>
+        <div class="movie-item-details">
+            <h3 class="movie-item-title">{{ .Title }}</h3>
+            <div class="movie-item-meta">
+                {{ with .Params.release_year }}
+                <span class="movie-year">{{ . }}</span>
                 {{ end }}
-                <div class="card-content">
-                    <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-                    <div class="movie-meta">
-                        {{ with .Params.release_year }}
-                        <span class="movie-year">{{ . }}</span>
-                        {{ end }}
-                        
-                        {{ with .Params.duration }}
-                        <span class="movie-duration">{{ . }}</span>
-                        {{ end }}
-                        
-                        {{ with .Params.rating }}
-                        <span class="movie-rating">{{ . }}/10</span>
-                        {{ end }}
-                    </div>
-                    {{ with .Params.genres }}
-                    <div class="movie-genres">
-                        {{ range first 2 . }}
-                        <span class="genre-tag">{{ . }}</span>
-                        {{ end }}
-                    </div>
-                    {{ end }}
-                    <p>{{ .Summary }}</p>
-                </div>
+                
+                {{ with .Params.rating }}
+                <span class="movie-rating">{{ . }}/10</span>
+                {{ end }}
             </div>
         </div>
-        {{ end }}
     </div>
-
-    {{ template "_internal/pagination.html" . }}
+    {{ end }}
 </div>
+
+{{ template "_internal/pagination.html" . }}
 {{ end }} 

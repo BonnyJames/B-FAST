@@ -1,0 +1,25 @@
+---
+title: "മലയാളികൾക്ക് സുപരിചിതരായ നടീനടന്മാർ ഇവരെ അവതരിപ്പിച്ചാൽ എങ്ങനെ ഉണ്ടാവും ?"
+date: 2021-01-30T06:34:23
+draft: false
+categories: ["Society"]
+tags: ['Aaron Judge', 'Anoop Velayudhan', 'cartoon', 'mayavi']
+author: "jamesbright"
+---
+
+<strong><a href="https://wordpress-972788-3403151.cloudwaysapps.com/anoop-velayudhan-about-mayavi-cartoon/298043/bdd-343" rel="attachment wp-att-298044"><img class="alignleft size-full wp-image-298044" src="https://cdn.boolokam.com/articles/2021/01/bdd-342.jpg" alt="" width="739" height="360" /></a>Anoop Velayudhan</strong>
+
+മായാവിയെ അറിയാത്ത മലയാളി ഉണ്ടാവില്ല ഉറപ്പ്‌. 70, 80, 90കളിൽ ജനിച്ചവർക്കു മായാവി ഒരു ആവേശം തന്നെ ആയിരുന്നു. ഗൃഹാതുരത്വത്തോടെ അല്ലാതെ മായാവിയും ബാലരമയും ഒന്നും മനസിലേക്ക് വരില്ല. ആ കാലഘട്ടത്തിൽ കുട്ടികളെയും മുതിർന്നവരെയും അത്രക്ക് സ്വാധീനിച്ചിട്ടുള്ള ഒരു സീരീസ് ആണ് "മായാവി". എല്ലാം Cult Characters. പകരക്കാർ ഇല്ലാത്ത നാമധേയങ്ങൾ. മലയാള സിനിമയും അങ്ങനെ പല cult characters നേയും നമുക്കു സമ്മാനിച്ചിട്ടുണ്ട്. പവനായി, അഞ്ഞൂറാൻ, ജോൺ ഹോനായി, അനന്തൻ നമ്പ്യാർ, മാന്നാർ മത്തായി, മംഗലശ്ശേരി നീലകണ്ഠൻ അങ്ങനെ അനേകം. നാല് പതിറ്റാണ്ടിൽ ഏറെ ആയി നിലനിൽക്കുന്ന മായാവിയും മറ്റ് കഥാപാത്രങ്ങളും ബാലരമയിൽ മാത്രം ഒതുങ്ങാതെ വെള്ളിത്തിരയിലും തിളങ്ങുന്നത് ബാല്യകാലം മുതൽ സ്വപ്നം കണ്ടിട്ടുണ്ട്. ആ ഒരു കൗതുകത്തിൽ നിന്നും പിറവി എടുത്തതാണ് ഈ Reel Version കഥാപാത്രങ്ങൾ. മലയാളികൾക്ക് സുപരിചിതരായ നടീനടന്മാർ ഇവരെ അവതരിപ്പിച്ചാൽ എങ്ങനെ ഉണ്ടാവും എന്നൊരു കൗതുകം. ഇനിയും കഥാപാത്രങ്ങൾ വരാൻ ഉണ്ട്. എല്ലാ അഭിപ്രായങ്ങളും സ്വാഗതം.
+
+<img src="https://scontent.ftrv1-1.fna.fbcdn.net/v/t1.0-9/143593944_10159402042186209_976456148790521379_n.jpg?_nc_cat=109&amp;ccb=2&amp;_nc_sid=b9115d&amp;_nc_ohc=qpIGZQ2PxLUAX-jf_v-&amp;_nc_ht=scontent.ftrv1-1.fna&amp;oh=90961a0e396556f0826d0edeaed1f8a2&amp;oe=603A1F36" alt="May be an illustration of 1 person and text that says &quot;ാപ്പി&quot;" />
+
+<img src="https://scontent.ftrv1-1.fna.fbcdn.net/v/t1.0-9/142743156_10159402042256209_2175708274696848572_n.jpg?_nc_cat=110&amp;ccb=2&amp;_nc_sid=b9115d&amp;_nc_ohc=NrBZhqCtilYAX_3I4AB&amp;_nc_ht=scontent.ftrv1-1.fna&amp;oh=09fcca4df18226a66e68fb3ecf6d1634&amp;oe=603C5F72" alt="May be an illustration of 1 person and text" />
+
+<img src="https://scontent.ftrv1-1.fna.fbcdn.net/v/t1.0-9/142680012_10159402042321209_5450919763595023819_n.jpg?_nc_cat=106&amp;ccb=2&amp;_nc_sid=b9115d&amp;_nc_ohc=rFniZtXOaSwAX9Gxqqm&amp;_nc_ht=scontent.ftrv1-1.fna&amp;oh=95d0ff041c4c0cd71ddecc7a27eff055&amp;oe=603C591B" alt="May be an image of 1 person, bird and text" />
+
+<img src="https://scontent.ftrv1-1.fna.fbcdn.net/v/t1.0-9/142401323_10159402042401209_579219329621549021_n.jpg?_nc_cat=100&amp;ccb=2&amp;_nc_sid=b9115d&amp;_nc_ohc=grmNaVNuIAcAX99G_Ug&amp;_nc_ht=scontent.ftrv1-1.fna&amp;oh=deaf9c6e68807f21a3ac33b12b3f0f03&amp;oe=6039536B" alt="May be a cartoon of 2 people and beard" />
+
+**
+
+
+![മലയാളികൾക്ക് സുപരിചിതരായ നടീനടന്മാർ ഇവരെ അവതരിപ്പിച്ചാൽ എങ്ങനെ ഉണ്ടാവും ?](https://cdn.boolokam.com/articles/2021/01/bdd-342.jpg)**[](https://wordpress-972788-3403151.cloudwaysapps.com/anoop-velayudhan-about-mayavi-cartoon/298043/bdd-343)Anoop Velayudhan** മായാവിയെ അറിയാത്ത മലയാളി ഉണ്ടാവില്ല ഉറപ്പ്‌. 70, 80, 90കളിൽ ജനിച്ചവർക്കു മായാവി ഒരു ആവേശം തന്നെ ആയിരുന്നു. ഗൃഹാതുരത്വത്തോടെ അല്ലാതെ മായാവിയും ബാലരമയും ഒന്നും മനസിലേക്ക് വരില്ല. ആ കാലഘട്ടത്തിൽ കുട്ടികളെയും മുതിർന്നവരെയും അത്രക്ക് സ്വാധീനിച്ചിട്ടുള്ള ഒരു സീരീസ് ആണ് "മായാവി". എല്ലാം Cult Characters. പകരക്കാർ ഇല്ലാത്ത നാമധേയങ്ങൾ. മലയാള സിനിമയും അങ്ങനെ പല cult characters നേയും നമുക്കു സമ്മാനിച്ചിട്ടുണ്ട്. പവനായി, അഞ്ഞൂറാൻ, ജോൺ ഹോനായി, അനന്തൻ നമ്പ്യാർ, മാന്നാർ മത്തായി, മംഗലശ്ശേരി നീലകണ്ഠൻ അങ്ങനെ അനേകം. നാല് പതിറ്റാണ്ടിൽ ഏറെ ആയി നിലനിൽക്കുന്ന മായാവിയും മറ്റ് കഥാപാത്രങ്ങളും ബാലരമയിൽ മാത്രം ഒതുങ്ങാതെ വെള്ളിത്തിരയിലും തിളങ്ങുന്നത് ബാല്യകാലം മുതൽ സ്വപ്നം കണ്ടിട്ടുണ്ട്. ആ ഒരു കൗതുകത്തിൽ നിന്നും പിറവി എടുത്തതാണ് ഈ Reel Version കഥാപാത്രങ്ങൾ. മലയാളികൾക്ക് സുപരിചിതരായ നടീനടന്മാർ ഇവരെ അവതരിപ്പിച്ചാൽ എങ്ങനെ ഉണ്ടാവും എന്നൊരു കൗതുകം. ഇനിയും കഥാപാത്രങ്ങൾ വരാൻ ഉണ്ട്. എല്ലാ അഭിപ്രായങ്ങളും സ്വാഗതം. ![May be an illustration of 1 person and text that says "ാപ്പി"](https://scontent.ftrv1-1.fna.fbcdn.net/v/t1.0-9/143593944_10159402042186209_976456148790521379_n.jpg?_nc_cat=109&ccb=2&_nc_sid=b9115d&_nc_ohc=qpIGZQ2PxLUAX-jf_v-&_nc_ht=scontent.ftrv1-1.fna&oh=90961a0e396556f0826d0edeaed1f8a2&oe=603A1F36) ![May be an illustration of 1 person and text](https://scontent.ftrv1-1.fna.fbcdn.net/v/t1.0-9/142743156_10159402042256209_2175708274696848572_n.jpg?_nc_cat=110&ccb=2&_nc_sid=b9115d&_nc_ohc=NrBZhqCtilYAX_3I4AB&_nc_ht=scontent.ftrv1-1.fna&oh=09fcca4df18226a66e68fb3ecf6d1634&oe=603C5F72) ![May be an image of 1 person, bird and text](https://scontent.ftrv1-1.fna.fbcdn.net/v/t1.0-9/142680012_10159402042321209_5450919763595023819_n.jpg?_nc_cat=106&ccb=2&_nc_sid=b9115d&_nc_ohc=rFniZtXOaSwAX9Gxqqm&_nc_ht=scontent.ftrv1-1.fna&oh=95d0ff041c4c0cd71ddecc7a27eff055&oe=603C591B) ![May be a cartoon of 2 people and beard](https://scontent.ftrv1-1.fna.fbcdn.net/v/t1.0-9/142401323_10159402042401209_579219329621549021_n.jpg?_nc_cat=100&ccb=2&_nc_sid=b9115d&_nc_ohc=grmNaVNuIAcAX99G_Ug&_nc_ht=scontent.ftrv1-1.fna&oh=deaf9c6e68807f21a3ac33b12b3f0f03&oe=6039536B) **

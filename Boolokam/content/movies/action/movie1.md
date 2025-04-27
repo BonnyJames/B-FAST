@@ -3,7 +3,7 @@ title: "Fighter: The Sky Warriors"
 date: 2023-12-12T18:30:00+05:30
 draft: false
 categories: ["Movies"]
-genres: ["Action", "Drama", "War"]
+movie_genres: ["Action", "Drama", "War"]
 tags: ["Hrithik Roshan", "Fighter", "Indian Air Force", "Aerial Combat"]
 image: "https://images.unsplash.com/photo-1579353977828-2a4eab540b9a"
 release_year: 2024
@@ -13,6 +13,7 @@ director: "Siddharth Anand"
 cast: ["Hrithik Roshan", "Deepika Padukone", "Anil Kapoor"]
 trailer_id: "9R_r-_OWYjs"
 summary: "An elite squadron of Indian Air Force pilots faces a challenging mission that tests their courage, patriotism and the very limits of aerial combat."
+genres: ["Action", "Drama", "War"]
 ---
 
 # Fighter: The Sky Warriors

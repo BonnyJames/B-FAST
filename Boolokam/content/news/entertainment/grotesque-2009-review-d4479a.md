@@ -1,0 +1,23 @@
+---
+title: "സ്വന്തം റിസ്കിൽ മാത്രം ഈ സിനിമ കാണുക"
+date: 2022-11-21T10:01:38
+draft: false
+categories: ["Entertainment"]
+tags: ['Grotesque', 'Unni Krishnan TR']
+author: "Beaumaris"
+---
+
+<strong>Grotesque (2009)<span class="x3nfvp2 x1j61x8r x1fcty0u xdj266r xhhsvwb xat24cr xgzva0m xxymvpz xlup9mm x1kky2od"><img src="https://static.xx.fbcdn.net/images/emoji.php/v9/t3a/1.5/16/1f51e.png" alt="????" width="16" height="16" /></span><span class="x3nfvp2 x1j61x8r x1fcty0u xdj266r xhhsvwb xat24cr xgzva0m xxymvpz xlup9mm x1kky2od"><img src="https://static.xx.fbcdn.net/images/emoji.php/v9/t3a/1.5/16/1f51e.png" alt="????" width="16" height="16" /></span><span class="x3nfvp2 x1j61x8r x1fcty0u xdj266r xhhsvwb xat24cr xgzva0m xxymvpz xlup9mm x1kky2od"><img src="https://static.xx.fbcdn.net/images/emoji.php/v9/t3a/1.5/16/1f51e.png" alt="????" width="16" height="16" /></span><span class="x3nfvp2 x1j61x8r x1fcty0u xdj266r xhhsvwb xat24cr xgzva0m xxymvpz xlup9mm x1kky2od"><img src="https://static.xx.fbcdn.net/images/emoji.php/v9/t3a/1.5/16/1f51e.png" alt="????" width="16" height="16" /></span></strong>
+
+<strong>Unni Krishnan TR</strong>
+
+2009 ജപ്പാനിൽ റിലീസായ എക്സ്ട്രീം വയലെൻസുള്ള സിനിമയാണിത്. സ്വന്തം റിസ്കിൽ മാത്രം ഈ സിനിമ കാണുക. യുവ ദമ്പതികളായ അക്കി മിയാസിറ്റയും കസുവോ കോജിമയും റോഡിൽ കൂടി നടന്നുകൊണ്ടിരിക്കെ ഒരു അപരിചിതൻ അവരെ തലയ്ക്കടിച്ചു വീഴ്ത്തുന്നു. ബോധം വന്നപ്പോൾ കാഴ്ചകണ്ട് യുവദമ്പതികൾ ഞെട്ടി. പ്ലാസ്റ്റിക് പൊതിഞ്ഞ ഭിത്തികളുള്ള ഒരു നിലവറയിൽ അവരെ ചങ്ങലകൊണ്ട് അപരിചിതൻ ബന്ധിച്ചിരിക്കുന്നു. സൈക്കോ ആയ അപരിചിതൻ ആ യുവദമ്പതികളെ പല മൃഗീയമായ പരീക്ഷണങ്ങൾക്കും വിധേയമാക്കുന്നു. തുടർന്ന് കാണുക. human centipede സിനിമകളിൽ പോലും കാണാത്ത വയലൻസാണ് സിനിമയിൽ ഉള്ളത്. ധൈര്യമുള്ളവർ മാത്രം സിനിമ കാണുക.
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+[embed]https://youtu.be/28PGsceOByM[/embed]
+
+
+![സ്വന്തം റിസ്കിൽ മാത്രം ഈ സിനിമ കാണുക](https://static.xx.fbcdn.net/images/emoji.php/v9/t3a/1.5/16/1f51e.png)**Grotesque (2009)** **Unni Krishnan TR** 2009 ജപ്പാനിൽ റിലീസായ എക്സ്ട്രീം വയലെൻസുള്ള സിനിമയാണിത്. സ്വന്തം റിസ്കിൽ മാത്രം ഈ സിനിമ കാണുക. യുവ ദമ്പതികളായ അക്കി മിയാസിറ്റയും കസുവോ കോജിമയും റോഡിൽ കൂടി നടന്നുകൊണ്ടിരിക്കെ ഒരു അപരിചിതൻ അവരെ തലയ്ക്കടിച്ചു വീഴ്ത്തുന്നു. ബോധം വന്നപ്പോൾ കാഴ്ചകണ്ട് യുവദമ്പതികൾ ഞെട്ടി. പ്ലാസ്റ്റിക് പൊതിഞ്ഞ ഭിത്തികളുള്ള ഒരു നിലവറയിൽ അവരെ ചങ്ങലകൊണ്ട് അപരിചിതൻ ബന്ധിച്ചിരിക്കുന്നു. സൈക്കോ ആയ അപരിചിതൻ ആ യുവദമ്പതികളെ പല മൃഗീയമായ പരീക്ഷണങ്ങൾക്കും വിധേയമാക്കുന്നു. തുടർന്ന് കാണുക. human centipede സിനിമകളിൽ പോലും കാണാത്ത വയലൻസാണ് സിനിമയിൽ ഉള്ളത്. ധൈര്യമുള്ളവർ മാത്രം സിനിമ കാണുക. &nbsp; &nbsp; [embed]https://youtu.be/28PGsceOByM[/embed]

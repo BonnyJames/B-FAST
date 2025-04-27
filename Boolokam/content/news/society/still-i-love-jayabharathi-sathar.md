@@ -1,0 +1,21 @@
+---
+title: "ഞാൻ ഇപ്പോഴും ജയഭാരതിയെ പ്രണയിക്കുന്നു"
+date: 2019-09-17T11:48:58
+draft: false
+categories: ["Society"]
+tags: ['jayabharathi', 'sathar']
+author: "Beaumaris"
+---
+
+<a href="https://wordpress-972788-3403151.cloudwaysapps.com/still-i-love-jayabharathi-sathar/244806/hai-588" rel="attachment wp-att-244807"><img class="alignleft size-full wp-image-244807" src="https://cdn.boolokam.com/articles/2019/09/hai-362.jpg" alt="" width="784" height="410" /></a>
+<h5 id="js_5sy" class="_7tae _14f3 _14f5 _5pbw _5vra" data-ft="{&quot;tn&quot;:&quot;C&quot;}"><span style="color: #0000ff;"><strong><span class="fwn fcg"><span class="fwb fcg" data-ft="{&quot;tn&quot;:&quot;;&quot;}"><a id="js_6lb" style="color: #0000ff;" title="Manoj Vijayaraj" href="https://www.facebook.com/manoj.vijayaraj?__tn__=%2CdC-R-R&amp;eid=ARBvUmsBanjkuakiz5-2jW2FGNxwL72RBTO9xGVyz3ShYb-uuit_XAHILXgmpuXQ59xfBCE0H3BvxfmW&amp;hc_ref=ARRhTPXzIqYVbUMaOp7zXXmOOuuG3orFrylcFXdW6W4VfDHA4INdQXZyNvMBNnnAjgM&amp;fref=nf" data-hovercard="/ajax/hovercard/user.php?id=100001362849347&amp;extragetparams=%7B%22__tn__%22%3A%22%2CdC-R-R%22%2C%22eid%22%3A%22ARBvUmsBanjkuakiz5-2jW2FGNxwL72RBTO9xGVyz3ShYb-uuit_XAHILXgmpuXQ59xfBCE0H3BvxfmW%22%2C%22hc_ref%22%3A%22ARRhTPXzIqYVbUMaOp7zXXmOOuuG3orFrylcFXdW6W4VfDHA4INdQXZyNvMBNnnAjgM%22%2C%22fref%22%3A%22nf%22%7D" data-hovercard-prefer-more-content-show="1" data-hovercard-referer="ARRhTPXzIqYVbUMaOp7zXXmOOuuG3orFrylcFXdW6W4VfDHA4INdQXZyNvMBNnnAjgM" aria-describedby="u_7q_1" aria-owns="">Manoj Vijayaraj</a></span></span></strong></span></h5>
+''ഞാൻ ഇപ്പോഴും ജയഭാരതിയെ പ്രണയിക്കുന്നു.അത് അവസാനം വരെ ഉണ്ടാകും.അവരെ വിവാഹം കഴിക്കുമ്പോൾ ഞാൻ സിനിമയിൽ ഒന്നുമല്ല. ചെറിയ വേഷത്തിൽ അഭിനയിക്കുന്ന നടൻ. ജയഭാരതി പ്രശസ്തിയായ നായികയും. ആറു വർഷം മുൻപ് ആലുവ യുസി കോളേജിലിരുന്നു പറയുമ്പോൾ സത്താറിന്റെ വാക്കുകളിൽ ജയഭാരതിയോടുള്ള പ്രണയം നിറഞ്ഞു നിന്നിരുന്നു.''ജയഭാരതിയെ ഇപ്പോഴും എന്റെ ഭാര്യയാണ്. എന്രെ മകന്റെ അമ്മയാണ്. സിനിമയിൽ തിരക്കേറിയ സമയത്താണ് ഞാൻ ജയഭാരതിയെ വിവാഹം കഴിക്കുന്നത്.മലയാള ചലച്ചിത്ര ലോകം നടുങ്ങി.എനിക്ക് ശത്രുക്കളായി .അവസരം കുറഞ്<span class="text_exposed_show">ഞു.ഞാൻ തീർത്തും ഒതുക്കപ്പെട്ടു.വല്ലപ്പോഴും ആരെങ്കിലും വിളിച്ചാലായി.</span>
+
+<span class="text_exposed_show">ജയഭാരിയുമായി വേർപിരിയുന്നതിന് ഒരിക്കലും അവരെ ഞാൻ കുറ്റപ്പെടുത്തില്ല. ജയഭാരതിയുടെ സൗന്ദര്യം ഇന്നത്തെ നായികമാർക്കുണ്ടോ? പഴയകാല നായികമാർക്കുണ്ടോ? ചോദിച്ചു സത്താർ ചിരിച്ചു. യുസി കോളേജിൽ പഠിക്കുമ്പോഴാണ് സത്താറിന്റെ സിനിമാ പ്രവേശം. അഭിമുഖം കേരള കൗമുദി ആഴ്ചപ്പതിപ്പിൽ വന്നു. കുറച്ചു ദിവസം കഴിഞ്ഞു സത്താർ ഇക്ക വിളിച്ചു. വിളിക്കേണ്ട ആൾ വിളിച്ചെന്ന് പറഞ്ഞു ഉറക്കെ ചിരിച്ചു. ജയഭാരതി വിളിച്ചതിന്റെ സന്തോഷം. ക്രിഷ് (മകൻ) വന്നപ്പോൾ മാഗസിൻ കൊടുത്തുവിട്ടു. ഇടയ്ക്ക് ഇക്ക വിളിക്കുമായിരുന്നു. ജീവിതത്തിൽ അഭിനയിക്കാൻ അറിയാത്ത മനുഷ്യൻ. പറയാൻ ഇനിയും ഒരുപാട് കാര്യം ബാക്കിവച്ച് ഇക്ക പോയി.</span>
+
+
+![ഞാൻ ഇപ്പോഴും ജയഭാരതിയെ പ്രണയിക്കുന്നു](https://cdn.boolokam.com/articles/2019/09/hai-362.jpg)[](https://wordpress-972788-3403151.cloudwaysapps.com/still-i-love-jayabharathi-sathar/244806/hai-588)
+
+##### **[Manoj Vijayaraj](https://www.facebook.com/manoj.vijayaraj?__tn__=%2CdC-R-R&eid=ARBvUmsBanjkuakiz5-2jW2FGNxwL72RBTO9xGVyz3ShYb-uuit_XAHILXgmpuXQ59xfBCE0H3BvxfmW&hc_ref=ARRhTPXzIqYVbUMaOp7zXXmOOuuG3orFrylcFXdW6W4VfDHA4INdQXZyNvMBNnnAjgM&fref=nf "Manoj Vijayaraj")**
+
+''ഞാൻ ഇപ്പോഴും ജയഭാരതിയെ പ്രണയിക്കുന്നു.അത് അവസാനം വരെ ഉണ്ടാകും.അവരെ വിവാഹം കഴിക്കുമ്പോൾ ഞാൻ സിനിമയിൽ ഒന്നുമല്ല. ചെറിയ വേഷത്തിൽ അഭിനയിക്കുന്ന നടൻ. ജയഭാരതി പ്രശസ്തിയായ നായികയും. ആറു വർഷം മുൻപ് ആലുവ യുസി കോളേജിലിരുന്നു പറയുമ്പോൾ സത്താറിന്റെ വാക്കുകളിൽ ജയഭാരതിയോടുള്ള പ്രണയം നിറഞ്ഞു നിന്നിരുന്നു.''ജയഭാരതിയെ ഇപ്പോഴും എന്റെ ഭാര്യയാണ്. എന്രെ മകന്റെ അമ്മയാണ്. സിനിമയിൽ തിരക്കേറിയ സമയത്താണ് ഞാൻ ജയഭാരതിയെ വിവാഹം കഴിക്കുന്നത്.മലയാള ചലച്ചിത്ര ലോകം നടുങ്ങി.എനിക്ക് ശത്രുക്കളായി .അവസരം കുറഞ്ഞു.ഞാൻ തീർത്തും ഒതുക്കപ്പെട്ടു.വല്ലപ്പോഴും ആരെങ്കിലും വിളിച്ചാലായി. ജയഭാരിയുമായി വേർപിരിയുന്നതിന് ഒരിക്കലും അവരെ ഞാൻ കുറ്റപ്പെടുത്തില്ല. ജയഭാരതിയുടെ സൗന്ദര്യം ഇന്നത്തെ നായികമാർക്കുണ്ടോ? പഴയകാല നായികമാർക്കുണ്ടോ? ചോദിച്ചു സത്താർ ചിരിച്ചു. യുസി കോളേജിൽ പഠിക്കുമ്പോഴാണ് സത്താറിന്റെ സിനിമാ പ്രവേശം. അഭിമുഖം കേരള കൗമുദി ആഴ്ചപ്പതിപ്പിൽ വന്നു. കുറച്ചു ദിവസം കഴിഞ്ഞു സത്താർ ഇക്ക വിളിച്ചു. വിളിക്കേണ്ട ആൾ വിളിച്ചെന്ന് പറഞ്ഞു ഉറക്കെ ചിരിച്ചു. ജയഭാരതി വിളിച്ചതിന്റെ സന്തോഷം. ക്രിഷ് (മകൻ) വന്നപ്പോൾ മാഗസിൻ കൊടുത്തുവിട്ടു. ഇടയ്ക്ക് ഇക്ക വിളിക്കുമായിരുന്നു. ജീവിതത്തിൽ അഭിനയിക്കാൻ അറിയാത്ത മനുഷ്യൻ. പറയാൻ ഇനിയും ഒരുപാട് കാര്യം ബാക്കിവച്ച് ഇക്ക പോയി.

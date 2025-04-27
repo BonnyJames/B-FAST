@@ -1,0 +1,21 @@
+---
+title: "അനശ്വരയുടെ ഗ്ലാമർ ലുക്കിലുള്ള പുതിയ ചിത്രങ്ങളാണ് ശ്രദ്ധനേടുന്നത്"
+date: 2022-10-21T15:44:45
+draft: false
+categories: ["Entertainment"]
+tags: ['actress', 'Anaswara Rajan', 'GLAMOUR PHOTO']
+author: "Beaumaris"
+---
+
+മഞ്ജു വാര്യരുടെ മകളായി ആദ്യ സിനിമയിൽ അഭിനയിക്കുകയും മൂന്നമത്തെ ചിത്രത്തിൽ തന്നെ നായികയായി മാറുകയും ചെയ്ത താരമാണ് നടി അനശ്വര രാജൻ. ഉദാഹരണം സുജാതയിലെ ആതിര കൃഷ്ണനിൽ നിന്ന് തണ്ണീർമത്തൻ ദിനങ്ങളിലെ കീർത്തി എന്ന റോളിലേക്ക് എത്താൻ അനശ്വരയ്ക്ക് ഒരു വർഷത്തെ ദൂരം മാത്രമേ ഉണ്ടായിരുന്നോളൂ. അനശ്വര പ്രധാന വേഷത്തിൽ എത്തിയ സൂപ്പർ ശരണ്യയുടെ സൂപ്പർ വിജയം നേടിയിരുന്നു. അനശ്വര പ്രധാനകഥാപാത്രമായ മൈക്കും പ്രേക്ഷക നിരൂപ പ്രശംസ നേടിയിരുന്നു. മൈ സാന്റാ, വാങ്ക്, ആദ്യരാത്രി, അവിയൽ, എവിടെ, മൈക്ക് തുടങ്ങിയ സിനിമകളിലൂടെ അനശ്വര തന്റെ താരപദവി അരക്കിട്ടുറപ്പിച്ചു.
+
+<img class="size-full wp-image-355648 aligncenter" src="https://cdn.boolokam.com/articles/2022/10/fwfgggg-6.jpg" alt="" width="627" height="769" />
+
+തമിഴിലും ഹിന്ദിയിലും അരങ്ങേറാൻ ഒരുങ്ങുകയാണ് അനശ്വര. ആദ്യ തമിഴ് സിനിമ രംഗിയുടെ ഷൂട്ടിംഗ് പൂർത്തിയായി, താരത്തിന്റെ ആദ്യ ഹിന്ദി ചിത്രത്തിന്റെ ഷൂട്ടിംഗ് ആരംഭിക്കാനും പോവുകയാണ്.ഇനി പാൻ ഇന്ത്യ ലെവലിലേക്ക് അനശ്വര എത്തുകയാണ്. ഇത്രയൊക്കെ പ്രശസ്തിയുടെ കൊടുമുടിയിൽ നിൽക്കുകയാണെങ്കിലും താരം ഇപ്പോഴും സിംപിളാണ്. അനശ്വരയുടെ വളരെ സിംപിൾ ലുക്കിലുള്ള പുതിയ ചിത്രങ്ങളാണ് ശ്രദ്ധനേടുന്നത്.
+
+<img class="size-full wp-image-355647 aligncenter" src="https://cdn.boolokam.com/articles/2022/10/anaswaran-rajan-new-11.jpg" alt="" width="643" height="789" /> <img class="size-full wp-image-355649 aligncenter" src="https://cdn.boolokam.com/articles/2022/10/kyklllll.jpg" alt="" width="585" height="753" /> <img class="size-full wp-image-355650 aligncenter" src="https://cdn.boolokam.com/articles/2022/10/kykyll.jpg" alt="" width="629" height="811" /> <img class="size-full wp-image-355651 aligncenter" src="https://cdn.boolokam.com/articles/2022/10/r2ttyyy.jpg" alt="" width="633" height="817" /> <img class="size-full wp-image-355652 aligncenter" src="https://cdn.boolokam.com/articles/2022/10/r2tyyuuuu.jpg" alt="" width="639" height="809" /> <img class="size-full wp-image-355653 aligncenter" src="https://cdn.boolokam.com/articles/2022/10/r2tyyyuuii.jpg" alt="" width="650" height="803" /> <img class="size-full wp-image-355654 aligncenter" src="https://cdn.boolokam.com/articles/2022/10/r4.jpg" alt="" width="585" height="765" />
+
+***
+
+
+![അനശ്വരയുടെ ഗ്ലാമർ ലുക്കിലുള്ള പുതിയ ചിത്രങ്ങളാണ് ശ്രദ്ധനേടുന്നത്](https://cdn.boolokam.com/articles/2022/10/fwfgggg-6.jpg)മഞ്ജു വാര്യരുടെ മകളായി ആദ്യ സിനിമയിൽ അഭിനയിക്കുകയും മൂന്നമത്തെ ചിത്രത്തിൽ തന്നെ നായികയായി മാറുകയും ചെയ്ത താരമാണ് നടി അനശ്വര രാജൻ. ഉദാഹരണം സുജാതയിലെ ആതിര കൃഷ്ണനിൽ നിന്ന് തണ്ണീർമത്തൻ ദിനങ്ങളിലെ കീർത്തി എന്ന റോളിലേക്ക് എത്താൻ അനശ്വരയ്ക്ക് ഒരു വർഷത്തെ ദൂരം മാത്രമേ ഉണ്ടായിരുന്നോളൂ. അനശ്വര പ്രധാന വേഷത്തിൽ എത്തിയ സൂപ്പർ ശരണ്യയുടെ സൂപ്പർ വിജയം നേടിയിരുന്നു. അനശ്വര പ്രധാനകഥാപാത്രമായ മൈക്കും പ്രേക്ഷക നിരൂപ പ്രശംസ നേടിയിരുന്നു. മൈ സാന്റാ, വാങ്ക്, ആദ്യരാത്രി, അവിയൽ, എവിടെ, മൈക്ക് തുടങ്ങിയ സിനിമകളിലൂടെ അനശ്വര തന്റെ താരപദവി അരക്കിട്ടുറപ്പിച്ചു. തമിഴിലും ഹിന്ദിയിലും അരങ്ങേറാൻ ഒരുങ്ങുകയാണ് അനശ്വര. ആദ്യ തമിഴ് സിനിമ രംഗിയുടെ ഷൂട്ടിംഗ് പൂർത്തിയായി, താരത്തിന്റെ ആദ്യ ഹിന്ദി ചിത്രത്തിന്റെ ഷൂട്ടിംഗ് ആരംഭിക്കാനും പോവുകയാണ്.ഇനി പാൻ ഇന്ത്യ ലെവലിലേക്ക് അനശ്വര എത്തുകയാണ്. ഇത്രയൊക്കെ പ്രശസ്തിയുടെ കൊടുമുടിയിൽ നിൽക്കുകയാണെങ്കിലും താരം ഇപ്പോഴും സിംപിളാണ്. അനശ്വരയുടെ വളരെ സിംപിൾ ലുക്കിലുള്ള പുതിയ ചിത്രങ്ങളാണ് ശ്രദ്ധനേടുന്നത്. ![](https://cdn.boolokam.com/articles/2022/10/anaswaran-rajan-new-11.jpg) ![](https://cdn.boolokam.com/articles/2022/10/kyklllll.jpg) ![](https://cdn.boolokam.com/articles/2022/10/kykyll.jpg) ![](https://cdn.boolokam.com/articles/2022/10/r2ttyyy.jpg) ![](https://cdn.boolokam.com/articles/2022/10/r2tyyuuuu.jpg) ![](https://cdn.boolokam.com/articles/2022/10/r2tyyyuuii.jpg) ![](https://cdn.boolokam.com/articles/2022/10/r4.jpg) ***

@@ -1,47 +1,61 @@
 {{ define "main" }}
-<article class="single-post">
+<article class="post">
     <header class="post-header">
         <h1 class="post-title">{{ .Title }}</h1>
         <div class="post-meta">
             {{ if .Params.categories }}
-            {{ range first 1 .Params.categories }}
-            <a href="{{ if $.Section }}{{ printf "%s/%s" $.Section (. | urlize) | relURL }}{{ else }}{{ printf "categories/%s" (. | urlize) | relURL }}{{ end }}" class="category-badge">{{ . }}</a>
+                <span class="category">
+                {{ range .Params.categories }}
+                    <a href="/categories/{{ . | urlize }}">{{ . }}</a>
+                {{ end }}
+                </span>
             {{ end }}
-            {{ end }}
-            <span class="post-date">{{ .Date.Format "Jan 2, 2006" }}</span>
+            <span class="date">{{ .Date.Format "Jan 2, 2006" }}</span>
             {{ if .Params.author }}
-            <span class="post-author">by <a href="{{ printf "authors/%s" (.Params.author | urlize) | relURL }}">{{ .Params.author }}</a></span>
+                <span class="author">By {{ .Params.author }}</span>
             {{ end }}
         </div>
+        
+        {{ if or .Params.image .Params.featured_image }}
+            <div class="post-featured-image">
+                {{ if .Params.image }}
+                    {{ if hasPrefix .Params.image "http" }}
+                        <img src="{{ .Params.image }}" alt="{{ .Title }}">
+                    {{ else }}
+                        <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
+                    {{ end }}
+                {{ else if .Params.featured_image }}
+                    {{ if hasPrefix .Params.featured_image "http" }}
+                        <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
+                    {{ else }}
+                        <img src="{{ .Params.featured_image | relURL }}" alt="{{ .Title }}">
+                    {{ end }}
+                {{ end }}
+            </div>
+        {{ end }}
     </header>
-    
-    {{ if .Params.featured_image }}
-    <div class="post-featured-image">
-        <img src="{{ .Params.featured_image | relURL }}" alt="{{ .Title }}">
-    </div>
-    {{ end }}
-    
+
     <div class="post-content">
         {{ .Content }}
     </div>
-    
+
     <footer class="post-footer">
         {{ with .Params.tags }}
-        <div class="post-tags">
-            <strong>Tags:</strong>
-            {{ range . }}
-            <a href="{{ "tags/" | relURL }}{{ . | urlize }}" class="tag">{{ . }}</a>
-            {{ end }}
-        </div>
+            <div class="post-tags">
+                <span>Tags:</span>
+                {{ range . }}
+                    <a href="/tags/{{ . | urlize }}">{{ . }}</a>
+                {{ end }}
+            </div>
         {{ end }}
         
         {{ with .Params.categories }}
-        <div class="post-categories">
-            <strong>Categories:</strong>
-            {{ range . }}
-            <a href="{{ if eq $.Section "news" }}{{ printf "news/%s" (. | urlize) | relURL }}{{ else }}{{ printf "categories/%s" (. | urlize) | relURL }}{{ end }}" class="category-badge">{{ . }}</a>
-            {{ end }}
-        </div>
+            <div class="post-categories">
+                <span>Categories:</span>
+                {{ range . }}
+                    <a href="/categories/{{ . | urlize }}">{{ . }}</a>
+                {{ end }}
+            </div>
         {{ end }}
     </footer>
 </article>

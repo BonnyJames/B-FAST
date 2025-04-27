@@ -1,0 +1,81 @@
+---
+title: "എല്ലാ സ്ത്രീകളും രാജ്ഞിമാരാണ്, ഞങ്ങൾക്കെല്ലാവർക്കും വ്യത്യസ്തമായ കാര്യങ്ങൾ വാഗ്ദാനം ചെയ്യാൻ ഉണ്ട്. ആരാധകരുടെ മനം കീഴടക്കുന്ന ഫോട്ടോഷൂട്ടും ആയി ഭാവന."
+date: 2022-05-09T08:50:46
+draft: false
+categories: ["Entertainment"]
+tags: ['Actress Bhavana', 'Featured']
+author: "safwan"
+---
+
+<!-- wp:paragraph -->
+<p>മലയാളികളുടെ പ്രിയതാരം ആണ് ഭാവന. കുറച്ചുകാലമായി സിനിമയിൽ നിന്നും വിട്ടു നിൽക്കുന്ന താരം വീണ്ടും മലയാള സിനിമയിലേക്ക് തിരിച്ചുവരാൻ ഒരുങ്ങുകയാണ്. സിനിമയിൽ സജീവമല്ലെങ്കിലും താരം സോഷ്യൽ മീഡിയയിൽ സജീവമാണ്. ഇടയ്ക്കിടയ്ക്ക് ആരാധകരുടെ മനസ്സ് കീഴടക്കുന്ന ഫോട്ടോഷൂട്ടും ആയി താരം അവതരിപ്പിക്കാറുണ്ട്. ഇപ്പോഴിതാ അത്തരത്തിലുള്ള ഫോട്ടോഷൂട്ട്മായി വീണ്ടും എത്തിയിരിക്കുകയാണ് താരം. താരത്തിൻ്റെ ചിത്രങ്ങൾ കാണാം...</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"id":333406,"sizeSlug":"large"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.boolokam.com/articles/2022/05/280176729_1200838680734353_2980702896017560845_n.jpg" alt="" class="wp-image-333406"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":333407} -->
+<figure class="wp-block-image"><img src="https://cdn.boolokam.com/articles/2022/05/280215680_527449615684839_8808015249282815561_n.jpg" alt="" class="wp-image-333407"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":333410} -->
+<figure class="wp-block-image"><img src="https://cdn.boolokam.com/articles/2022/05/280124304_699758107912338_2166416871030140767_n.jpg" alt="" class="wp-image-333410"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":333408} -->
+<figure class="wp-block-image"><img src="https://cdn.boolokam.com/articles/2022/05/280285738_145166438053537_2851152425489037946_n.jpg" alt="" class="wp-image-333408"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":333409} -->
+<figure class="wp-block-image"><img src="https://cdn.boolokam.com/articles/2022/05/280348946_328127316007159_721925783354599368_n.jpg" alt="" class="wp-image-333409"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":333413} -->
+<figure class="wp-block-image"><img src="https://cdn.boolokam.com/articles/2022/05/278544330_127541226554406_3222331428797835406_n.jpg" alt="" class="wp-image-333413"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":333414} -->
+<figure class="wp-block-image"><img src="https://cdn.boolokam.com/articles/2022/05/280240241_963038614387349_9034309153493988711_n.jpg" alt="" class="wp-image-333414"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":333411} -->
+<figure class="wp-block-image"><img src="https://cdn.boolokam.com/articles/2022/05/280267329_1011697589475016_2704295588687892114_n.jpg" alt="" class="wp-image-333411"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":333422,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://cdn.boolokam.com/articles/2022/05/image_editor_output_image-1737635614-1652086163630.jpg" alt="" class="wp-image-333422"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":333416} -->
+<figure class="wp-block-image"><img src="https://cdn.boolokam.com/articles/2022/05/280199349_527411485647334_2103002335401742017_n.jpg" alt="" class="wp-image-333416"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":333415} -->
+<figure class="wp-block-image"><img src="https://cdn.boolokam.com/articles/2022/05/279971526_2799796510327387_4474396099387798635_n.jpg" alt="" class="wp-image-333415"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":333417} -->
+<figure class="wp-block-image"><img src="https://cdn.boolokam.com/articles/2022/05/280261222_142542951666341_7057714507172486379_n.jpg" alt="" class="wp-image-333417"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":333421} -->
+<figure class="wp-block-image"><img src="https://cdn.boolokam.com/articles/2022/05/280099006_945498026120096_7595333024221425591_n.jpg" alt="" class="wp-image-333421"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":333419} -->
+<figure class="wp-block-image"><img src="https://cdn.boolokam.com/articles/2022/05/280186840_1037147060563165_7755104558370697705_n.jpg" alt="" class="wp-image-333419"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":333418} -->
+<figure class="wp-block-image"><img src="https://cdn.boolokam.com/articles/2022/05/280250692_3243942172592633_3157064150359600776_n.jpg" alt="" class="wp-image-333418"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":333420} -->
+<figure class="wp-block-image"><img src="https://cdn.boolokam.com/articles/2022/05/280169305_1183439112486665_2272851302620476042_n.jpg" alt="" class="wp-image-333420"/></figure>
+<!-- /wp:image -->
+
+
+![എല്ലാ സ്ത്രീകളും രാജ്ഞിമാരാണ്, ഞങ്ങൾക്കെല്ലാവർക്കും വ്യത്യസ്തമായ കാര്യങ്ങൾ വാഗ്ദാനം ചെയ്യാൻ ഉണ്ട്. ആരാധകരുടെ മനം കീഴടക്കുന്ന ഫോട്ടോഷൂട്ടും ആയി ഭാവന.](https://cdn.boolokam.com/articles/2022/05/280176729_1200838680734353_2980702896017560845_n.jpg)മലയാളികളുടെ പ്രിയതാരം ആണ് ഭാവന. കുറച്ചുകാലമായി സിനിമയിൽ നിന്നും വിട്ടു നിൽക്കുന്ന താരം വീണ്ടും മലയാള സിനിമയിലേക്ക് തിരിച്ചുവരാൻ ഒരുങ്ങുകയാണ്. സിനിമയിൽ സജീവമല്ലെങ്കിലും താരം സോഷ്യൽ മീഡിയയിൽ സജീവമാണ്. ഇടയ്ക്കിടയ്ക്ക് ആരാധകരുടെ മനസ്സ് കീഴടക്കുന്ന ഫോട്ടോഷൂട്ടും ആയി താരം അവതരിപ്പിക്കാറുണ്ട്. ഇപ്പോഴിതാ അത്തരത്തിലുള്ള ഫോട്ടോഷൂട്ട്മായി വീണ്ടും എത്തിയിരിക്കുകയാണ് താരം. താരത്തിൻ്റെ ചിത്രങ്ങൾ കാണാം...
+
+![](https://cdn.boolokam.com/articles/2022/05/280215680_527449615684839_8808015249282815561_n.jpg) ![](https://cdn.boolokam.com/articles/2022/05/280124304_699758107912338_2166416871030140767_n.jpg) ![](https://cdn.boolokam.com/articles/2022/05/280285738_145166438053537_2851152425489037946_n.jpg) ![](https://cdn.boolokam.com/articles/2022/05/280348946_328127316007159_721925783354599368_n.jpg) ![](https://cdn.boolokam.com/articles/2022/05/278544330_127541226554406_3222331428797835406_n.jpg) ![](https://cdn.boolokam.com/articles/2022/05/280240241_963038614387349_9034309153493988711_n.jpg) ![](https://cdn.boolokam.com/articles/2022/05/280267329_1011697589475016_2704295588687892114_n.jpg) ![](https://cdn.boolokam.com/articles/2022/05/image_editor_output_image-1737635614-1652086163630.jpg) ![](https://cdn.boolokam.com/articles/2022/05/280199349_527411485647334_2103002335401742017_n.jpg) ![](https://cdn.boolokam.com/articles/2022/05/279971526_2799796510327387_4474396099387798635_n.jpg) ![](https://cdn.boolokam.com/articles/2022/05/280261222_142542951666341_7057714507172486379_n.jpg) ![](https://cdn.boolokam.com/articles/2022/05/280099006_945498026120096_7595333024221425591_n.jpg) ![](https://cdn.boolokam.com/articles/2022/05/280186840_1037147060563165_7755104558370697705_n.jpg) ![](https://cdn.boolokam.com/articles/2022/05/280250692_3243942172592633_3157064150359600776_n.jpg) ![](https://cdn.boolokam.com/articles/2022/05/280169305_1183439112486665_2272851302620476042_n.jpg)

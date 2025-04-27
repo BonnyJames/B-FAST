@@ -1,0 +1,73 @@
+---
+title: "ഇന്ന് ത്രില്ലെറെന്ന ലേബലിൽ ഇറങ്ങുന്ന പല പടങ്ങൾക്കും ഇതിന്റെ മേക്കിങ് ക്വാളിറ്റി എത്താൻ പറ്റുന്നില്ല"
+date: 2022-10-27T14:31:52
+draft: false
+categories: ["Entertainment"]
+tags: ['FRENCH MOVIE', 'Les Diaboliques (Diabolique)']
+author: "Beaumaris"
+---
+
+Les Diaboliques
+(Diabolique)
+1955/French
+
+Vino
+
+ഫ്രഞ്ച് ക്രൈം ത്രില്ലെറുകളിൽ കൾട് ക്ലാസ്സിക്‌ ആയ ഒരു ചിത്രമാകാം ഇന്ന്.നഗരത്തിലെ ഒരു ബോർഡിങ്‌ സ്കൂൾ ഹെഡ്മാസ്റ്ററാണ് മൈക്കൽ ഡെലസാലെ,തന്നിഷ്ടക്കാരനും ക്രൂരനുമായ അയാളിൽ നിന്നും പൊറുതിമുട്ടിയിരിക്കുവാണ് അവിടുത്തെ അധ്യാപികയും സ്വല്പം ദുർബലയുമായ അയാളുടെ ഭാര്യ ക്രിസ്റ്റീന, മൈക്കളിന്റെ ശല്യത്തിൽ വലയുന്ന മറ്റൊരാളുകൂടിയുണ്ട് അവിടെ,അധ്യാപികയായ നിക്കോൾ, ഇരുവരും ഒരു തീരുമാനത്തിൽ എത്തുന്നു, തങ്ങളുടെ പൊതുശല്യമായ അയാളെ ഒഴിവാക്കുക,.. പറഞ്ഞിട്ടോ.. പരാതിപ്പെട്ടിട്ടോ അതിനൊരു ശമനം ഉണ്ടാകാൻ സാധ്യതയില്ലെന്ന് അറിയാവുന്നത് കൊണ്ട് അയാളെ വകവരുത്താൻ തന്നെ രണ്ടു സ്ത്രീകളും കൂടി തീരുമാനിക്കുന്നു,.. ആ തീരുമാനം അവരെ കൊണ്ടെത്തിക്കുന്നു അപ്രതീക്ഷിതമായ പ്രശ്നങ്ങളാണ് ചിത്രം പറയുന്നത്.
+
+<img class="size-full wp-image-356439 aligncenter" src="https://cdn.boolokam.com/articles/2022/10/GEGE.jpg" alt="" width="1098" height="543" />ത്രില്ലെർ, മിസ്ട്രി, ഹൊറർ തുടങ്ങി ജെണറുകളുടെ ഒരു മിക്സഡ് സ്റ്റൈലിലാണ് ദി വേജസ് ഓഫ് ഫിയർ എന്ന കൾട് അഡ്വഞ്ചർ പടത്തിന്റെ സംവിധായകനും കൂടിയായ ഹെൻറി ജോർജ് കുസോൾട് ഈ ചിത്രം ഒരുക്കിയിരിക്കുന്നത്.67 വർഷം മുന്നേ ഇങ്ങനെ ഒരു പടം എന്നതാണ് ഏറെ അത്ഭുതം ഉണ്ടാക്കുന്ന സംഗതി,ഈ കാലത്ത് ത്രില്ലെർ എന്ന് ലേബലിൽ ഇറങ്ങുന്ന പല പടങ്ങൾക്കുപോലും ഇതിന്റെ അത്രെയും മേക്കിങ് ക്വാളിറ്റി പോലും എത്താൻ പറ്റുന്നില്ല എന്നതാണ് വാസ്തവം.
+
+ഇത്തരം പടങ്ങൾ പലതും കണ്ടവർ പോലും പടം കാണുന്ന വേളയിൽ ഒരുപാട് ഊഹാപോഹങ്ങളിൽ പെടും എന്നാലും ഇതിന്റെ സസ്പെൻസ് അങ്ങനെ തന്നെ ആവും എന്ന രീതിയിൽ ഒരിക്കലും നമ്മുക്ക് ഉറപ്പിക്കാൻ പറ്റില്ല, അത്രക്ക് പിടി കൊടുക്കാത്തതും കാലത്തെ അതിജീവിച്ച ഒരു അവതരണശൈലി സിനിമക്ക് അവകാശപ്പെടാനുണ്ട്.ഫ്രഞ്ച് നോവലായ Celle qui n'était plus (She Who Was No More) ആസ്പദമാക്കി ഹിച്കോക്ക് സംവിധാനം ചെയ്യാൻ ആഗ്രഹിച്ചിരിക്കുന്നുവെങ്കിലും അദ്ദേഹത്തിന്നും മുന്നേ കുസോൾട് അത് കമ്മിറ്റ് ആക്കിയിരുന്നു, എന്തായാലും ഒരു ഹിച്കോക്ക് സ്റ്റൈയിൽ മേക്കിങ് ആണ് പടത്തിന് മൊത്തത്തിൽ.
+പഴയ പടമാണ്, ബ്ലാക്ക് ആൻഡ് വൈറ്റ് ആണെന്നുവെച്ഛ് കാണാതെ ഇരിക്കരുത്, ഒരു കിളിപറത്തുന്ന ഐറ്റം തന്നെയാണ്.(ചിത്രത്തിന്റെ ഇംഗ്ലീഷ് വേർഷൻ 1996 ൽ റിലീസ് ആയിട്ടുണ്ട്, ബ്ലാക്ക് ആൻഡ് താല്പര്യം ഇല്ലാത്തവർ അത് കണ്ടു നോക്കുക )
+
+**
+
+<strong>FULL MOVIE</strong>
+
+https://youtu.be/h66gU9prCeM
+
+Les Diaboliques (French: [le djabɔlik], released as Diabolique in the United States and variously translated as The Devils or The Fiends) is a 1955 French psychological horror thriller film directed by Henri-Georges Clouzot, starring Simone Signoret, Véra Clouzot, Paul Meurisse and Charles Vanel. It is based on the novel She Who Was No More (Celle qui n'était plus) by Pierre Boileau and Thomas Narcejac.
+
+The story blends elements of thriller and horror, with the plot focusing on a woman and her husband's mistress who conspire to murder the man. The film was the 10th-highest grossing film of the year in France, with a total of 3,674,380 admissions. The film also received the 1954 Louis Delluc Prize.
+
+Clouzot, after finishing The Wages of Fear, optioned the screenplay rights, preventing Alfred Hitchcock from making the film.This movie helped inspire Hitchcock's Psycho. Robert Bloch, the author of the novel Psycho, stated in an interview that his all-time favorite horror film was Les Diaboliques.
+
+Plot
+
+A second-rate boarding school in Saint-Cloud, Hauts-de-Seine, in the Paris metropolitan area,[6] is run by the tyrannical and cruel Michel Delassalle. The school is owned, though, by Delassalle's teacher wife, the frail Christina, an emigrée from Venezuela. Michel also has a relationship with Nicole Horner, another teacher at the school. Rather than antagonism, the two women have a somewhat close relationship, primarily based on their apparent mutual hatred of Michel. He is cruel to the students, beats Nicole, and mocks Christina about her heart condition.
+
+Unable to stand his mistreatment any longer, Nicole devises a plan to get rid of Michel forever. Though hesitant at first, Christina ultimately consents to help Nicole. Using a threatened divorce to lure Michel to Nicole's apartment building in Niort, a town several hundred kilometers away, Christina sedates him. The two women then drown him in a bathtub and, driving back to the school, dump his body in the neglected swimming pool. When his corpse floats to the top, they think it will appear to have been an accident. Almost everything goes according to their plans until the body fails to surface. Michel's corpse is nowhere to be found when the pool is drained. Then, the suit that Michel had been wearing when they drowned him is returned from the dry cleaners. When the proprietor of the dry cleaners also returns a key to a room in nearby hotel that was with the clothes, Christina goes to the room. There the cleaning man tells her that Michel had kept the room for awhile but was rarely if ever seen and stored nothing there.
+
+Nicole sees in the paper that the police have found the corpse. However, when Christina goes to the morgue, she finds it is not actually Michel's body. There, she meets Alfred Fichet, a retired senior policeman now working as a private detective. He becomes involved in the case, much to Nicole's chagrin.
+
+Christina, Nicole and other teachers find a student who claims that Michel has ordered him to rake leaves as punishment for breaking a window. After hearing this, Christina's heart condition grows worse, and her doctors fear she may die soon unless she maintains strict bed rest. When the school photograph is taken, the result seems to show Michel's spectral figure in the window behind the students. Unnerved, Nicole leaves the school; she asks Christina to come too, but she is too ill and afraid.
+
+Christina, overcome by fear, tells Alfred everything. He does not believe her, but he investigates the pool. That night, Christina hears noises and wanders round the school. When she realizes that someone is following her, she runs back to her room. There she finds Michel's corpse submerged in the bathtub, which is full of water. Michel rises from the tub, and Christina has a heart attack and dies. Michel and Nicole have set up Christina from the beginning, with Michel acting as a vengeful ghost to scare Christina to death. However, Alfred hears their celebration and figures out everything, telling them they will get 15 to 20 years, depending on the judge.
+
+The school is closed in the wake of the scandal. As the children and teachers leave, the same boy who had earlier broken a window breaks another. When asked how he got his slingshot back, the boy says that Christina gave it to him.
+
+Cast
+
+Simone Signoret as Nicole Horner
+Véra Clouzot as Christina Delassalle
+Paul Meurisse as Michel Delassalle
+Charles Vanel as Alfred Fichet
+Jean Brochard as Plantiveau
+Pierre Larquey as M. Drain
+Michel Serrault as M. Raymond
+Thérèse Dorny as Mme. Herboux
+Noël Roquevert as M. Herboux
+Georges Poujouly as Soudieu
+Aminda Montserrat as Mme. Plantiveau
+Madeleine Suffel as la dégraisseuse
+Jean Témerson as le garçon d'hôtel
+Jacques Hilling as l'employé de l'institut médico-légal
+Robert Dalban as le pompiste
+Johnny Hallyday appears uncredited as one of the pupils.[7]
+
+&amp;nbsp;
+
+&amp;nbsp;
+
+
+![ഇന്ന് ത്രില്ലെറെന്ന ലേബലിൽ ഇറങ്ങുന്ന പല പടങ്ങൾക്കും ഇതിന്റെ മേക്കിങ് ക്വാളിറ്റി എത്താൻ പറ്റുന്നില്ല](https://cdn.boolokam.com/articles/2022/10/GEGE.jpg)Les Diaboliques (Diabolique) 1955/French Vino ഫ്രഞ്ച് ക്രൈം ത്രില്ലെറുകളിൽ കൾട് ക്ലാസ്സിക്‌ ആയ ഒരു ചിത്രമാകാം ഇന്ന്.നഗരത്തിലെ ഒരു ബോർഡിങ്‌ സ്കൂൾ ഹെഡ്മാസ്റ്ററാണ് മൈക്കൽ ഡെലസാലെ,തന്നിഷ്ടക്കാരനും ക്രൂരനുമായ അയാളിൽ നിന്നും പൊറുതിമുട്ടിയിരിക്കുവാണ് അവിടുത്തെ അധ്യാപികയും സ്വല്പം ദുർബലയുമായ അയാളുടെ ഭാര്യ ക്രിസ്റ്റീന, മൈക്കളിന്റെ ശല്യത്തിൽ വലയുന്ന മറ്റൊരാളുകൂടിയുണ്ട് അവിടെ,അധ്യാപികയായ നിക്കോൾ, ഇരുവരും ഒരു തീരുമാനത്തിൽ എത്തുന്നു, തങ്ങളുടെ പൊതുശല്യമായ അയാളെ ഒഴിവാക്കുക,.. പറഞ്ഞിട്ടോ.. പരാതിപ്പെട്ടിട്ടോ അതിനൊരു ശമനം ഉണ്ടാകാൻ സാധ്യതയില്ലെന്ന് അറിയാവുന്നത് കൊണ്ട് അയാളെ വകവരുത്താൻ തന്നെ രണ്ടു സ്ത്രീകളും കൂടി തീരുമാനിക്കുന്നു,.. ആ തീരുമാനം അവരെ കൊണ്ടെത്തിക്കുന്നു അപ്രതീക്ഷിതമായ പ്രശ്നങ്ങളാണ് ചിത്രം പറയുന്നത്. ത്രില്ലെർ, മിസ്ട്രി, ഹൊറർ തുടങ്ങി ജെണറുകളുടെ ഒരു മിക്സഡ് സ്റ്റൈലിലാണ് ദി വേജസ് ഓഫ് ഫിയർ എന്ന കൾട് അഡ്വഞ്ചർ പടത്തിന്റെ സംവിധായകനും കൂടിയായ ഹെൻറി ജോർജ് കുസോൾട് ഈ ചിത്രം ഒരുക്കിയിരിക്കുന്നത്.67 വർഷം മുന്നേ ഇങ്ങനെ ഒരു പടം എന്നതാണ് ഏറെ അത്ഭുതം ഉണ്ടാക്കുന്ന സംഗതി,ഈ കാലത്ത് ത്രില്ലെർ എന്ന് ലേബലിൽ ഇറങ്ങുന്ന പല പടങ്ങൾക്കുപോലും ഇതിന്റെ അത്രെയും മേക്കിങ് ക്വാളിറ്റി പോലും എത്താൻ പറ്റുന്നില്ല എന്നതാണ് വാസ്തവം. ഇത്തരം പടങ്ങൾ പലതും കണ്ടവർ പോലും പടം കാണുന്ന വേളയിൽ ഒരുപാട് ഊഹാപോഹങ്ങളിൽ പെടും എന്നാലും ഇതിന്റെ സസ്പെൻസ് അങ്ങനെ തന്നെ ആവും എന്ന രീതിയിൽ ഒരിക്കലും നമ്മുക്ക് ഉറപ്പിക്കാൻ പറ്റില്ല, അത്രക്ക് പിടി കൊടുക്കാത്തതും കാലത്തെ അതിജീവിച്ച ഒരു അവതരണശൈലി സിനിമക്ക് അവകാശപ്പെടാനുണ്ട്.ഫ്രഞ്ച് നോവലായ Celle qui n'était plus (She Who Was No More) ആസ്പദമാക്കി ഹിച്കോക്ക് സംവിധാനം ചെയ്യാൻ ആഗ്രഹിച്ചിരിക്കുന്നുവെങ്കിലും അദ്ദേഹത്തിന്നും മുന്നേ കുസോൾട് അത് കമ്മിറ്റ് ആക്കിയിരുന്നു, എന്തായാലും ഒരു ഹിച്കോക്ക് സ്റ്റൈയിൽ മേക്കിങ് ആണ് പടത്തിന് മൊത്തത്തിൽ. പഴയ പടമാണ്, ബ്ലാക്ക് ആൻഡ് വൈറ്റ് ആണെന്നുവെച്ഛ് കാണാതെ ഇരിക്കരുത്, ഒരു കിളിപറത്തുന്ന ഐറ്റം തന്നെയാണ്.(ചിത്രത്തിന്റെ ഇംഗ്ലീഷ് വേർഷൻ 1996 ൽ റിലീസ് ആയിട്ടുണ്ട്, ബ്ലാക്ക് ആൻഡ് താല്പര്യം ഇല്ലാത്തവർ അത് കണ്ടു നോക്കുക ) ** **FULL MOVIE** https://youtu.be/h66gU9prCeM Les Diaboliques (French: [le djabɔlik], released as Diabolique in the United States and variously translated as The Devils or The Fiends) is a 1955 French psychological horror thriller film directed by Henri-Georges Clouzot, starring Simone Signoret, Véra Clouzot, Paul Meurisse and Charles Vanel. It is based on the novel She Who Was No More (Celle qui n'était plus) by Pierre Boileau and Thomas Narcejac. The story blends elements of thriller and horror, with the plot focusing on a woman and her husband's mistress who conspire to murder the man. The film was the 10th-highest grossing film of the year in France, with a total of 3,674,380 admissions. The film also received the 1954 Louis Delluc Prize. Clouzot, after finishing The Wages of Fear, optioned the screenplay rights, preventing Alfred Hitchcock from making the film.This movie helped inspire Hitchcock's Psycho. Robert Bloch, the author of the novel Psycho, stated in an interview that his all-time favorite horror film was Les Diaboliques. Plot A second-rate boarding school in Saint-Cloud, Hauts-de-Seine, in the Paris metropolitan area,[6] is run by the tyrannical and cruel Michel Delassalle. The school is owned, though, by Delassalle's teacher wife, the frail Christina, an emigrée from Venezuela. Michel also has a relationship with Nicole Horner, another teacher at the school. Rather than antagonism, the two women have a somewhat close relationship, primarily based on their apparent mutual hatred of Michel. He is cruel to the students, beats Nicole, and mocks Christina about her heart condition. Unable to stand his mistreatment any longer, Nicole devises a plan to get rid of Michel forever. Though hesitant at first, Christina ultimately consents to help Nicole. Using a threatened divorce to lure Michel to Nicole's apartment building in Niort, a town several hundred kilometers away, Christina sedates him. The two women then drown him in a bathtub and, driving back to the school, dump his body in the neglected swimming pool. When his corpse floats to the top, they think it will appear to have been an accident. Almost everything goes according to their plans until the body fails to surface. Michel's corpse is nowhere to be found when the pool is drained. Then, the suit that Michel had been wearing when they drowned him is returned from the dry cleaners. When the proprietor of the dry cleaners also returns a key to a room in nearby hotel that was with the clothes, Christina goes to the room. There the cleaning man tells her that Michel had kept the room for awhile but was rarely if ever seen and stored nothing there. Nicole sees in the paper that the police have found the corpse. However, when Christina goes to the morgue, she finds it is not actually Michel's body. There, she meets Alfred Fichet, a retired senior policeman now working as a private detective. He becomes involved in the case, much to Nicole's chagrin. Christina, Nicole and other teachers find a student who claims that Michel has ordered him to rake leaves as punishment for breaking a window. After hearing this, Christina's heart condition grows worse, and her doctors fear she may die soon unless she maintains strict bed rest. When the school photograph is taken, the result seems to show Michel's spectral figure in the window behind the students. Unnerved, Nicole leaves the school; she asks Christina to come too, but she is too ill and afraid. Christina, overcome by fear, tells Alfred everything. He does not believe her, but he investigates the pool. That night, Christina hears noises and wanders round the school. When she realizes that someone is following her, she runs back to her room. There she finds Michel's corpse submerged in the bathtub, which is full of water. Michel rises from the tub, and Christina has a heart attack and dies. Michel and Nicole have set up Christina from the beginning, with Michel acting as a vengeful ghost to scare Christina to death. However, Alfred hears their celebration and figures out everything, telling them they will get 15 to 20 years, depending on the judge. The school is closed in the wake of the scandal. As the children and teachers leave, the same boy who had earlier broken a window breaks another. When asked how he got his slingshot back, the boy says that Christina gave it to him. Cast Simone Signoret as Nicole Horner Véra Clouzot as Christina Delassalle Paul Meurisse as Michel Delassalle Charles Vanel as Alfred Fichet Jean Brochard as Plantiveau Pierre Larquey as M. Drain Michel Serrault as M. Raymond Thérèse Dorny as Mme. Herboux Noël Roquevert as M. Herboux Georges Poujouly as Soudieu Aminda Montserrat as Mme. Plantiveau Madeleine Suffel as la dégraisseuse Jean Témerson as le garçon d'hôtel Jacques Hilling as l'employé de l'institut médico-légal Robert Dalban as le pompiste Johnny Hallyday appears uncredited as one of the pupils.[7] &nbsp; &nbsp;

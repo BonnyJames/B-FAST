@@ -28,6 +28,11 @@
                     SHARE
                 </a>
             </div>
+            <button class="mobile-menu-toggle" id="mobile-menu-toggle" aria-label="Toggle mobile menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
         </div>
     </div>
     <nav class="main-nav">
@@ -42,13 +47,11 @@
                     {{ if or (eq $currentSection "news") (eq $currentSection "") }}
                         <!-- News Categories -->
                         <li><a href="{{ "/" | relURL }}" class="active">ALL</a></li>
-                        <li><a href="{{ "news/politics" | relURL }}">POLITICS</a></li>
-                        <li><a href="{{ "news/business" | relURL }}">BUSINESS</a></li>
                         <li><a href="{{ "news/technology" | relURL }}">TECHNOLOGY</a></li>
-                        <li><a href="{{ "news/entertainment" | relURL }}">ENTERTAINMENT</a></li>
-                        <li><a href="{{ "news/sports" | relURL }}">SPORTS</a></li>
-                        <li><a href="{{ "news/science" | relURL }}">SCIENCE</a></li>
+                        <li><a href="{{ "news/business" | relURL }}">BUSINESS</a></li>
                         <li><a href="{{ "news/health" | relURL }}">HEALTH</a></li>
+                        <li><a href="{{ "news/science" | relURL }}">SCIENCE</a></li>
+                        <li><a href="{{ "news/environment" | relURL }}">ENVIRONMENT</a></li>
                     {{ else if eq $currentSection "videos" }}
                         <!-- Video Categories -->
                         <li><a href="{{ "videos" | relURL }}" class="active">ALL</a></li>
@@ -80,6 +83,15 @@
 
 <script>
     document.addEventListener('DOMContentLoaded', function() {
+        // Mobile menu toggle functionality
+        const mobileMenuToggle = document.getElementById('mobile-menu-toggle');
+        const body = document.body;
+        
+        mobileMenuToggle.addEventListener('click', function() {
+            body.classList.toggle('mobile-menu-open');
+            mobileMenuToggle.classList.toggle('active');
+        });
+        
         // Calculate header height and add padding to the body
         const headerHeight = document.querySelector('.site-header').offsetHeight;
         document.body.style.paddingTop = headerHeight + 'px';

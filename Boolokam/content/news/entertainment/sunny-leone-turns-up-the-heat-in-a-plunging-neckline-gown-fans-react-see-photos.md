@@ -1,0 +1,69 @@
+---
+title: "നെക്ക്‌ലൈൻ ഗൗണിൽ ചൂടു കൂട്ടി സണ്ണി ലിയോൺ"
+date: 2023-10-16T12:51:11
+draft: false
+categories: ["Entertainment"]
+tags: ['ACTOR', 'Sunny Leone']
+author: "Beaumaris"
+---
+
+<strong>നെക്ക്‌ലൈൻ ഗൗണിൽ ചൂടു കൂട്ടി സണ്ണി ലിയോൺ, ഫോട്ടോകൾ കാണുക</strong>
+
+നടിയും മോഡലുമായ സണ്ണി ലിയോൺ തന്റെ ഫാഷനുമായി സോഷ്യൽ മീഡിയയിൽ വീണ്ടും ജ്വലിച്ചു. താരം നെക്ക്‌ലൈനുള്ള ഗൗണിൽ പ്രത്യക്ഷപ്പെട്ടു അവളുടെ ആരാധകരെ ആകർഷിക്കുകയും വിസ്മയിപ്പിക്കുകയും ചെയ്തു. അവൾ തന്റെ സോഷ്യൽ ഹാൻഡിലുകളിൽ ചിത്രങ്ങൾ പങ്കുവെച്ചു. ഫോട്ടോകളിൽ, കഴുത്ത് കുറഞ്ഞ ഐസ്-ബ്ലൂ കളർ ഗൗൺ ധരിച്ചാണ് സണ്ണിയെ കാണുന്നത്. അവൾ ഫോട്ടോകൾ ഷെയർ ചെയ്തയുടൻ, ആരാധകർ ചിത്രം ഏറ്റെടുത്തു.
+<blockquote class="instagram-media" style="background: #FFF; border: 0; border-radius: 3px; box-shadow: 0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width: 540px; min-width: 326px; padding: 0; width: calc(100% - 2px);" data-instgrm-captioned="" data-instgrm-permalink="https://www.instagram.com/p/CybBh1QODbz/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14">
+<div style="padding: 16px;">
+
+&nbsp;
+<div style="display: flex; flex-direction: row; align-items: center;">
+<div style="background-color: #f4f4f4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div>
+<div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;">
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div>
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div>
+</div>
+</div>
+<div style="padding: 19% 0;"></div>
+<div style="display: block; height: 50px; margin: 0 auto 12px; width: 50px;"></div>
+<div style="padding-top: 8px;">
+<div style="color: #3897f0; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: 550; line-height: 18px;">View this post on Instagram</div>
+</div>
+<div style="padding: 12.5% 0;"></div>
+<div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;">
+<div>
+<div style="background-color: #f4f4f4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div>
+<div style="background-color: #f4f4f4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div>
+<div style="background-color: #f4f4f4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div>
+</div>
+<div style="margin-left: 8px;">
+<div style="background-color: #f4f4f4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div>
+<div style="width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg);"></div>
+</div>
+<div style="margin-left: auto;">
+<div style="width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div>
+<div style="background-color: #f4f4f4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div>
+<div style="width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div>
+</div>
+</div>
+<div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;">
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div>
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div>
+</div>
+&nbsp;
+<p style="color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; line-height: 17px; margin-bottom: 0; margin-top: 8px; overflow: hidden; padding: 8px 0 7px; text-align: center; text-overflow: ellipsis; white-space: nowrap;"><a style="color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: normal; line-height: 17px; text-decoration: none;" href="https://www.instagram.com/p/CybBh1QODbz/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" rel="noopener">A post shared by Sunny Leone (@sunnyleone)</a></p>
+
+</div></blockquote>
+<script async src="//www.instagram.com/embed.js"></script>
+
+പൂജാ ഭട്ടിന്റെ ജിസം 2 എന്ന ചിത്രത്തിലൂടെയാണ് സണ്ണി ലിയോൺ അരങ്ങേറ്റം കുറിച്ചത്. തുടർന്ന് ജാക്ക്പോട്ട്, രാഗിണി എംഎംഎസ് 2, ഏക് പഹേലി ലീല തുടങ്ങിയ ചിത്രങ്ങളിൽ അഭിനയിച്ചു. ബോളിവുഡിലേക്ക് തന്റേതായ വഴിയൊരുക്കിയ താരസുന്ദരി അടുത്തിടെ കെന്നഡിക്ക് വേണ്ടിയുള്ള കാൻ അരങ്ങേറ്റത്തിലൂടെ ശ്രദ്ധിക്കപ്പെട്ടു.. അവിസ്മരണീയമായ ചില ഡാൻസ് നമ്പറുകൾ നൽകുന്നതിൽ അറിയപ്പെടുന്ന നടി, വരാനിരിക്കുന്ന പ്രോജക്റ്റിൽ മാധുരി ദീക്ഷിതിന്റെ ഒരു ഐക്കണിക് ഗാനം പുനഃസൃഷ്ടിക്കാൻ ഒരുങ്ങുകയാണ്.
+
+തന്റെ ഇൻസ്റ്റാഗ്രാം ഹാൻഡിൽ അതേക്കുറിച്ചുള്ള ഒരു അപ്‌ഡേറ്റ് പങ്കിട്ടുകൊണ്ട് സണ്ണി എഴുതി, “ഇത് ലോകവുമായി പങ്കിടുന്നതിൽ വളരെ അഭിമാനിക്കുന്നു!! @madhuridixitnene യുടെ ഗാനം ഇത്രയും വലിയ രീതിയിൽ റീമേക്ക് ചെയ്യാൻ സാധിച്ചത് അഭിമാനകരമായ കാര്യമാണ് #MerePiyaGharAaya2.0 TEASER ഇപ്പോൾ പുറത്തിറങ്ങി.
+
+കാനിൽ അവിസ്മരണീയമായ പ്രകടനമാണ് സണ്ണി ലിയോൺ നടത്തിയത്. സംവിധായകൻ അനുരാഗ് കശ്യപ്, സഹനടൻ രാഹുൽ ഭട്ട് എന്നിവർക്കൊപ്പമാണ് നടി കെന്നഡി എന്ന സിനിമയുടെ പ്രദർശനത്തിൽ പങ്കെടുത്തത്. തിയറ്റർ റിലീസിന് മുമ്പുതന്നെ, കാൻ ഫിലിം ഫെസ്റ്റിവലിൽ പ്രദർശിപ്പിക്കാൻ തിരഞ്ഞെടുത്തതിന് ശേഷം ചിത്രം വലിയ കോളിളക്കം സൃഷ്ടിച്ചു. അവരെ കൂടാതെ രാഹുൽ ഭട്ട്, മേഘ ബർമാൻ, ബെനഡിക്റ്റ് ഗാരറ്റ്, പ്രമോദ് സംഘി എന്നിവരും ചിത്രത്തിൽ പ്രധാന വേഷങ്ങളിൽ എത്തുന്നു.
+
+ക്വട്ടേഷൻ ഗ്യാങ്ങിലാണ് അവൾ അടുത്തതായി അഭിനയിക്കുന്നത്. വരാനിരിക്കുന്ന ചിത്രത്തിൽ സണ്ണി ലിയോൺ, ജാക്കി ഷ്റോഫ്, പ്രിയാമണി, സാറ എന്നിവർ ശ്രദ്ധേയമായ അഭിനേതാക്കളെ അവതരിപ്പിക്കുന്നു. കാശ്മീർ, ചെന്നൈ, ഹൈദരാബാദ്, മുംബൈ തുടങ്ങിയ മനോഹരമായ ലൊക്കേഷനുകളിലാണ് ക്രൈം ത്രില്ലർ ചിത്രീകരിച്ചിരിക്കുന്നത്, ചിത്രം ആവേശകരമായ സിനിമാറ്റിക് അനുഭവം വാഗ്ദാനം ചെയ്യുന്നു.
+**നെക്ക്‌ലൈൻ ഗൗണിൽ ചൂടു കൂട്ടി സണ്ണി ലിയോൺ, ഫോട്ടോകൾ കാണുക** നടിയും മോഡലുമായ സണ്ണി ലിയോൺ തന്റെ ഫാഷനുമായി സോഷ്യൽ മീഡിയയിൽ വീണ്ടും ജ്വലിച്ചു. താരം നെക്ക്‌ലൈനുള്ള ഗൗണിൽ പ്രത്യക്ഷപ്പെട്ടു അവളുടെ ആരാധകരെ ആകർഷിക്കുകയും വിസ്മയിപ്പിക്കുകയും ചെയ്തു. അവൾ തന്റെ സോഷ്യൽ ഹാൻഡിലുകളിൽ ചിത്രങ്ങൾ പങ്കുവെച്ചു. ഫോട്ടോകളിൽ, കഴുത്ത് കുറഞ്ഞ ഐസ്-ബ്ലൂ കളർ ഗൗൺ ധരിച്ചാണ് സണ്ണിയെ കാണുന്നത്. അവൾ ഫോട്ടോകൾ ഷെയർ ചെയ്തയുടൻ, ആരാധകർ ചിത്രം ഏറ്റെടുത്തു. 
+
+> View this post on Instagram
+> 
+> [A post shared by Sunny Leone (@sunnyleone)](https://www.instagram.com/p/CybBh1QODbz/?utm_source=ig_embed&utm_campaign=loading)
+
+പൂജാ ഭട്ടിന്റെ ജിസം 2 എന്ന ചിത്രത്തിലൂടെയാണ് സണ്ണി ലിയോൺ അരങ്ങേറ്റം കുറിച്ചത്. തുടർന്ന് ജാക്ക്പോട്ട്, രാഗിണി എംഎംഎസ് 2, ഏക് പഹേലി ലീല തുടങ്ങിയ ചിത്രങ്ങളിൽ അഭിനയിച്ചു. ബോളിവുഡിലേക്ക് തന്റേതായ വഴിയൊരുക്കിയ താരസുന്ദരി അടുത്തിടെ കെന്നഡിക്ക് വേണ്ടിയുള്ള കാൻ അരങ്ങേറ്റത്തിലൂടെ ശ്രദ്ധിക്കപ്പെട്ടു.. അവിസ്മരണീയമായ ചില ഡാൻസ് നമ്പറുകൾ നൽകുന്നതിൽ അറിയപ്പെടുന്ന നടി, വരാനിരിക്കുന്ന പ്രോജക്റ്റിൽ മാധുരി ദീക്ഷിതിന്റെ ഒരു ഐക്കണിക് ഗാനം പുനഃസൃഷ്ടിക്കാൻ ഒരുങ്ങുകയാണ്. തന്റെ ഇൻസ്റ്റാഗ്രാം ഹാൻഡിൽ അതേക്കുറിച്ചുള്ള ഒരു അപ്‌ഡേറ്റ് പങ്കിട്ടുകൊണ്ട് സണ്ണി എഴുതി, “ഇത് ലോകവുമായി പങ്കിടുന്നതിൽ വളരെ അഭിമാനിക്കുന്നു!! @madhuridixitnene യുടെ ഗാനം ഇത്രയും വലിയ രീതിയിൽ റീമേക്ക് ചെയ്യാൻ സാധിച്ചത് അഭിമാനകരമായ കാര്യമാണ് #MerePiyaGharAaya2.0 TEASER ഇപ്പോൾ പുറത്തിറങ്ങി. കാനിൽ അവിസ്മരണീയമായ പ്രകടനമാണ് സണ്ണി ലിയോൺ നടത്തിയത്. സംവിധായകൻ അനുരാഗ് കശ്യപ്, സഹനടൻ രാഹുൽ ഭട്ട് എന്നിവർക്കൊപ്പമാണ് നടി കെന്നഡി എന്ന സിനിമയുടെ പ്രദർശനത്തിൽ പങ്കെടുത്തത്. തിയറ്റർ റിലീസിന് മുമ്പുതന്നെ, കാൻ ഫിലിം ഫെസ്റ്റിവലിൽ പ്രദർശിപ്പിക്കാൻ തിരഞ്ഞെടുത്തതിന് ശേഷം ചിത്രം വലിയ കോളിളക്കം സൃഷ്ടിച്ചു. അവരെ കൂടാതെ രാഹുൽ ഭട്ട്, മേഘ ബർമാൻ, ബെനഡിക്റ്റ് ഗാരറ്റ്, പ്രമോദ് സംഘി എന്നിവരും ചിത്രത്തിൽ പ്രധാന വേഷങ്ങളിൽ എത്തുന്നു. ക്വട്ടേഷൻ ഗ്യാങ്ങിലാണ് അവൾ അടുത്തതായി അഭിനയിക്കുന്നത്. വരാനിരിക്കുന്ന ചിത്രത്തിൽ സണ്ണി ലിയോൺ, ജാക്കി ഷ്റോഫ്, പ്രിയാമണി, സാറ എന്നിവർ ശ്രദ്ധേയമായ അഭിനേതാക്കളെ അവതരിപ്പിക്കുന്നു. കാശ്മീർ, ചെന്നൈ, ഹൈദരാബാദ്, മുംബൈ തുടങ്ങിയ മനോഹരമായ ലൊക്കേഷനുകളിലാണ് ക്രൈം ത്രില്ലർ ചിത്രീകരിച്ചിരിക്കുന്നത്, ചിത്രം ആവേശകരമായ സിനിമാറ്റിക് അനുഭവം വാഗ്ദാനം ചെയ്യുന്നു.

@@ -1,0 +1,12 @@
+baseURL = 'https://boolokam.com/'
+languageCode = 'en-us'
+title = 'Boolokam'
+
+[watch]
+  disablePolling = true
+
+[server]
+  disableLiveReload = true
+  
+[build]
+  noJSConfigInAssets = true

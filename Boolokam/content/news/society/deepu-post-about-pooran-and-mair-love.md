@@ -1,0 +1,21 @@
+---
+title: "നിക്കോളാസ് 'പൂറനും' റോസ് മേരി 'മൈരും' പ്രണയത്തിൽ"
+date: 2021-01-30T06:05:38
+draft: false
+categories: ["Society"]
+tags: ['cricket', 'love', 'nicholas pooran', 'rosemary mair']
+author: "Beaumaris"
+---
+
+<strong><a href="https://wordpress-972788-3403151.cloudwaysapps.com/deepu-post-about-pooran-and-mair-love/298035/bdd-341" rel="attachment wp-att-298036"><img class="alignleft size-full wp-image-298036" src="https://cdn.boolokam.com/articles/2021/01/bdd-340.jpg" alt="" width="739" height="360" /></a>ദീപു</strong>
+
+ഇത് വെസ്റ്റിൻഡീസ് ക്രിക്കറ്റ് ടീമിന്റെ ഉദിച്ചുയരുന്ന താരം നിക്കോളാസും (Nicholas ????????????????????????) ന്യൂസിലാൻഡ് വനിതാ ടീമിലെ റോസ് മേരിയും (Rosemary ????????????????)..നിക്കോളാസ് തന്റെ പ്രതിഭയുടെ മിന്നലാട്ടം പലകുറി തെളിയിച്ച് ടീമിലെ സ്ഥിരാംഗമായി മാറിക്കഴിഞ്ഞു.റോസ്‌ മേരിയാകട്ടെ സ്ഥിരതയാർന്ന ബൗളിംഗ് പ്രകടനങ്ങളിലൂടെ വനിതാ ടീമിൽ സ്ഥിര സാന്നിധ്യം ഉറപ്പിക്കാനുള്ള പരിശ്രമങ്ങളിലുമാണ്.
+
+തന്റെ ആദ്യ കാമുകിയുമായി അകന്നു നിൽക്കുന്ന നിക്കോളാസ് റോസ്‌മേരിയുമായി പ്രണയത്തിൽ ആണെന്ന് പാപ്പരാസികൾ പാടി നടക്കുന്നുണ്ട്.സംഗതി സത്യമാണെങ്കിൽ ഇരുവർക്കും വൈകാതെ തന്നെ പരസ്പരം വിവാഹിതരായി ഒന്നിച്ചു ജീവിക്കാൻ കഴിയട്ടെ എന്ന് ഒരു എളിയ ക്രിക്കറ്റ് ആസ്വാദകൻ എന്ന നിലയിൽ ആഗ്രഹിച്ചു പോകുന്നു.ഒന്നുമില്ലെങ്കിലും സ്നേഹത്തിലായിരിക്കുമ്പോഴും, മുട്ടൻ വഴക്കുണ്ടാകുമ്പോഴും നീ പോടാ പൂറാ നിക്കോളാസേ എന്നും ഭാര്യയെ നീ പോടീ മൈര് റോസ്മേരീ എന്നും ഇഷ്ടം പോലെ വിളിക്കാൻ കഴിയുന്നത് തന്നെ വലിയൊരു ഭാഗ്യമല്ലേ.
+
+<img src="https://scontent.ftrv1-1.fna.fbcdn.net/v/t1.0-9/143496886_2727488410898002_4212082476858711557_o.jpg?_nc_cat=101&amp;ccb=2&amp;_nc_sid=8bfeb9&amp;_nc_ohc=ceoNgJq1kzAAX_s-4DX&amp;_nc_ht=scontent.ftrv1-1.fna&amp;oh=bb41bcf08ada7ee7db1d6828be4af14d&amp;oe=603B74C3" alt="May be an image of 2 people and text that says &quot;Nicholas Pooran NFO BATTING BOWLING CAREER Rosemary Mair NEWS INFO BATTING BOWLING CAREER NEWS Nicholas Pooran West Indies ERSONAL INFORMATION orn Rosemary Mair New Zealand irth Place October 02, 1995 (25 years) PERSONAL INFORMATION Trinidad Born ickname Pooran Birth Place November 07, 1998 (22 years) ole Napier WK-Batsman Nickname atting Style Rosemary Mair Role Left Handed Bat CC RANKINGS Batting Allrounder Batting Style Right Handed Bat Bowling Style TEST ODI Right-arm medium CC RANKINGS Bat T20I 33 Best: 100 TEST Best: 25 ODI Bowl Best: 76 T20I Bat Best: -- Best: Best: Best: Best: Bowl Best: 49 75&quot;" />
+
+*
+
+
+![നിക്കോളാസ് 'പൂറനും' റോസ് മേരി 'മൈരും' പ്രണയത്തിൽ](https://cdn.boolokam.com/articles/2021/01/bdd-340.jpg)**[](https://wordpress-972788-3403151.cloudwaysapps.com/deepu-post-about-pooran-and-mair-love/298035/bdd-341)ദീപു** ഇത് വെസ്റ്റിൻഡീസ് ക്രിക്കറ്റ് ടീമിന്റെ ഉദിച്ചുയരുന്ന താരം നിക്കോളാസും (Nicholas ????????????????????????) ന്യൂസിലാൻഡ് വനിതാ ടീമിലെ റോസ് മേരിയും (Rosemary ????????????????)..നിക്കോളാസ് തന്റെ പ്രതിഭയുടെ മിന്നലാട്ടം പലകുറി തെളിയിച്ച് ടീമിലെ സ്ഥിരാംഗമായി മാറിക്കഴിഞ്ഞു.റോസ്‌ മേരിയാകട്ടെ സ്ഥിരതയാർന്ന ബൗളിംഗ് പ്രകടനങ്ങളിലൂടെ വനിതാ ടീമിൽ സ്ഥിര സാന്നിധ്യം ഉറപ്പിക്കാനുള്ള പരിശ്രമങ്ങളിലുമാണ്. തന്റെ ആദ്യ കാമുകിയുമായി അകന്നു നിൽക്കുന്ന നിക്കോളാസ് റോസ്‌മേരിയുമായി പ്രണയത്തിൽ ആണെന്ന് പാപ്പരാസികൾ പാടി നടക്കുന്നുണ്ട്.സംഗതി സത്യമാണെങ്കിൽ ഇരുവർക്കും വൈകാതെ തന്നെ പരസ്പരം വിവാഹിതരായി ഒന്നിച്ചു ജീവിക്കാൻ കഴിയട്ടെ എന്ന് ഒരു എളിയ ക്രിക്കറ്റ് ആസ്വാദകൻ എന്ന നിലയിൽ ആഗ്രഹിച്ചു പോകുന്നു.ഒന്നുമില്ലെങ്കിലും സ്നേഹത്തിലായിരിക്കുമ്പോഴും, മുട്ടൻ വഴക്കുണ്ടാകുമ്പോഴും നീ പോടാ പൂറാ നിക്കോളാസേ എന്നും ഭാര്യയെ നീ പോടീ മൈര് റോസ്മേരീ എന്നും ഇഷ്ടം പോലെ വിളിക്കാൻ കഴിയുന്നത് തന്നെ വലിയൊരു ഭാഗ്യമല്ലേ. ![May be an image of 2 people and text that says "Nicholas Pooran NFO BATTING BOWLING CAREER Rosemary Mair NEWS INFO BATTING BOWLING CAREER NEWS Nicholas Pooran West Indies ERSONAL INFORMATION orn Rosemary Mair New Zealand irth Place October 02, 1995 \(25 years\) PERSONAL INFORMATION Trinidad Born ickname Pooran Birth Place November 07, 1998 \(22 years\) ole Napier WK-Batsman Nickname atting Style Rosemary Mair Role Left Handed Bat CC RANKINGS Batting Allrounder Batting Style Right Handed Bat Bowling Style TEST ODI Right-arm medium CC RANKINGS Bat T20I 33 Best: 100 TEST Best: 25 ODI Bowl Best: 76 T20I Bat Best: -- Best: Best: Best: Best: Bowl Best: 49 75"](https://scontent.ftrv1-1.fna.fbcdn.net/v/t1.0-9/143496886_2727488410898002_4212082476858711557_o.jpg?_nc_cat=101&ccb=2&_nc_sid=8bfeb9&_nc_ohc=ceoNgJq1kzAAX_s-4DX&_nc_ht=scontent.ftrv1-1.fna&oh=bb41bcf08ada7ee7db1d6828be4af14d&oe=603B74C3) *

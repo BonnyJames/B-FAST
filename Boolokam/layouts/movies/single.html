@@ -27,9 +27,15 @@
                 {{ end }}
             </div>
             
-            {{ with .Params.genres }}
+            {{ if .Params.movie_genres }}
             <div class="movie-genres">
-                {{ range . }}
+                {{ range .Params.movie_genres }}
+                <span class="genre-tag">{{ . }}</span>
+                {{ end }}
+            </div>
+            {{ else if .Params.genres }}
+            <div class="movie-genres">
+                {{ range .Params.genres }}
                 <span class="genre-tag">{{ . }}</span>
                 {{ end }}
             </div>

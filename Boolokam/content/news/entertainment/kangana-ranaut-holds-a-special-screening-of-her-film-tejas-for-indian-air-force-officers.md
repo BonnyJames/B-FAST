@@ -1,0 +1,65 @@
+---
+title: "ബോളിവുഡ് താരം കങ്കണ റണാവത്ത് ഇന്ന് സന്തോഷവതിയാണ്, കാരണം ഇതാണ്"
+date: 2023-10-22T06:05:38
+draft: false
+categories: ["Entertainment"]
+tags: ['Kangana Ranaut', 'Ronnie S', 'Sarvesh M', 'tejas']
+author: "Beaumaris"
+---
+
+ബോളിവുഡ് താരം കങ്കണ റണാവത്ത് ഇന്ന് സന്തോഷവതിയാണ്. അങ്ങനെ ആകാൻ എല്ലാ കാരണവുമുണ്ട്. അവളുടെ ഏറ്റവും പ്രതീക്ഷയോടെ കാത്തിരിക്കുന്ന ചിത്രം 'തേജസ്' ഈ ഒക്ടോബർ 27 ന് തിയേറ്ററുകളിൽ റിലീസിന് തയ്യാറെടുക്കുകയാണ്. ചിത്രം ബോക്‌സ് ഓഫീസിൽ ജാക്ക്‌പോട്ട് ഹിറ്റ് ചെയ്യുന്നുവെന്ന് ഉറപ്പാക്കാൻ നടി ആവുന്നതെല്ലാം ചെയ്യുന്നുണ്ട്.. പ്രതിരോധ മന്ത്രി രാജ്‌നാഥ് സിംഗിനും ഇന്ത്യൻ എയർഫോഴ്‌സിലെ ഉദ്യോഗസ്ഥർക്കും വേണ്ടി കങ്കണ റണാവത്ത് തന്റെ ‘തേജസ്’ എന്ന സിനിമയുടെ പ്രത്യേക പ്രദർശനം ഇന്ത്യൻ എയർഫോഴ്‌സ് ഓഡിറ്റോറിയത്തിൽ സംഘടിപ്പിച്ചു എന്നത് താരത്തിന്റെ സന്തോഷം വർദ്ധിപ്പിക്കുന്നു.
+<blockquote class="instagram-media" style="background: #FFF; border: 0; border-radius: 3px; box-shadow: 0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width: 540px; min-width: 326px; padding: 0; width: calc(100% - 2px);" data-instgrm-captioned="" data-instgrm-permalink="https://www.instagram.com/p/Cyqa94eolsd/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14">
+<div style="padding: 16px;">
+
+&nbsp;
+<div style="display: flex; flex-direction: row; align-items: center;">
+<div style="background-color: #f4f4f4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div>
+<div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;">
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div>
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div>
+</div>
+</div>
+<div style="padding: 19% 0;"></div>
+<div style="display: block; height: 50px; margin: 0 auto 12px; width: 50px;"></div>
+<div style="padding-top: 8px;">
+<div style="color: #3897f0; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: 550; line-height: 18px;">View this post on Instagram</div>
+</div>
+<div style="padding: 12.5% 0;"></div>
+<div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;">
+<div>
+<div style="background-color: #f4f4f4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div>
+<div style="background-color: #f4f4f4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div>
+<div style="background-color: #f4f4f4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div>
+</div>
+<div style="margin-left: 8px;">
+<div style="background-color: #f4f4f4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div>
+<div style="width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg);"></div>
+</div>
+<div style="margin-left: auto;">
+<div style="width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div>
+<div style="background-color: #f4f4f4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div>
+<div style="width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div>
+</div>
+</div>
+<div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;">
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div>
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div>
+</div>
+&nbsp;
+<p style="color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; line-height: 17px; margin-bottom: 0; margin-top: 8px; overflow: hidden; padding: 8px 0 7px; text-align: center; text-overflow: ellipsis; white-space: nowrap;"><a style="color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: normal; line-height: 17px; text-decoration: none;" href="https://www.instagram.com/p/Cyqa94eolsd/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" rel="noopener">A post shared by Kangana Ranaut (@kanganaranaut)</a></p>
+
+</div></blockquote>
+<script async src="//www.instagram.com/embed.js"></script>
+
+ചിത്രത്തിന്റെ പ്രദർശനത്തിന് ശേഷം കങ്കണ റണാവത്ത് സോഷ്യൽ മീഡിയയിൽ പ്രത്യേക സ്‌ക്രീനിംഗിന്റെ ഫോട്ടോകൾ പോസ്റ്റ് ചെയ്തു. “തേജസ് ടീം ബഹുമാനപ്പെട്ട പ്രതിരോധ മന്ത്രി @rajnathsinghbjp ജിക്കും ഇന്ത്യൻ എയർഫോഴ്‌സിലെ നിരവധി വിശിഷ്ട വ്യക്തികൾക്കും വേണ്ടി ഇന്ത്യൻ എയർഫോഴ്‌സ് ഓഡിറ്റോറിയത്തിൽ പ്രത്യേക സ്‌ക്രീനിംഗ് നടത്തി. നിരവധി സൈനികരും ബഹുമാനപ്പെട്ട പ്രതിരോധ മന്ത്രിയും നമ്മുടെ സൈനികർക്കു വേണ്ടി സമർപ്പിച്ച ഒരു സിനിമ കാണുന്നത് ആവേശകരമായ അനുഭവമായിരുന്നു. ചീഫ് ഓഫ് ഡിഫൻസ് സ്റ്റാഫ് ജനറൽ അനിൽ ചൗഹാൻ PVSM, UYSM, AVSM, SM, VSM സിനിമ കണ്ടതിന് ശേഷം ജാക്കറ്റിൽ നിന്ന് യുദ്ധവിമാനത്തിന്റെ ആകൃതിയിലുള്ള ബ്രൂച്ച് അഴിച്ച് എന്റെ സംവിധായകൻ @സർവേശ്മേവാരയ്ക്ക് സമ്മാനിച്ചത് ഞങ്ങളെ ആഴത്തിൽ സ്പർശിച്ചു. ഞങ്ങളുടെ ദൗത്യം. വരുന്ന വെള്ളിയാഴ്ച ഒക്‌ടോബർ 27 ന് നിങ്ങളിലേക്ക് എത്തിക്കാൻ കാത്തിരിക്കാൻ വയ്യാത്തത്ര ത്രില്ലിലാണ് ഞങ്ങൾ”.
+
+https://youtu.be/UN6ZNUgPsPk
+
+ചിത്രത്തിലെ അഭിനേതാക്കളെ സംബന്ധിച്ചിടത്തോളം, കങ്കണ റണാവത്തിനെ കൂടാതെ, വരുൺ മിത്ര, അൻഷുൽ ചൗഹാൻ, വിശാഖ് നായർ, ആശിഷ് വിദ്യാർത്ഥി എന്നിവരും പ്രധാന കഥാപാത്രങ്ങളെ അവതരിപ്പിക്കുന്നു. ഈ വർഷം ഒക്ടോബർ 27 ന് റിലീസ് ചെയ്യാൻ തീരുമാനിച്ചിരിക്കുന്ന പ്രചോദനാത്മകമായ ചിത്രം 'തേജസ്' സംവിധാനം ചെയ്തിരിക്കുന്നത് ചിത്രത്തിന്റെ രചന നിർവ്വഹിച്ച സർവേഷ് മേവാരയാണ്. റോണി സ്ക്രൂവാലയാണ് ചിത്രം നിർമ്മിച്ചിരിക്കുന്നത്. 'തേജസ്' കൂടാതെ, കങ്കണ റണാവത്ത് തന്റെ അടുത്ത ചിത്രമായ 'എമർജൻസി'യുടെ തിരക്കിലാണ്, അതിൽ അവൾ കേന്ദ്ര കഥാപാത്രത്തെ അവതരിപ്പിക്കുന്നു.
+ബോളിവുഡ് താരം കങ്കണ റണാവത്ത് ഇന്ന് സന്തോഷവതിയാണ്. അങ്ങനെ ആകാൻ എല്ലാ കാരണവുമുണ്ട്. അവളുടെ ഏറ്റവും പ്രതീക്ഷയോടെ കാത്തിരിക്കുന്ന ചിത്രം 'തേജസ്' ഈ ഒക്ടോബർ 27 ന് തിയേറ്ററുകളിൽ റിലീസിന് തയ്യാറെടുക്കുകയാണ്. ചിത്രം ബോക്‌സ് ഓഫീസിൽ ജാക്ക്‌പോട്ട് ഹിറ്റ് ചെയ്യുന്നുവെന്ന് ഉറപ്പാക്കാൻ നടി ആവുന്നതെല്ലാം ചെയ്യുന്നുണ്ട്.. പ്രതിരോധ മന്ത്രി രാജ്‌നാഥ് സിംഗിനും ഇന്ത്യൻ എയർഫോഴ്‌സിലെ ഉദ്യോഗസ്ഥർക്കും വേണ്ടി കങ്കണ റണാവത്ത് തന്റെ ‘തേജസ്’ എന്ന സിനിമയുടെ പ്രത്യേക പ്രദർശനം ഇന്ത്യൻ എയർഫോഴ്‌സ് ഓഡിറ്റോറിയത്തിൽ സംഘടിപ്പിച്ചു എന്നത് താരത്തിന്റെ സന്തോഷം വർദ്ധിപ്പിക്കുന്നു. 
+
+> View this post on Instagram
+> 
+> [A post shared by Kangana Ranaut (@kanganaranaut)](https://www.instagram.com/p/Cyqa94eolsd/?utm_source=ig_embed&utm_campaign=loading)
+
+ചിത്രത്തിന്റെ പ്രദർശനത്തിന് ശേഷം കങ്കണ റണാവത്ത് സോഷ്യൽ മീഡിയയിൽ പ്രത്യേക സ്‌ക്രീനിംഗിന്റെ ഫോട്ടോകൾ പോസ്റ്റ് ചെയ്തു. “തേജസ് ടീം ബഹുമാനപ്പെട്ട പ്രതിരോധ മന്ത്രി @rajnathsinghbjp ജിക്കും ഇന്ത്യൻ എയർഫോഴ്‌സിലെ നിരവധി വിശിഷ്ട വ്യക്തികൾക്കും വേണ്ടി ഇന്ത്യൻ എയർഫോഴ്‌സ് ഓഡിറ്റോറിയത്തിൽ പ്രത്യേക സ്‌ക്രീനിംഗ് നടത്തി. നിരവധി സൈനികരും ബഹുമാനപ്പെട്ട പ്രതിരോധ മന്ത്രിയും നമ്മുടെ സൈനികർക്കു വേണ്ടി സമർപ്പിച്ച ഒരു സിനിമ കാണുന്നത് ആവേശകരമായ അനുഭവമായിരുന്നു. ചീഫ് ഓഫ് ഡിഫൻസ് സ്റ്റാഫ് ജനറൽ അനിൽ ചൗഹാൻ PVSM, UYSM, AVSM, SM, VSM സിനിമ കണ്ടതിന് ശേഷം ജാക്കറ്റിൽ നിന്ന് യുദ്ധവിമാനത്തിന്റെ ആകൃതിയിലുള്ള ബ്രൂച്ച് അഴിച്ച് എന്റെ സംവിധായകൻ @സർവേശ്മേവാരയ്ക്ക് സമ്മാനിച്ചത് ഞങ്ങളെ ആഴത്തിൽ സ്പർശിച്ചു. ഞങ്ങളുടെ ദൗത്യം. വരുന്ന വെള്ളിയാഴ്ച ഒക്‌ടോബർ 27 ന് നിങ്ങളിലേക്ക് എത്തിക്കാൻ കാത്തിരിക്കാൻ വയ്യാത്തത്ര ത്രില്ലിലാണ് ഞങ്ങൾ”. https://youtu.be/UN6ZNUgPsPk ചിത്രത്തിലെ അഭിനേതാക്കളെ സംബന്ധിച്ചിടത്തോളം, കങ്കണ റണാവത്തിനെ കൂടാതെ, വരുൺ മിത്ര, അൻഷുൽ ചൗഹാൻ, വിശാഖ് നായർ, ആശിഷ് വിദ്യാർത്ഥി എന്നിവരും പ്രധാന കഥാപാത്രങ്ങളെ അവതരിപ്പിക്കുന്നു. ഈ വർഷം ഒക്ടോബർ 27 ന് റിലീസ് ചെയ്യാൻ തീരുമാനിച്ചിരിക്കുന്ന പ്രചോദനാത്മകമായ ചിത്രം 'തേജസ്' സംവിധാനം ചെയ്തിരിക്കുന്നത് ചിത്രത്തിന്റെ രചന നിർവ്വഹിച്ച സർവേഷ് മേവാരയാണ്. റോണി സ്ക്രൂവാലയാണ് ചിത്രം നിർമ്മിച്ചിരിക്കുന്നത്. 'തേജസ്' കൂടാതെ, കങ്കണ റണാവത്ത് തന്റെ അടുത്ത ചിത്രമായ 'എമർജൻസി'യുടെ തിരക്കിലാണ്, അതിൽ അവൾ കേന്ദ്ര കഥാപാത്രത്തെ അവതരിപ്പിക്കുന്നു.

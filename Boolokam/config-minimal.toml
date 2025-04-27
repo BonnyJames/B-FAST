@@ -1,0 +1,13 @@
+# Minimal config overlay to fix "too many open files" issue
+[watch]
+  disablePolling = false
+  polling = true
+  pollInterval = 5000  # 5 seconds
+  [watch.pathspec]
+    exclude = ["**/.git/**", "**/.DS_Store", "**/.hugo_build.lock", "**/node_modules/**", "**/resources/**", "**/public/**", "**/tmp/**"]
+
+[server]
+  disableLiveReload = true
+  
+[build]
+  useResourceCacheWhen = "fallback"

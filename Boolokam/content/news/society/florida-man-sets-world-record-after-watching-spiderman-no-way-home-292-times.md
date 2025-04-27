@@ -1,0 +1,29 @@
+---
+title: "റാമിറോ അലാനിസ് ഗിന്നസ് ബുക്കിൽ കയറിയത് അധികമാരും ചെയ്യാത്ത ഒരു കാര്യം ചെയ്തുകൊണ്ടാണ്"
+date: 2022-04-18T11:02:01
+draft: false
+categories: ["Society"]
+tags: ['Guinness Book of World Records', 'No Way Home', 'spiderman']
+author: "Beaumaris"
+---
+
+റാമിറോ അലാനിസ് ഗിന്നസ് ബുക്കിൽ കയറിയത് അധികമാരും ചെയ്യാത്ത ഒരു കാര്യം ചെയ്തുകൊണ്ടാണ്. നമ്മൾ ഒരു സിനിമ പലതവണ കണ്ടിരിക്കാം. ഇഷ്ട സിനിമയാണെങ്കിൽ അതിലുമേറെ കണ്ടിരിക്കാം. എങ്കിലും ജീവിതം അവസാനിക്കുന്നതുവരെ നമ്മൾ ഒരു ഇഷ്ട സിനിമ എത്ര തവണ കണ്ടിരിക്കും ? ചിലപ്പോൾ അമ്പത് തവണ. അതിനപ്പുറം പോകാൻ സാധ്യതയില്ല. എന്നാൽ റാമിറോ അലാനിസ് ഈയിടെ പുറത്തിറങ്ങിയ സ്പൈഡർമാൻ നോ വേ ഹോം എന്ന ചിത്രം 292 തവണയാണ് കണ്ടത്. തിയേറ്ററിൽ സ്പൈഡർമാൻ സിനിമയുടെ അവസാനപ്രദർശനം വരെ തുടർച്ചയായി റാമിറോ സിനിമ കണ്ടു.
+
+<img class="wp-image-330214 aligncenter" src="https://cdn.boolokam.com/articles/2022/04/HHHH.webp" alt="" width="800" height="600" />രണ്ടുവർഷം മുൻപ് അന്തരിച്ച തന്റെ മുത്തശ്ശി ജുവാനിയുടെ സ്മരണാർത്ഥമാണ് റാമിറോ സിനിമ കണ്ട് ​ഗിന്നസിൽ കയറാനുള്ള ശ്രമം വീണ്ടും നടത്തിയത്. തന്നെ ഏറ്റവുംകൂടുതൽ പിന്തുണച്ചിട്ടുള്ളതെന്ന് മുത്തശ്ശിയാണ് എന്ന് അദ്ദേഹം പറഞ്ഞു
+
+അതും മൂന്ന് മാസംകൊണ്ടണ് കക്ഷി ഇത്രയും തവണ ചിത്രം കണ്ടത്. . കൃത്യമായി പറയുകയാണെങ്കിൽ 2021 ഡിസംബർ 16 മുതൽ 2022 മാർച്ച് 15 വരെ. ഇതാദ്യമായല്ല റാമിറോ ഇത്തരത്തിലുള്ള നേട്ടം കൈവരിക്കുന്നത്. മാർവലിന്റെ അവഞ്ചേഴ്സ്: എൻഡ് ​ഗെയിം എന്ന ചിത്രം 2019-ൽ 191 തവണയാണ് റാമിറോ കണ്ടത്. എന്നാൽ അർനോഡ് ക്ലീൻ എന്നയാൾ 2021- ൽ കാമിലോട്ട് എന്ന വെബ് സീരീസ് 204 തവണ കണ്ട് റാമിറോയുടെ റെക്കോർഡ് ഭേദിച്ചിരുന്നു .
+<blockquote class="twitter-tweet">
+<p dir="ltr" lang="en">292 Cinema Productions attended of the same Film - <a href="https://twitter.com/SpiderManMovie?ref_src=twsrc%5Etfw">@SpiderManMovie</a>
+
+My swing got to it’s end…????????❤️????
+
+Thank you all.<a href="https://twitter.com/TomHolland1996?ref_src=twsrc%5Etfw">@TomHolland1996</a> <a href="https://twitter.com/SonyPictures?ref_src=twsrc%5Etfw">@SonyPictures</a> <a href="https://twitter.com/jnwtts?ref_src=twsrc%5Etfw">@jnwtts</a> <a href="https://twitter.com/ComicBook?ref_src=twsrc%5Etfw">@ComicBook</a> <a href="https://twitter.com/GabyMeza8?ref_src=twsrc%5Etfw">@GabyMeza8</a> <a href="https://twitter.com/hashtag/SpiderMan?src=hash&amp;ref_src=twsrc%5Etfw">#SpiderMan</a> <a href="https://twitter.com/hashtag/SpiderManNoWayHome?src=hash&amp;ref_src=twsrc%5Etfw">#SpiderManNoWayHome</a> <a href="https://twitter.com/MarvelStudios?ref_src=twsrc%5Etfw">@MarvelStudios</a> <a href="https://twitter.com/hashtag/marvel?src=hash&amp;ref_src=twsrc%5Etfw">#marvel</a> <a href="https://twitter.com/GWR?ref_src=twsrc%5Etfw">@GWR</a> <a href="https://twitter.com/hashtag/TigreVengador?src=hash&amp;ref_src=twsrc%5Etfw">#TigreVengador</a> <a href="https://twitter.com/Zendaya?ref_src=twsrc%5Etfw">@Zendaya</a> <a href="https://twitter.com/hashtag/MCU?src=hash&amp;ref_src=twsrc%5Etfw">#MCU</a> <a href="https://twitter.com/hashtag/GWR?src=hash&amp;ref_src=twsrc%5Etfw">#GWR</a> <a href="https://twitter.com/hashtag/movies?src=hash&amp;ref_src=twsrc%5Etfw">#movies</a> <a href="https://t.co/GdujHslShN">pic.twitter.com/GdujHslShN</a></p>
+— El Tigre Vengador (@agalanis17) <a href="https://twitter.com/agalanis17/status/1503551253082685450?ref_src=twsrc%5Etfw">March 15, 2022</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+![റാമിറോ അലാനിസ് ഗിന്നസ് ബുക്കിൽ കയറിയത് അധികമാരും ചെയ്യാത്ത ഒരു കാര്യം ചെയ്തുകൊണ്ടാണ്](https://cdn.boolokam.com/articles/2022/04/HHHH.webp)റാമിറോ അലാനിസ് ഗിന്നസ് ബുക്കിൽ കയറിയത് അധികമാരും ചെയ്യാത്ത ഒരു കാര്യം ചെയ്തുകൊണ്ടാണ്. നമ്മൾ ഒരു സിനിമ പലതവണ കണ്ടിരിക്കാം. ഇഷ്ട സിനിമയാണെങ്കിൽ അതിലുമേറെ കണ്ടിരിക്കാം. എങ്കിലും ജീവിതം അവസാനിക്കുന്നതുവരെ നമ്മൾ ഒരു ഇഷ്ട സിനിമ എത്ര തവണ കണ്ടിരിക്കും ? ചിലപ്പോൾ അമ്പത് തവണ. അതിനപ്പുറം പോകാൻ സാധ്യതയില്ല. എന്നാൽ റാമിറോ അലാനിസ് ഈയിടെ പുറത്തിറങ്ങിയ സ്പൈഡർമാൻ നോ വേ ഹോം എന്ന ചിത്രം 292 തവണയാണ് കണ്ടത്. തിയേറ്ററിൽ സ്പൈഡർമാൻ സിനിമയുടെ അവസാനപ്രദർശനം വരെ തുടർച്ചയായി റാമിറോ സിനിമ കണ്ടു. രണ്ടുവർഷം മുൻപ് അന്തരിച്ച തന്റെ മുത്തശ്ശി ജുവാനിയുടെ സ്മരണാർത്ഥമാണ് റാമിറോ സിനിമ കണ്ട് ​ഗിന്നസിൽ കയറാനുള്ള ശ്രമം വീണ്ടും നടത്തിയത്. തന്നെ ഏറ്റവുംകൂടുതൽ പിന്തുണച്ചിട്ടുള്ളതെന്ന് മുത്തശ്ശിയാണ് എന്ന് അദ്ദേഹം പറഞ്ഞു അതും മൂന്ന് മാസംകൊണ്ടണ് കക്ഷി ഇത്രയും തവണ ചിത്രം കണ്ടത്. . കൃത്യമായി പറയുകയാണെങ്കിൽ 2021 ഡിസംബർ 16 മുതൽ 2022 മാർച്ച് 15 വരെ. ഇതാദ്യമായല്ല റാമിറോ ഇത്തരത്തിലുള്ള നേട്ടം കൈവരിക്കുന്നത്. മാർവലിന്റെ അവഞ്ചേഴ്സ്: എൻഡ് ​ഗെയിം എന്ന ചിത്രം 2019-ൽ 191 തവണയാണ് റാമിറോ കണ്ടത്. എന്നാൽ അർനോഡ് ക്ലീൻ എന്നയാൾ 2021- ൽ കാമിലോട്ട് എന്ന വെബ് സീരീസ് 204 തവണ കണ്ട് റാമിറോയുടെ റെക്കോർഡ് ഭേദിച്ചിരുന്നു . 
+
+> 292 Cinema Productions attended of the same Film - [@SpiderManMovie](https://twitter.com/SpiderManMovie?ref_src=twsrc%5Etfw) My swing got to it’s end…????????❤️???? Thank you all.[@TomHolland1996](https://twitter.com/TomHolland1996?ref_src=twsrc%5Etfw) [@SonyPictures](https://twitter.com/SonyPictures?ref_src=twsrc%5Etfw) [@jnwtts](https://twitter.com/jnwtts?ref_src=twsrc%5Etfw) [@ComicBook](https://twitter.com/ComicBook?ref_src=twsrc%5Etfw) [@GabyMeza8](https://twitter.com/GabyMeza8?ref_src=twsrc%5Etfw) [#SpiderMan](https://twitter.com/hashtag/SpiderMan?src=hash&ref_src=twsrc%5Etfw) [#SpiderManNoWayHome](https://twitter.com/hashtag/SpiderManNoWayHome?src=hash&ref_src=twsrc%5Etfw) [@MarvelStudios](https://twitter.com/MarvelStudios?ref_src=twsrc%5Etfw) [#marvel](https://twitter.com/hashtag/marvel?src=hash&ref_src=twsrc%5Etfw) [@GWR](https://twitter.com/GWR?ref_src=twsrc%5Etfw) [#TigreVengador](https://twitter.com/hashtag/TigreVengador?src=hash&ref_src=twsrc%5Etfw) [@Zendaya](https://twitter.com/Zendaya?ref_src=twsrc%5Etfw) [#MCU](https://twitter.com/hashtag/MCU?src=hash&ref_src=twsrc%5Etfw) [#GWR](https://twitter.com/hashtag/GWR?src=hash&ref_src=twsrc%5Etfw) [#movies](https://twitter.com/hashtag/movies?src=hash&ref_src=twsrc%5Etfw) [pic.twitter.com/GdujHslShN](https://t.co/GdujHslShN)
+> 
+> — El Tigre Vengador (@agalanis17) [March 15, 2022](https://twitter.com/agalanis17/status/1503551253082685450?ref_src=twsrc%5Etfw)

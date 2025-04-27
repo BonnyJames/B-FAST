@@ -1,0 +1,203 @@
+---
+title: "ഒരു പെൺകുട്ടിയുടെ ആശ്ചര്യപ്പെടുത്തുന്ന ബൈക്കഭ്യാസ വീഡിയോ"
+date: 2023-08-05T13:52:56
+draft: false
+categories: ["Entertainment"]
+tags: ['Bike', 'bike stunt', 'sarah lezito', 'sarahlezito']
+author: "Bonny"
+---
+
+ബൈക്ക് സ്റ്റണ്ട് അല്ലെങ്കിൽ ഏതെങ്കിലും തരത്തിലുള്ള സ്റ്റണ്ട് ചെയ്യുന്നത് ഒരു കലയാണ്. എന്നാൽ ഈ കലയിൽ അപകടസാധ്യതയുമുണ്ട്. ചെറിയ പിഴവുണ്ടായാൽ സ്റ്റണ്ട് ചെയ്യുന്ന യുവാവോ യുവതിയോ അപകടത്തിൽപ്പെടും. ചിലപ്പോൾ ജീവന് തന്നെ അപായം സംഭവിക്കാം. . അതുകൊണ്ടാണ് പോലീസും ഇക്കാര്യത്തിൽ കർശനമായ നിലപാട് സ്വീകരിക്കുന്നത്, സ്റ്റണ്ടർമാർക്ക് വളരെ കനത്ത പിഴ ചുമത്തുന്നത് നിങ്ങൾ വീഡിയോകളിൽ കണ്ടിരിക്കണം. ഇന്ന് ഞങ്ങൾ നിങ്ങളുമായി പങ്കുവെക്കാൻ പോകുന്നത് ഒരു പെൺകുട്ടിയുടെ ആശ്ചര്യപ്പെടുത്തുന്ന ബൈക്കഭ്യാസ വീഡിയോകളാണ്.
+<blockquote class="instagram-media" style="background: #FFF; border: 0; border-radius: 3px; box-shadow: 0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width: 540px; min-width: 326px; padding: 0; width: calc(100% - 2px);" data-instgrm-captioned="" data-instgrm-permalink="https://www.instagram.com/reel/CvfK-pcoWy9/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14">
+<div style="padding: 16px;">
+
+&nbsp;
+<div style="display: flex; flex-direction: row; align-items: center;">
+<div style="background-color: #f4f4f4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div>
+<div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;">
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div>
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div>
+</div>
+</div>
+<div style="padding: 19% 0;"></div>
+<div style="display: block; height: 50px; margin: 0 auto 12px; width: 50px;"></div>
+<div style="padding-top: 8px;">
+<div style="color: #3897f0; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: 550; line-height: 18px;">View this post on Instagram</div>
+</div>
+<div style="padding: 12.5% 0;"></div>
+<div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;">
+<div>
+<div style="background-color: #f4f4f4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div>
+<div style="background-color: #f4f4f4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div>
+<div style="background-color: #f4f4f4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div>
+</div>
+<div style="margin-left: 8px;">
+<div style="background-color: #f4f4f4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div>
+<div style="width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg);"></div>
+</div>
+<div style="margin-left: auto;">
+<div style="width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div>
+<div style="background-color: #f4f4f4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div>
+<div style="width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div>
+</div>
+</div>
+<div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;">
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div>
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div>
+</div>
+&nbsp;
+<p style="color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; line-height: 17px; margin-bottom: 0; margin-top: 8px; overflow: hidden; padding: 8px 0 7px; text-align: center; text-overflow: ellipsis; white-space: nowrap;"><a style="color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: normal; line-height: 17px; text-decoration: none;" href="https://www.instagram.com/reel/CvfK-pcoWy9/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" rel="noopener">A post shared by Sarah Lezito (@sarahlezito)</a></p>
+
+</div></blockquote>
+<script async src="//www.instagram.com/embed.js"></script>
+
+ഈ ബൈക് സ്റ്റണ്ടിന്റെ വീഡിയോ സോഷ്യൽ മീഡിയയിൽ കൂടുതൽ വൈറലായിക്കൊണ്ടിരിക്കുകയാണ്. പെൺകുട്ടി ബൈക്കിനൊപ്പം നിൽക്കുന്നത് വീഡിയോയിൽ കാണാം. ബൈക്ക് ഉപയോഗിച്ച് കിടിലൻ സ്റ്റണ്ടുകളാണ് പെൺകുട്ടി നടത്തുന്നത്. ഭയമില്ലാതെ അവൾ ബൈക്കിന്റെ സൈഡിൽ ഇരുന്ന് ബൈക്കിൽ കറങ്ങുന്നത് വീഡിയോയിൽ വ്യക്തമായി കാണാം. ഒരു ചെറിയ പിഴവെങ്കിലും ആ പെൺകുട്ടിക്ക് സംഭവിക്കാം എന്നതിൽ സംശയമില്ല. എങ്കിലും ഹെൽമറ്റ് ധരിച്ചാണ് പെൺകുട്ടി സ്റ്റണ്ട് ചെയ്യുന്നത് എന്നത് ആശ്വാസകരമായ കാര്യമാണ്.
+<blockquote class="instagram-media" style="background: #FFF; border: 0; border-radius: 3px; box-shadow: 0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width: 540px; min-width: 326px; padding: 0; width: calc(100% - 2px);" data-instgrm-captioned="" data-instgrm-permalink="https://www.instagram.com/reel/CvXdzNJoi7h/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14">
+<div style="padding: 16px;">
+
+&nbsp;
+<div style="display: flex; flex-direction: row; align-items: center;">
+<div style="background-color: #f4f4f4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div>
+<div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;">
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div>
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div>
+</div>
+</div>
+<div style="padding: 19% 0;"></div>
+<div style="display: block; height: 50px; margin: 0 auto 12px; width: 50px;"></div>
+<div style="padding-top: 8px;">
+<div style="color: #3897f0; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: 550; line-height: 18px;">View this post on Instagram</div>
+</div>
+<div style="padding: 12.5% 0;"></div>
+<div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;">
+<div>
+<div style="background-color: #f4f4f4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div>
+<div style="background-color: #f4f4f4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div>
+<div style="background-color: #f4f4f4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div>
+</div>
+<div style="margin-left: 8px;">
+<div style="background-color: #f4f4f4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div>
+<div style="width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg);"></div>
+</div>
+<div style="margin-left: auto;">
+<div style="width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div>
+<div style="background-color: #f4f4f4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div>
+<div style="width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div>
+</div>
+</div>
+<div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;">
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div>
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div>
+</div>
+&nbsp;
+<p style="color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; line-height: 17px; margin-bottom: 0; margin-top: 8px; overflow: hidden; padding: 8px 0 7px; text-align: center; text-overflow: ellipsis; white-space: nowrap;"><a style="color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: normal; line-height: 17px; text-decoration: none;" href="https://www.instagram.com/reel/CvXdzNJoi7h/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" rel="noopener">A post shared by Sarah Lezito (@sarahlezito)</a></p>
+
+</div></blockquote>
+<script async src="//www.instagram.com/embed.js"></script>
+
+ഒരു ഇൻസ്റ്റാഗ്രാം ഉപയോക്താവാണ് ഈ വീഡിയോ തന്റെ പ്രൊഫൈലിൽ ഷെയർ ചെയ്തിരിക്കുന്നത്. ലക്ഷക്കണക്കിന് ആളുകളാണ് വീഡിയോ കണ്ടത്. ഇതേ വീഡിയോ വൈറലാകുമ്പോൾ ഉപയോക്താക്കളുടെ പ്രതികരണങ്ങൾ കാണുന്നുണ്ട്. നിങ്ങളുടെ കഴിവ് അതിശയകരമാണെന്ന് ഒരു ഉപയോക്താവ് എഴുതി. ഒരു ഉപയോക്താവ് എങ്ങനെയാണ് ഇത്ര എളുപ്പത്തിൽ ബാലൻസ് ചെയ്യാൻ കഴിഞ്ഞതെന്ന് എഴുതി. ഒരു പെൺകുട്ടിയിൽ അത്തരമൊരു കഴിവ് ഞങ്ങൾ ആദ്യമായി കാണുന്നുവെന്നും ഈ വീഡിയോ ശരിക്കും ഹൃദയം കീഴടക്കുമെന്നും ഒരു ഇൻസ്റ്റാഗ്രാം ഉപയോക്താവ് എഴുതി.നിങ്ങൾ അത്ഭുതങ്ങൾ ചെയ്തുവെന്ന് ഒരു ഉപയോക്താവ് എഴുതി.
+<blockquote class="instagram-media" style="background: #FFF; border: 0; border-radius: 3px; box-shadow: 0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width: 540px; min-width: 326px; padding: 0; width: calc(100% - 2px);" data-instgrm-captioned="" data-instgrm-permalink="https://www.instagram.com/reel/CvU28TioCqv/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14">
+<div style="padding: 16px;">
+
+&nbsp;
+<div style="display: flex; flex-direction: row; align-items: center;">
+<div style="background-color: #f4f4f4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div>
+<div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;">
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div>
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div>
+</div>
+</div>
+<div style="padding: 19% 0;"></div>
+<div style="display: block; height: 50px; margin: 0 auto 12px; width: 50px;"></div>
+<div style="padding-top: 8px;">
+<div style="color: #3897f0; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: 550; line-height: 18px;">View this post on Instagram</div>
+</div>
+<div style="padding: 12.5% 0;"></div>
+<div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;">
+<div>
+<div style="background-color: #f4f4f4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div>
+<div style="background-color: #f4f4f4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div>
+<div style="background-color: #f4f4f4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div>
+</div>
+<div style="margin-left: 8px;">
+<div style="background-color: #f4f4f4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div>
+<div style="width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg);"></div>
+</div>
+<div style="margin-left: auto;">
+<div style="width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div>
+<div style="background-color: #f4f4f4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div>
+<div style="width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div>
+</div>
+</div>
+<div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;">
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div>
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div>
+</div>
+&nbsp;
+<p style="color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; line-height: 17px; margin-bottom: 0; margin-top: 8px; overflow: hidden; padding: 8px 0 7px; text-align: center; text-overflow: ellipsis; white-space: nowrap;"><a style="color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: normal; line-height: 17px; text-decoration: none;" href="https://www.instagram.com/reel/CvU28TioCqv/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" rel="noopener">A post shared by Sarah Lezito (@sarahlezito)</a></p>
+
+</div></blockquote>
+<script async src="//www.instagram.com/embed.js"></script>
+<blockquote class="instagram-media" style="background: #FFF; border: 0; border-radius: 3px; box-shadow: 0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width: 540px; min-width: 326px; padding: 0; width: calc(100% - 2px);" data-instgrm-captioned="" data-instgrm-permalink="https://www.instagram.com/reel/CueyO5DouHq/?utm_source=ig_embed&amp;utm_campaign=loading" data-instgrm-version="14">
+<div style="padding: 16px;">
+
+&nbsp;
+<div style="display: flex; flex-direction: row; align-items: center;">
+<div style="background-color: #f4f4f4; border-radius: 50%; flex-grow: 0; height: 40px; margin-right: 14px; width: 40px;"></div>
+<div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;">
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 100px;"></div>
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; width: 60px;"></div>
+</div>
+</div>
+<div style="padding: 19% 0;"></div>
+<div style="display: block; height: 50px; margin: 0 auto 12px; width: 50px;"></div>
+<div style="padding-top: 8px;">
+<div style="color: #3897f0; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: 550; line-height: 18px;">View this post on Instagram</div>
+</div>
+<div style="padding: 12.5% 0;"></div>
+<div style="display: flex; flex-direction: row; margin-bottom: 14px; align-items: center;">
+<div>
+<div style="background-color: #f4f4f4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(0px) translateY(7px);"></div>
+<div style="background-color: #f4f4f4; height: 12.5px; transform: rotate(-45deg) translateX(3px) translateY(1px); width: 12.5px; flex-grow: 0; margin-right: 14px; margin-left: 2px;"></div>
+<div style="background-color: #f4f4f4; border-radius: 50%; height: 12.5px; width: 12.5px; transform: translateX(9px) translateY(-18px);"></div>
+</div>
+<div style="margin-left: 8px;">
+<div style="background-color: #f4f4f4; border-radius: 50%; flex-grow: 0; height: 20px; width: 20px;"></div>
+<div style="width: 0; height: 0; border-top: 2px solid transparent; border-left: 6px solid #f4f4f4; border-bottom: 2px solid transparent; transform: translateX(16px) translateY(-4px) rotate(30deg);"></div>
+</div>
+<div style="margin-left: auto;">
+<div style="width: 0px; border-top: 8px solid #F4F4F4; border-right: 8px solid transparent; transform: translateY(16px);"></div>
+<div style="background-color: #f4f4f4; flex-grow: 0; height: 12px; width: 16px; transform: translateY(-4px);"></div>
+<div style="width: 0; height: 0; border-top: 8px solid #F4F4F4; border-left: 8px solid transparent; transform: translateY(-4px) translateX(8px);"></div>
+</div>
+</div>
+<div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center; margin-bottom: 24px;">
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; margin-bottom: 6px; width: 224px;"></div>
+<div style="background-color: #f4f4f4; border-radius: 4px; flex-grow: 0; height: 14px; width: 144px;"></div>
+</div>
+&nbsp;
+<p style="color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; line-height: 17px; margin-bottom: 0; margin-top: 8px; overflow: hidden; padding: 8px 0 7px; text-align: center; text-overflow: ellipsis; white-space: nowrap;"><a style="color: #c9c8cd; font-family: Arial,sans-serif; font-size: 14px; font-style: normal; font-weight: normal; line-height: 17px; text-decoration: none;" href="https://www.instagram.com/reel/CueyO5DouHq/?utm_source=ig_embed&amp;utm_campaign=loading" target="_blank" rel="noopener">A post shared by Sarah Lezito (@sarahlezito)</a></p>
+
+</div></blockquote>
+<script async src="//www.instagram.com/embed.js"></script>
+ബൈക്ക് സ്റ്റണ്ട് അല്ലെങ്കിൽ ഏതെങ്കിലും തരത്തിലുള്ള സ്റ്റണ്ട് ചെയ്യുന്നത് ഒരു കലയാണ്. എന്നാൽ ഈ കലയിൽ അപകടസാധ്യതയുമുണ്ട്. ചെറിയ പിഴവുണ്ടായാൽ സ്റ്റണ്ട് ചെയ്യുന്ന യുവാവോ യുവതിയോ അപകടത്തിൽപ്പെടും. ചിലപ്പോൾ ജീവന് തന്നെ അപായം സംഭവിക്കാം. . അതുകൊണ്ടാണ് പോലീസും ഇക്കാര്യത്തിൽ കർശനമായ നിലപാട് സ്വീകരിക്കുന്നത്, സ്റ്റണ്ടർമാർക്ക് വളരെ കനത്ത പിഴ ചുമത്തുന്നത് നിങ്ങൾ വീഡിയോകളിൽ കണ്ടിരിക്കണം. ഇന്ന് ഞങ്ങൾ നിങ്ങളുമായി പങ്കുവെക്കാൻ പോകുന്നത് ഒരു പെൺകുട്ടിയുടെ ആശ്ചര്യപ്പെടുത്തുന്ന ബൈക്കഭ്യാസ വീഡിയോകളാണ്. 
+
+> View this post on Instagram
+> 
+> [A post shared by Sarah Lezito (@sarahlezito)](https://www.instagram.com/reel/CvfK-pcoWy9/?utm_source=ig_embed&utm_campaign=loading)
+
+ഈ ബൈക് സ്റ്റണ്ടിന്റെ വീഡിയോ സോഷ്യൽ മീഡിയയിൽ കൂടുതൽ വൈറലായിക്കൊണ്ടിരിക്കുകയാണ്. പെൺകുട്ടി ബൈക്കിനൊപ്പം നിൽക്കുന്നത് വീഡിയോയിൽ കാണാം. ബൈക്ക് ഉപയോഗിച്ച് കിടിലൻ സ്റ്റണ്ടുകളാണ് പെൺകുട്ടി നടത്തുന്നത്. ഭയമില്ലാതെ അവൾ ബൈക്കിന്റെ സൈഡിൽ ഇരുന്ന് ബൈക്കിൽ കറങ്ങുന്നത് വീഡിയോയിൽ വ്യക്തമായി കാണാം. ഒരു ചെറിയ പിഴവെങ്കിലും ആ പെൺകുട്ടിക്ക് സംഭവിക്കാം എന്നതിൽ സംശയമില്ല. എങ്കിലും ഹെൽമറ്റ് ധരിച്ചാണ് പെൺകുട്ടി സ്റ്റണ്ട് ചെയ്യുന്നത് എന്നത് ആശ്വാസകരമായ കാര്യമാണ്. 
+
+> View this post on Instagram
+> 
+> [A post shared by Sarah Lezito (@sarahlezito)](https://www.instagram.com/reel/CvXdzNJoi7h/?utm_source=ig_embed&utm_campaign=loading)
+
+ഒരു ഇൻസ്റ്റാഗ്രാം ഉപയോക്താവാണ് ഈ വീഡിയോ തന്റെ പ്രൊഫൈലിൽ ഷെയർ ചെയ്തിരിക്കുന്നത്. ലക്ഷക്കണക്കിന് ആളുകളാണ് വീഡിയോ കണ്ടത്. ഇതേ വീഡിയോ വൈറലാകുമ്പോൾ ഉപയോക്താക്കളുടെ പ്രതികരണങ്ങൾ കാണുന്നുണ്ട്. നിങ്ങളുടെ കഴിവ് അതിശയകരമാണെന്ന് ഒരു ഉപയോക്താവ് എഴുതി. ഒരു ഉപയോക്താവ് എങ്ങനെയാണ് ഇത്ര എളുപ്പത്തിൽ ബാലൻസ് ചെയ്യാൻ കഴിഞ്ഞതെന്ന് എഴുതി. ഒരു പെൺകുട്ടിയിൽ അത്തരമൊരു കഴിവ് ഞങ്ങൾ ആദ്യമായി കാണുന്നുവെന്നും ഈ വീഡിയോ ശരിക്കും ഹൃദയം കീഴടക്കുമെന്നും ഒരു ഇൻസ്റ്റാഗ്രാം ഉപയോക്താവ് എഴുതി.നിങ്ങൾ അത്ഭുതങ്ങൾ ചെയ്തുവെന്ന് ഒരു ഉപയോക്താവ് എഴുതി. 
+
+> View this post on Instagram
+> 
+> [A post shared by Sarah Lezito (@sarahlezito)](https://www.instagram.com/reel/CvU28TioCqv/?utm_source=ig_embed&utm_campaign=loading)
+
+> View this post on Instagram
+> 
+> [A post shared by Sarah Lezito (@sarahlezito)](https://www.instagram.com/reel/CueyO5DouHq/?utm_source=ig_embed&utm_campaign=loading)

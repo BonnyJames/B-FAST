@@ -1,0 +1,33 @@
+---
+title: "റെഡ് ഔട്ട് ഫിറ്റിൽ തിളങ്ങി രജീഷ വിജയൻ"
+date: 2023-05-06T09:41:49
+draft: false
+categories: ["Entertainment"]
+tags: ['Featured', 'photoshoot', 'rajisha vijayan']
+author: "Beaumaris"
+---
+
+അനുരാഗ കരിക്കിന്‍ വെള്ളം എന്ന ചിത്രത്തിലൂടെ പ്രേക്ഷകരുടെ പ്രിയപ്പെട്ട താരമായി മാറിയ നടിയാണ് രജിഷ വിജയന്‍. ന്യൂഡൽഹിയിലെ നോയിഡ സർവകലാശാലയിൽ നിന്നും ജേർണലിസത്തിൽ ബിരുദം നേടിയ രജിഷ മനസ്സിനക്കരെ, സൂര്യ ചലഞ്ച്, ഉഗ്രം ഉജ്ജ്വലം തുടങ്ങിയ ടെലിവിഷൻ പരിപാടികളുടെ അവതാരകയായിരുന്നു. ജോര്‍ജ്ജേട്ടന്‍സ് പൂരം, ഒരു സിനിമാക്കാരന്‍, ജൂണ്‍, ഫൈനല്‍സ്, സ്റ്റാന്‍ഡ് അപ്പ് തുടങ്ങിയവയാണ് അഭിനയിച്ച പ്രധാന ചിത്രങ്ങള്‍.
+
+<a href="https://cdn.boolokam.com/articles/2023/05/wwee-5.jpg"><img class="size-large wp-image-394602 aligncenter" src="https://cdn.boolokam.com/articles/2023/05/wwee-5.jpg" alt="" width="650" height="813" /></a>   അനുരാഗ കരിക്കിൻ വെള്ളത്തിൽ എലിസബത്ത് എന്ന കഥാപാത്രമായി മികച്ച പ്രകടനം കാഴ്ചവച്ച രജീഷയ്ക്ക് പിന്നീട് ഇങ്ങോട്ട് അവസരങ്ങൾ ധാരാളം ലഭിച്ചു. ആദ്യ സിനിമയ്ക്ക് ശേഷം ജോർജേട്ടൻസ് പൂരത്തിൽ ദിലീപിന്റെ നായികയായിട്ടാണ് രജീഷ അഭിനയിച്ചത്. പിന്നീട് ഒരു സിനിമാക്കാരൻ, ജൂൺ, ഫൈനൽസ്, സ്റ്റാൻഡ് അപ്പ് തുടങ്ങിയ സിനിമകളിലൂടെ രജീഷ സ്ഥാനം ഉറപ്പിച്ചു. ജൂണിൽ ടൈറ്റിൽ റോളിലാണ് രജീഷ അഭിനയിച്ചത്.
+
+<a href="https://cdn.boolokam.com/articles/2023/05/wwee-1.jpg"><img class="size-full wp-image-394598 aligncenter" src="https://cdn.boolokam.com/articles/2023/05/wwee-1.jpg" alt="" width="405" height="900" /></a>ധനുഷിന്റെ കർണൻ എന്ന സിനിമയിലൂടെ തമിഴിലും അരങ്ങേറി രജീഷ. ജയ് ഭീം, സർദാർ എന്നിവയാണ് രജീഷയുടെ മറ്റ് തമിഴ് സിനിമകൾ. എല്ലാം ശരിയാകും, ഫ്രീഡം ഫൈറ്റ്, മലയൻകുഞ്ഞ്, ലവ്‌ഫുള്ളി യുവേഴ്സ് വേദ, പകലും പാതിരാവും തുടങ്ങിയ മലയാള സിനിമകളിലും രജീഷ അഭിനയിച്ചിട്ടുണ്ട്. രാമറാവു ഓൺ ഡ്യൂട്ടി എന്ന സിനിമയിലൂടെ തെലുങ്കിലും രജീഷ അരങ്ങേറി. അമല, മധുരം മനോഹരം മോഹം എന്നിവയാണ് രജീഷയുടെ അടുത്ത സിനിമകൾ.
+
+<a href="https://cdn.boolokam.com/articles/2023/05/wwee-3.jpg"><img class="size-large wp-image-394600 aligncenter" src="https://cdn.boolokam.com/articles/2023/05/wwee-3.jpg" alt="" width="532" height="900" /></a>മധുരം മനോഹരം മോഹത്തിന്റെ ട്രെയിലർ കഴിഞ്ഞ ആഴ്ച ഇറങ്ങിയിരുന്നു. അതേസമയം സോഷ്യൽ മീഡിയയിൽ റെഡ് ഔട്ട് ഫിറ്റിൽ തിളങ്ങിയ തൻറെ പുതിയ ഫോട്ടോഷൂട്ടിന്റെ ചിത്രങ്ങൾ രജീഷ പങ്കുവച്ചിട്ടുണ്ട്. ജിക്സൺ ഫ്രാൻസിസ് ആണ് ഫോട്ടോസ് എടുത്തിരിക്കുന്നത്. ഹൗസ് ഓഫ് വണ്ടിയുടെ ഔട്ട് ഫിറ്റാണ് രജീഷ ധരിച്ചിരിക്കുന്നത്. റിസ് വാനാണ് താരത്തിന് ഷൂട്ടിന് വേണ്ടി മേക്കപ്പ് ചെയ്തിട്ടുള്ളത്.
+
+<a href="https://cdn.boolokam.com/articles/2023/05/wwee-8.jpg"><img class="size-large wp-image-394605 aligncenter" src="https://cdn.boolokam.com/articles/2023/05/wwee-8.jpg" alt="" width="650" height="813" /></a>
+
+<a href="https://cdn.boolokam.com/articles/2023/05/wwee-7.jpg"><img class="size-large wp-image-394604 aligncenter" src="https://cdn.boolokam.com/articles/2023/05/wwee-7.jpg" alt="" width="650" height="813" /></a>
+
+<a href="https://cdn.boolokam.com/articles/2023/05/wwee-6.jpg"><img class="size-large wp-image-394603 aligncenter" src="https://cdn.boolokam.com/articles/2023/05/wwee-6.jpg" alt="" width="467" height="900" /></a>
+
+<a href="https://cdn.boolokam.com/articles/2023/05/wwee-4.jpg"><img class="size-large wp-image-394601 aligncenter" src="https://cdn.boolokam.com/articles/2023/05/wwee-4.jpg" alt="" width="720" height="900" /></a>
+
+<a href="https://cdn.boolokam.com/articles/2023/05/wwee-2.jpg"><img class="size-large wp-image-394599 aligncenter" src="https://cdn.boolokam.com/articles/2023/05/wwee-2.jpg" alt="" width="650" height="813" /></a>
+
+**
+
+&nbsp;
+
+
+![റെഡ് ഔട്ട് ഫിറ്റിൽ തിളങ്ങി രജീഷ വിജയൻ](https://cdn.boolokam.com/articles/2023/05/wwee-5.jpg)അനുരാഗ കരിക്കിന്‍ വെള്ളം എന്ന ചിത്രത്തിലൂടെ പ്രേക്ഷകരുടെ പ്രിയപ്പെട്ട താരമായി മാറിയ നടിയാണ് രജിഷ വിജയന്‍. ന്യൂഡൽഹിയിലെ നോയിഡ സർവകലാശാലയിൽ നിന്നും ജേർണലിസത്തിൽ ബിരുദം നേടിയ രജിഷ മനസ്സിനക്കരെ, സൂര്യ ചലഞ്ച്, ഉഗ്രം ഉജ്ജ്വലം തുടങ്ങിയ ടെലിവിഷൻ പരിപാടികളുടെ അവതാരകയായിരുന്നു. ജോര്‍ജ്ജേട്ടന്‍സ് പൂരം, ഒരു സിനിമാക്കാരന്‍, ജൂണ്‍, ഫൈനല്‍സ്, സ്റ്റാന്‍ഡ് അപ്പ് തുടങ്ങിയവയാണ് അഭിനയിച്ച പ്രധാന ചിത്രങ്ങള്‍. [](https://cdn.boolokam.com/articles/2023/05/wwee-5.jpg) അനുരാഗ കരിക്കിൻ വെള്ളത്തിൽ എലിസബത്ത് എന്ന കഥാപാത്രമായി മികച്ച പ്രകടനം കാഴ്ചവച്ച രജീഷയ്ക്ക് പിന്നീട് ഇങ്ങോട്ട് അവസരങ്ങൾ ധാരാളം ലഭിച്ചു. ആദ്യ സിനിമയ്ക്ക് ശേഷം ജോർജേട്ടൻസ് പൂരത്തിൽ ദിലീപിന്റെ നായികയായിട്ടാണ് രജീഷ അഭിനയിച്ചത്. പിന്നീട് ഒരു സിനിമാക്കാരൻ, ജൂൺ, ഫൈനൽസ്, സ്റ്റാൻഡ് അപ്പ് തുടങ്ങിയ സിനിമകളിലൂടെ രജീഷ സ്ഥാനം ഉറപ്പിച്ചു. ജൂണിൽ ടൈറ്റിൽ റോളിലാണ് രജീഷ അഭിനയിച്ചത്. [![](https://cdn.boolokam.com/articles/2023/05/wwee-1.jpg)](https://cdn.boolokam.com/articles/2023/05/wwee-1.jpg)ധനുഷിന്റെ കർണൻ എന്ന സിനിമയിലൂടെ തമിഴിലും അരങ്ങേറി രജീഷ. ജയ് ഭീം, സർദാർ എന്നിവയാണ് രജീഷയുടെ മറ്റ് തമിഴ് സിനിമകൾ. എല്ലാം ശരിയാകും, ഫ്രീഡം ഫൈറ്റ്, മലയൻകുഞ്ഞ്, ലവ്‌ഫുള്ളി യുവേഴ്സ് വേദ, പകലും പാതിരാവും തുടങ്ങിയ മലയാള സിനിമകളിലും രജീഷ അഭിനയിച്ചിട്ടുണ്ട്. രാമറാവു ഓൺ ഡ്യൂട്ടി എന്ന സിനിമയിലൂടെ തെലുങ്കിലും രജീഷ അരങ്ങേറി. അമല, മധുരം മനോഹരം മോഹം എന്നിവയാണ് രജീഷയുടെ അടുത്ത സിനിമകൾ. [![](https://cdn.boolokam.com/articles/2023/05/wwee-3.jpg)](https://cdn.boolokam.com/articles/2023/05/wwee-3.jpg)മധുരം മനോഹരം മോഹത്തിന്റെ ട്രെയിലർ കഴിഞ്ഞ ആഴ്ച ഇറങ്ങിയിരുന്നു. അതേസമയം സോഷ്യൽ മീഡിയയിൽ റെഡ് ഔട്ട് ഫിറ്റിൽ തിളങ്ങിയ തൻറെ പുതിയ ഫോട്ടോഷൂട്ടിന്റെ ചിത്രങ്ങൾ രജീഷ പങ്കുവച്ചിട്ടുണ്ട്. ജിക്സൺ ഫ്രാൻസിസ് ആണ് ഫോട്ടോസ് എടുത്തിരിക്കുന്നത്. ഹൗസ് ഓഫ് വണ്ടിയുടെ ഔട്ട് ഫിറ്റാണ് രജീഷ ധരിച്ചിരിക്കുന്നത്. റിസ് വാനാണ് താരത്തിന് ഷൂട്ടിന് വേണ്ടി മേക്കപ്പ് ചെയ്തിട്ടുള്ളത്. [![](https://cdn.boolokam.com/articles/2023/05/wwee-8.jpg)](https://cdn.boolokam.com/articles/2023/05/wwee-8.jpg) [![](https://cdn.boolokam.com/articles/2023/05/wwee-7.jpg)](https://cdn.boolokam.com/articles/2023/05/wwee-7.jpg) [![](https://cdn.boolokam.com/articles/2023/05/wwee-6.jpg)](https://cdn.boolokam.com/articles/2023/05/wwee-6.jpg) [![](https://cdn.boolokam.com/articles/2023/05/wwee-4.jpg)](https://cdn.boolokam.com/articles/2023/05/wwee-4.jpg) [![](https://cdn.boolokam.com/articles/2023/05/wwee-2.jpg)](https://cdn.boolokam.com/articles/2023/05/wwee-2.jpg) ** 

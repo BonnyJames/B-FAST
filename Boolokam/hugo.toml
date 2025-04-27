@@ -4,8 +4,8 @@ title = 'Boolokam'
 
 # Site parameters
 [params]
-  description = "Your one-stop destination for news, videos, and movies."
-  author = "Boolokam Team"
+  description = "Boolokam News / Videos / Movies"
+  author = "Boolokam"
   og_image = "images/og-image.jpg"
   
   # Social Media
@@ -65,3 +65,41 @@ title = 'Boolokam'
   "/categories/sports/" = "/news/sports/"
   "/categories/science/" = "/news/science/"
   "/categories/health/" = "/news/health/"
+
+# Build optimization settings
+[build]
+  useResourceCacheWhen = "always"
+  [build.buildStats]
+    enable = false
+  [[build.cachebusters]]
+    source = "assets/.*"
+    target = "css"
+  [[build.cachebusters]]
+    source = "assets/.*"
+    target = "js"
+
+[server]
+  [[server.headers]]
+    for = "/**"
+    [server.headers.values]
+      Cache-Control = "max-age=3600"
+
+[watch]
+  [watch.pathspec]
+    # Don't watch temporary files
+    exclude = ["**/.git/**", "**/.hugo_build.lock", "**/node_modules/**", "**/.DS_Store", "**/.AppleDouble", "**/.LSOverride"]
+  polling = true
+  pollInterval = 2000 # 2 seconds instead of 1 second
+
+# Resource cache settings
+[caches]
+  [caches.getjson]
+    maxAge = "30m"
+  [caches.getcsv]
+    maxAge = "30m"
+  [caches.images]
+    maxAge = "30m"
+  [caches.assets]
+    maxAge = "30m"
+  [caches.modules]
+    maxAge = "30m"
