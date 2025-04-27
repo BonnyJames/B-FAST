@@ -1,7 +1,6 @@
 baseURL = 'https://boolokam.com/'
 languageCode = 'en-us'
 title = 'Boolokam'
-theme = ''
 
 # Site parameters
 [params]
