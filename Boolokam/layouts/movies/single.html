@@ -1,0 +1,85 @@
+{{ define "main" }}
+<article class="single-content movie-single">
+    <div class="movie-header">
+        <div class="movie-poster">
+            {{ if .Params.image }}
+            <img src="{{ .Params.image | relURL }}" alt="{{ .Title }} Poster">
+            {{ else if .Params.poster }}
+            <img src="{{ .Params.poster | relURL }}" alt="{{ .Title }} Poster">
+            {{ else }}
+            <img src="https://images.unsplash.com/photo-1579353977828-2a4eab540b9a" alt="{{ .Title }} Poster">
+            {{ end }}
+        </div>
+        <div class="movie-info">
+            <h1>{{ .Title }}</h1>
+            
+            <div class="movie-meta">
+                {{ with .Params.release_year }}
+                <span class="movie-year">{{ . }}</span>
+                {{ end }}
+                
+                {{ with .Params.duration }}
+                <span class="movie-duration">{{ . }}</span>
+                {{ end }}
+                
+                {{ with .Params.rating }}
+                <span class="movie-rating">{{ . }}/10</span>
+                {{ end }}
+            </div>
+            
+            {{ with .Params.genres }}
+            <div class="movie-genres">
+                {{ range . }}
+                <span class="genre-tag">{{ . }}</span>
+                {{ end }}
+            </div>
+            {{ end }}
+            
+            {{ with .Params.director }}
+            <div class="movie-director">
+                <strong>Director:</strong> {{ . }}
+            </div>
+            {{ end }}
+            
+            {{ with .Params.cast }}
+            <div class="movie-cast">
+                <strong>Cast:</strong> {{ delimit . ", " }}
+            </div>
+            {{ end }}
+            
+            {{ with .Params.summary }}
+            <div class="movie-summary">
+                {{ . }}
+            </div>
+            {{ end }}
+        </div>
+    </div>
+
+    <div class="post-content">
+        {{ .Content }}
+    </div>
+
+    {{ with .Params.trailer_id }}
+    <div class="movie-trailer">
+        <h3>Trailer</h3>
+        <div class="video-container">
+            <iframe src="https://www.youtube.com/embed/{{ . }}" 
+                frameborder="0" 
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                allowfullscreen></iframe>
+        </div>
+    </div>
+    {{ end }}
+
+    <footer class="post-footer">
+        {{ with .Params.tags }}
+        <div class="post-tags">
+            <strong>Tags:</strong>
+            {{ range . }}
+            <a href="{{ "tags/" | relURL }}{{ . | urlize }}">{{ . }}</a>
+            {{ end }}
+        </div>
+        {{ end }}
+    </footer>
+</article>
+{{ end }} 

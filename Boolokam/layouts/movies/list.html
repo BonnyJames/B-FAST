@@ -1,0 +1,52 @@
+{{ define "main" }}
+<div class="list-container movies-list">
+    <header class="section-header">
+        <h1>{{ .Title }}</h1>
+        {{ with .Description }}
+        <div class="section-description">{{ . | markdownify }}</div>
+        {{ end }}
+    </header>
+
+    <div class="grid-container movie-grid">
+        {{ range .Paginator.Pages }}
+        <div class="grid-item">
+            <div class="card movie-card">
+                {{ if .Params.image }}
+                <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
+                {{ else if .Params.poster }}
+                <img src="{{ .Params.poster | relURL }}" alt="{{ .Title }}">
+                {{ else }}
+                <img src="https://images.unsplash.com/photo-1579353977828-2a4eab540b9a" alt="{{ .Title }}">
+                {{ end }}
+                <div class="card-content">
+                    <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+                    <div class="movie-meta">
+                        {{ with .Params.release_year }}
+                        <span class="movie-year">{{ . }}</span>
+                        {{ end }}
+                        
+                        {{ with .Params.duration }}
+                        <span class="movie-duration">{{ . }}</span>
+                        {{ end }}
+                        
+                        {{ with .Params.rating }}
+                        <span class="movie-rating">{{ . }}/10</span>
+                        {{ end }}
+                    </div>
+                    {{ with .Params.genres }}
+                    <div class="movie-genres">
+                        {{ range first 2 . }}
+                        <span class="genre-tag">{{ . }}</span>
+                        {{ end }}
+                    </div>
+                    {{ end }}
+                    <p>{{ .Summary }}</p>
+                </div>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+
+    {{ template "_internal/pagination.html" . }}
+</div>
+{{ end }} 

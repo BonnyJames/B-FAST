@@ -1,0 +1,68 @@
+baseURL = 'https://boolokam.com/'
+languageCode = 'en-us'
+title = 'Boolokam'
+theme = ''
+
+# Site parameters
+[params]
+  description = "Your one-stop destination for news, videos, and movies."
+  author = "Boolokam Team"
+  og_image = "images/og-image.jpg"
+  
+  # Social Media
+  [params.social]
+    twitter = "boolokam"
+    facebook = "boolokam"
+    instagram = "boolokam"
+    youtube = "boolokam"
+
+# Menu configuration
+[menu]
+  # Main menu
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "News"
+    url = "/news/"
+    weight = 2
+  [[menu.main]]
+    name = "Videos"
+    url = "/videos/"
+    weight = 3
+  [[menu.main]]
+    name = "Movies"
+    url = "/movies/"
+    weight = 4
+
+# Pagination
+[pagination]
+  postsPerPage = 9
+
+# Taxonomies
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  video_category = "video_categories"
+  movie_genre = "movie_genres"
+
+# Markup configuration
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+# URL Management
+[permalinks]
+  categories = "/news/:slug/"
+  
+# Aliases
+[params.aliases]
+  "/categories/politics/" = "/news/politics/"
+  "/categories/business/" = "/news/business/"
+  "/categories/technology/" = "/news/technology/"
+  "/categories/entertainment/" = "/news/entertainment/"
+  "/categories/sports/" = "/news/sports/"
+  "/categories/science/" = "/news/science/"
+  "/categories/health/" = "/news/health/"

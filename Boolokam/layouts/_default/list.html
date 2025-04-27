@@ -1,0 +1,35 @@
+{{ define "main" }}
+<div class="list-container">
+    <header class="section-header">
+        <h1>{{ .Title }}</h1>
+        {{ with .Description }}
+        <div class="section-description">{{ . | markdownify }}</div>
+        {{ end }}
+    </header>
+
+    <div class="grid-container">
+        {{ range .Paginator.Pages }}
+        <div class="grid-item">
+            <div class="card">
+                {{ if .Params.image }}
+                <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
+                {{ else if .Params.thumbnail }}
+                <img src="{{ .Params.thumbnail | relURL }}" alt="{{ .Title }}">
+                {{ else if .Params.poster }}
+                <img src="{{ .Params.poster | relURL }}" alt="{{ .Title }}">
+                {{ else }}
+                <img src="https://source.unsplash.com/800x450/?{{ .Type }},{{ if .Params.categories }}{{ index .Params.categories 0 }}{{ else }}article{{ end }}/{{ .Title | urlize }}" alt="{{ .Title }}">
+                {{ end }}
+                <div class="card-content">
+                    <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+                    <p class="post-meta">{{ .Date.Format "Jan 2, 2006" }}</p>
+                    <p>{{ .Summary }}</p>
+                </div>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+
+    {{ template "_internal/pagination.html" . }}
+</div>
+{{ end }} 

@@ -1,0 +1,54 @@
+{{ define "main" }}
+<div class="taxonomy-container">
+    <div class="section-title">
+        <h2>News</h2>
+        <span class="view-all">{{ len .Pages }} articles</span>
+    </div>
+    
+    <div class="grid-container">
+        {{ range .Pages }}
+        <div class="grid-item">
+            <div class="card">
+                {{ if .Params.featured_image }}
+                <img src="{{ .Params.featured_image | relURL }}" alt="{{ .Title }}">
+                {{ else }}
+                <img src="{{ "images/news/placeholder.jpg" | relURL }}" alt="{{ .Title }}">
+                {{ end }}
+                <div class="card-content">
+                    {{ if .Params.categories }}
+                    <div class="post-meta">
+                        {{ range first 1 .Params.categories }}
+                        <a href="{{ printf "news/%s" (. | urlize) | relURL }}" class="category-badge">{{ . }}</a>
+                        {{ end }}
+                        <span class="date">{{ .Date.Format "Jan 2, 2006" }}</span>
+                    </div>
+                    {{ end }}
+                    <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                    <p>{{ .Summary | truncate 150 }}</p>
+                    <div class="post-stats">
+                        <span>
+                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M12 4.5C7 4.5 2.73 7.61 1 12C2.73 16.39 7 19.5 12 19.5C17 19.5 21.27 16.39 23 12C21.27 7.61 17 4.5 12 4.5ZM12 17C9.24 17 7 14.76 7 12C7 9.24 9.24 7 12 7C14.76 7 17 9.24 17 12C17 14.76 14.76 17 12 17ZM12 9C10.34 9 9 10.34 9 12C9 13.66 10.34 15 12 15C13.66 15 15 13.66 15 12C15 10.34 13.66 9 12 9Z" fill="currentColor"/>
+                            </svg>
+                            {{ .Params.views | default 0 }}
+                        </span>
+                        <span>
+                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M21.99 4C21.99 2.9 21.1 2 20 2H4C2.9 2 2 2.9 2 4V16C2 17.1 2.9 18 4 18H18L22 22L21.99 4ZM18 14H6V12H18V14ZM18 11H6V9H18V11ZM18 8H6V6H18V8Z" fill="currentColor"/>
+                            </svg>
+                            {{ .Params.comments | default 0 }}
+                        </span>
+                        <span>
+                            <svg width="16" height="16" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                <path d="M16.5 3C14.76 3 13.09 3.81 12 5.09C10.91 3.81 9.24 3 7.5 3C4.42 3 2 5.42 2 8.5C2 12.28 5.4 15.36 10.55 20.04L12 21.35L13.45 20.03C18.6 15.36 22 12.28 22 8.5C22 5.42 19.58 3 16.5 3ZM12.1 18.55L12 18.65L11.9 18.55C7.14 14.24 4 11.39 4 8.5C4 6.5 5.5 5 7.5 5C9.04 5 10.54 5.99 11.07 7.36H12.94C13.46 5.99 14.96 5 16.5 5C18.5 5 20 6.5 20 8.5C20 11.39 16.86 14.24 12.1 18.55Z" fill="currentColor"/>
+                            </svg>
+                            {{ .Params.likes | default 0 }}
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        {{ end }}
+    </div>
+</div>
+{{ end }} 

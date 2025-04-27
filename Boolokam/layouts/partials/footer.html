@@ -1,0 +1,27 @@
+<footer class="site-footer">
+    <div class="footer-wrapper">
+        <div class="footer-content">
+            <div class="footer-section">
+                <h3>About</h3>
+                <p>Boolokam is your source for news, videos, and movies from around the world.</p>
+            </div>
+            <div class="footer-section">
+                <h3>Quick Links</h3>
+                <ul>
+                    <li><a href="{{ .Site.BaseURL }}">Home</a></li>
+                    <li><a href="{{ "news" | relURL }}">News</a></li>
+                    <li><a href="{{ "videos" | relURL }}">Videos</a></li>
+                    <li><a href="{{ "movies" | relURL }}">Movies</a></li>
+                </ul>
+            </div>
+            <div class="footer-section">
+                <h3>Contact</h3>
+                <p>Email: info@boolokam.com</p>
+                <p>Phone: +1 123 456 7890</p>
+            </div>
+        </div>
+        <div class="copyright">
+            <p>&copy; {{ now.Format "2006" }} Boolokam. All rights reserved.</p>
+        </div>
+    </div>
+</footer> 

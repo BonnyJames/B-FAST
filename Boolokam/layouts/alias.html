@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Redirecting...</title>
+    {{ range $old, $new := .Site.Params.aliases }}
+        {{ if eq $.Page.RelPermalink $old }}
+            <meta http-equiv="refresh" content="0; url={{ $new | absURL }}" />
+        {{ end }}
+    {{ end }}
+    <link rel="canonical" href="{{ .Permalink }}" />
+</head>
+<body>
+    <h1>Redirecting...</h1>
+    <p>You are being redirected to the new URL. If the redirect doesn't work, please <a href="{{ .Permalink }}">click here</a>.</p>
+</body>
+</html> 
