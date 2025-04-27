@@ -1,4 +1,4 @@
-# Boolokam - News, Videos, and Movies Platform
+# Boolokam - News, Videos, and Movies Platform 
 
 This is a Hugo-based website for Boolokam, a platform that hosts news, videos, and movies content.
 
