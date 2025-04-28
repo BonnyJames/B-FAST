@@ -51,16 +51,33 @@
     
     {{ partial "header.html" . }}
     
-    <div class="main-content">
+    <div class="layout-wrapper">
         {{ partial "sidebar.html" . }}
-        
-        <main>
-            {{ block "main" . }}{{ end }}
-        </main>
+        <div class="main-content" id="main-content">
+            <main>
+                {{ block "main" . }}{{ end }}
+            </main>
+        </div>
     </div>
     
     {{ partial "footer.html" . }}
     
     <script src="{{ "js/main.js" | relURL }}"></script>
+    <script>
+      document.addEventListener('DOMContentLoaded', function() {
+        var sidebar = document.getElementById('main-sidebar');
+        var mainContent = document.getElementById('main-content');
+        if (sidebar && mainContent) {
+          var observer = new MutationObserver(function() {
+            if (sidebar.classList.contains('collapsed')) {
+              mainContent.classList.add('sidebar-collapsed');
+            } else {
+              mainContent.classList.remove('sidebar-collapsed');
+            }
+          });
+          observer.observe(sidebar, { attributes: true, attributeFilter: ['class'] });
+        }
+      });
+    </script>
 </body>
 </html> 

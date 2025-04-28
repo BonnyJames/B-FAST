@@ -1,4 +1,12 @@
-<aside class="sidebar" id="mobile-sidebar">
+<aside class="sidebar" id="main-sidebar" aria-label="Site Sidebar">
+    <!-- Collapse button for desktop -->
+    <div class="sidebar-collapse desktop-only">
+        <button id="sidebar-collapse-btn" aria-label="Collapse sidebar" aria-expanded="true">
+            <svg id="sidebar-collapse-icon" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                <path d="M19 12l-7-7v14z"/>
+            </svg>
+        </button>
+    </div>
     <div class="sidebar-content">
         <!-- Close button for mobile -->
         <div class="mobile-sidebar-close">
@@ -164,7 +172,24 @@
 
 <script>
     document.addEventListener('DOMContentLoaded', function() {
-        // Close sidebar when close button is clicked
+        // Desktop collapse/expand
+        const sidebar = document.getElementById('main-sidebar');
+        const collapseBtn = document.getElementById('sidebar-collapse-btn');
+        const collapseIcon = document.getElementById('sidebar-collapse-icon');
+        if (collapseBtn && sidebar) {
+            collapseBtn.addEventListener('click', function() {
+                sidebar.classList.toggle('collapsed');
+                const expanded = !sidebar.classList.contains('collapsed');
+                collapseBtn.setAttribute('aria-expanded', expanded);
+                // Optionally rotate icon
+                if (expanded) {
+                    collapseIcon.style.transform = '';
+                } else {
+                    collapseIcon.style.transform = 'rotate(180deg)';
+                }
+            });
+        }
+        // Mobile close
         const sidebarCloseBtn = document.getElementById('sidebar-close-btn');
         if (sidebarCloseBtn) {
             sidebarCloseBtn.addEventListener('click', function() {
