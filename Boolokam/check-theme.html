@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Theme Check</title>
+    <meta charset="utf-8">
+</head>
+<body>
+    <h1>Boolokam Theme Check</h1>
+    <p>This page confirms the Boolokam theme is working correctly.</p>
+    <p>Current theme: {{ .Site.Config.Theme }}</p>
+    <hr>
+    <h2>Template Paths Being Used:</h2>
+    <ul>
+        {{ range .Site.Templates.TemplateLookup }}
+            <li>{{ . }}</li>
+        {{ end }}
+    </ul>
+</body>
+</html> 

@@ -1,0 +1,113 @@
+<header class="site-header">
+    <div class="header-content">
+        <div class="logo">
+            <a href="{{ .Site.BaseURL }}">
+                <img src="{{ "images/boolokam-logo.png" | relURL }}" alt="Boolokam.com" class="site-logo" style="width: 250px;">
+            </a>
+        </div>
+        <div class="header-center">
+            <div class="search-box">
+                <input type="text" placeholder="SEARCH">
+            </div>
+        </div>
+        <div class="header-right">
+            <div class="date-weather">
+                <span class="date" id="current-date"></span>
+            </div>
+            <div class="user-actions">
+                <a href="#" class="notifications">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M12 22C13.1 22 14 21.1 14 20H10C10 21.1 10.9 22 12 22ZM18 16V11C18 7.93 16.36 5.36 13.5 4.68V4C13.5 3.17 12.83 2.5 12 2.5C11.17 2.5 10.5 3.17 10.5 4V4.68C7.63 5.36 6 7.92 6 11V16L4 18V19H20V18L18 16Z" fill="currentColor"/>
+                    </svg>
+                    <span class="notification-badge">2</span>
+                </a>
+                <a href="#" class="share-btn">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
+                        <path d="M18 16.08c-.76 0-1.44.3-1.96.77L8.91 12.7c.05-.23.09-.46.09-.7s-.04-.47-.09-.7l7.05-4.11c.54.5 1.25.81 2.04.81 1.66 0 3-1.34 3-3s-1.34-3-3-3-3 1.34-3 3c0 .24.04.47.09.7L8.04 9.81C7.5 9.31 6.79 9 6 9c-1.66 0-3 1.34-3 3s1.34 3 3 3c.79 0 1.5-.31 2.04-.81l7.12 4.16c-.05.21-.08.43-.08.65 0 1.61 1.31 2.92 2.92 2.92 1.61 0 2.92-1.31 2.92-2.92s-1.31-2.92-2.92-2.92z"/>
+                    </svg>
+                    SHARE
+                </a>
+            </div>
+            <button class="mobile-menu-toggle" id="mobile-menu-toggle" aria-label="Toggle mobile menu">
+                <span></span>
+                <span></span>
+                <span></span>
+            </button>
+        </div>
+    </div>
+    <nav class="main-nav">
+        <div class="nav-container">
+            <div class="categories-nav">
+                {{ $currentSection := .Section }}
+                {{ if eq $currentSection "" }}
+                    {{ $currentSection = "news" }}
+                {{ end }}
+                <!-- Dynamic categories based on content type -->
+                <ul class="category-list">
+                    {{ if or (eq $currentSection "news") (eq $currentSection "") }}
+                        <!-- News Categories -->
+                        <li><a href="{{ "/" | relURL }}" class="active">ALL</a></li>
+                        <li><a href="{{ "news/technology" | relURL }}">TECHNOLOGY</a></li>
+                        <li><a href="{{ "news/business" | relURL }}">BUSINESS</a></li>
+                        <li><a href="{{ "news/health" | relURL }}">HEALTH</a></li>
+                        <li><a href="{{ "news/science" | relURL }}">SCIENCE</a></li>
+                        <li><a href="{{ "news/environment" | relURL }}">ENVIRONMENT</a></li>
+                    {{ else if eq $currentSection "videos" }}
+                        <!-- Video Categories -->
+                        <li><a href="{{ "videos" | relURL }}" class="active">ALL</a></li>
+                        <li><a href="{{ "video_categories/tutorials" | relURL }}">TUTORIALS</a></li>
+                        <li><a href="{{ "video_categories/entertainment" | relURL }}">ENTERTAINMENT</a></li>
+                        <li><a href="{{ "video_categories/education" | relURL }}">EDUCATION</a></li>
+                        <li><a href="{{ "video_categories/gaming" | relURL }}">GAMING</a></li>
+                        <li><a href="{{ "video_categories/fitness" | relURL }}">FITNESS</a></li>
+                        <li><a href="{{ "video_categories/music" | relURL }}">MUSIC</a></li>
+                        <li><a href="{{ "video_categories/travel" | relURL }}">TRAVEL</a></li>
+                        <li><a href="{{ "video_categories/technology" | relURL }}">TECHNOLOGY</a></li>
+                    {{ else if eq $currentSection "movies" }}
+                        <!-- Movie Genres -->
+                        <li><a href="{{ "movies" | relURL }}" class="active">ALL</a></li>
+                        <li><a href="{{ "movie_genres/action" | relURL }}">ACTION</a></li>
+                        <li><a href="{{ "movie_genres/comedy" | relURL }}">COMEDY</a></li>
+                        <li><a href="{{ "movie_genres/drama" | relURL }}">DRAMA</a></li>
+                        <li><a href="{{ "movie_genres/sci-fi" | relURL }}">SCI-FI</a></li>
+                        <li><a href="{{ "movie_genres/horror" | relURL }}">HORROR</a></li>
+                        <li><a href="{{ "movie_genres/romance" | relURL }}">ROMANCE</a></li>
+                        <li><a href="{{ "movie_genres/thriller" | relURL }}">THRILLER</a></li>
+                        <li><a href="{{ "movie_genres/adventure" | relURL }}">ADVENTURE</a></li>
+                    {{ end }}
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function() {
+        // Mobile menu toggle functionality
+        const mobileMenuToggle = document.getElementById('mobile-menu-toggle');
+        const body = document.body;
+        
+        mobileMenuToggle.addEventListener('click', function() {
+            body.classList.toggle('mobile-menu-open');
+            mobileMenuToggle.classList.toggle('active');
+        });
+        
+        // Calculate header height and add padding to the body
+        const headerHeight = document.querySelector('.site-header').offsetHeight;
+        document.body.style.paddingTop = headerHeight + 'px';
+        
+        // Format the current date based on user's browser 
+        const formatLocalDate = () => {
+            const now = new Date();
+            const options = { 
+                weekday: 'long', 
+                year: 'numeric', 
+                month: 'long', 
+                day: 'numeric' 
+            };
+            document.getElementById('current-date').textContent = now.toLocaleDateString(undefined, options);
+        };
+        
+        formatLocalDate();
+    });
+</script> 

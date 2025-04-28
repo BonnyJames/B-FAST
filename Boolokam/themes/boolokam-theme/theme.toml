@@ -1,0 +1,12 @@
+name = "Boolokam Theme"
+license = "MIT"
+licenselink = "https://github.com/yourusername/boolokam-theme/blob/master/LICENSE"
+description = "A custom theme for Boolokam website"
+homepage = "https://boolokam.com/"
+tags = ["news", "videos", "movies", "multimedia"]
+features = ["responsive", "multilingual"]
+min_version = "0.84.0"
+
+[author]
+  name = "Boolokam Team"
+  homepage = "https://boolokam.com/" 
