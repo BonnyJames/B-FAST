@@ -22,10 +22,10 @@
                         <div class="trending-category">{{ upper (index $article.Params.categories 0) }}<span class="trending-date">• {{ $article.Date.Format "Jan 02, 2006" }}</span></div>
                         <h4><a href="{{ $article.RelPermalink }}">{{ $article.Title }}</a></h4>
                         <div class="trending-stats">
-                            <span class="trending-views"><i class="fas fa-eye"></i> {{ $article.Params.view_count }}</span>
-                            <span class="trending-likes"><i class="far fa-heart"></i> {{ if $article.Params.like_count }}{{ $article.Params.like_count }}{{ else }}423{{ end }}</span>
-                            <span class="trending-comments"><i class="far fa-comment"></i> {{ if $article.Params.comment_count }}{{ $article.Params.comment_count }}{{ else }}89{{ end }}</span>
-                            <span class="trending-shares"><i class="far fa-share-square"></i> {{ if $article.Params.share_count }}{{ $article.Params.share_count }}{{ else }}67{{ end }}</span>
+                            <span class="trending-views"><i class="fas fa-eye"></i> {{ partial "format-number.html" $article.Params.view_count }}</span>
+                            <span class="trending-likes"><i class="far fa-heart"></i> {{ if $article.Params.like_count }}{{ partial "format-number.html" $article.Params.like_count }}{{ else }}423{{ end }}</span>
+                            <span class="trending-comments"><i class="far fa-comment"></i> {{ if $article.Params.comment_count }}{{ partial "format-number.html" $article.Params.comment_count }}{{ else }}89{{ end }}</span>
+                            <span class="trending-shares"><i class="far fa-share-square"></i> {{ if $article.Params.share_count }}{{ partial "format-number.html" $article.Params.share_count }}{{ else }}67{{ end }}</span>
                         </div>
                     </div>
                 </div>
@@ -49,7 +49,7 @@
                         {{ if .Params.image }}
                         <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
                         {{ else }}
-                        <img src="https://images.unsplash.com/photo-1579353977828-2a4eab540b9a" alt="{{ .Title }}">
+                        <img src="{{ "images/samples/news/general/default.jpg" | relURL }}" alt="{{ .Title }}">
                         {{ end }}
                         <div class="featured-category-tag">
                             {{ upper (index .Params.categories 0) }}
@@ -57,13 +57,13 @@
                     </div>
                     <div class="featured-content">
                         <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+                        <div class="featured-date-bottom">{{ .Date.Format "Jan 02, 2006" }}</div>
                         <div class="post-stats">
-                            <span><i class="fas fa-eye"></i> {{ if .Params.view_count }}{{ .Params.view_count }}{{ else }}1.5K{{ end }}</span>
+                            <span><i class="fas fa-eye"></i> {{ if .Params.view_count }}{{ partial "format-number.html" .Params.view_count }}{{ else }}1.5K{{ end }}</span>
                             <span><i class="far fa-heart"></i> 77</span>
                             <span><i class="far fa-comment"></i> 28</span>
                             <span><i class="far fa-share-square"></i> 67</span>
                         </div>
-                        <div class="featured-date-bottom">{{ .Date.Format "Jan 02, 2006" }}</div>
                     </div>
                 </div>
                 {{ end }}
@@ -77,7 +77,7 @@
                             {{ if .Params.image }}
                             <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
                             {{ else }}
-                            <img src="https://images.unsplash.com/photo-1579353977828-2a4eab540b9a" alt="{{ .Title }}">
+                            <img src="{{ "images/samples/news/general/default.jpg" | relURL }}" alt="{{ .Title }}">
                             {{ end }}
                             <div class="featured-category-tag">
                                 {{ upper (index .Params.categories 0) }}
@@ -85,13 +85,13 @@
                         </div>
                         <div class="featured-content">
                             <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+                            <div class="featured-date-bottom">{{ .Date.Format "Jan 02, 2006" }}</div>
                             <div class="post-stats">
-                                <span><i class="fas fa-eye"></i> {{ if .Params.view_count }}{{ .Params.view_count }}{{ else }}1.5K{{ end }}</span>
+                                <span><i class="fas fa-eye"></i> {{ if .Params.view_count }}{{ partial "format-number.html" .Params.view_count }}{{ else }}1.5K{{ end }}</span>
                                 <span><i class="far fa-heart"></i> 77</span>
                                 <span><i class="far fa-comment"></i> 28</span>
                                 <span><i class="far fa-share-square"></i> 67</span>
                             </div>
-                            <div class="featured-date-bottom">{{ .Date.Format "Jan 02, 2006" }}</div>
                         </div>
                     </div>
                     {{ end }}
@@ -118,7 +118,7 @@
                             {{ if .Params.image }}
                             <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
                             {{ else }}
-                            <img src="https://images.unsplash.com/photo-1579353977828-2a4eab540b9a" alt="{{ .Title }}">
+                            <img src="{{ "images/samples/videos/default.jpg" | relURL }}" alt="{{ .Title }}">
                             {{ end }}
                             <div class="play-icon">
                                 <i class="fas fa-play-circle"></i>
@@ -133,7 +133,7 @@
                             </div>
                             <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
                             <div class="post-stats">
-                                <span><i class="fas fa-eye"></i> {{ if .Params.view_count }}{{ .Params.view_count }}{{ else }}8,542{{ end }}</span>
+                                <span><i class="fas fa-eye"></i> {{ if .Params.view_count }}{{ partial "format-number.html" .Params.view_count }}{{ else }}8.5K{{ end }}</span>
                                 <span><i class="far fa-heart"></i> 423</span>
                                 <span><i class="far fa-comment"></i> 89</span>
                             </div>
@@ -151,7 +151,7 @@
                             {{ if .Params.image }}
                             <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
                             {{ else }}
-                            <img src="https://images.unsplash.com/photo-1579353977828-2a4eab540b9a" alt="{{ .Title }}">
+                            <img src="{{ "images/samples/movies/default.jpg" | relURL }}" alt="{{ .Title }}">
                             {{ end }}
                             <div class="play-icon">
                                 <i class="fas fa-play-circle"></i>
@@ -166,7 +166,7 @@
                             </div>
                             <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
                             <div class="post-stats">
-                                <span><i class="fas fa-eye"></i> {{ if .Params.view_count }}{{ .Params.view_count }}{{ else }}6,321{{ end }}</span>
+                                <span><i class="fas fa-eye"></i> {{ if .Params.view_count }}{{ partial "format-number.html" .Params.view_count }}{{ else }}6.3K{{ end }}</span>
                                 <span><i class="far fa-heart"></i> 312</span>
                                 <span><i class="far fa-comment"></i> 67</span>
                             </div>
@@ -179,20 +179,21 @@
     </div>
 
     <!-- Rest of content sections -->
-    <section class="featured-section">
+    <section class="latest-news-section">
         <div class="section-title">
             <h2>Latest News</h2>
             <a href="{{ "news" | relURL }}" class="view-all">View All</a>
         </div>
         <div class="grid-container">
-            {{ range first 4 (where .Site.RegularPages "Type" "news") }}
+            {{ $latestNews := where .Site.RegularPages "Type" "news" }}
+            {{ range first 24 $latestNews }}
             <div class="grid-item">
                 <div class="card">
                     <a href="{{ .RelPermalink }}" class="full-card-link" aria-label="Read {{ .Title }}"></a>
                     {{ if .Params.image }}
                     <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
                     {{ else }}
-                    <img src="https://images.unsplash.com/photo-1579353977828-2a4eab540b9a" alt="{{ .Title }}">
+                    <img src="{{ "images/samples/news/general/default.jpg" | relURL }}" alt="{{ .Title }}">
                     {{ end }}
                     <div class="featured-category-tag">
                         {{ with .Params.categories }}{{ upper (index . 0) }}{{ end }}
@@ -201,10 +202,10 @@
                         <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
                         <p class="post-meta">{{ .Date.Format "Jan 2, 2006" }}</p>
                         <div class="post-stats">
-                            <span><i class="fas fa-eye"></i> {{ if .Params.view_count }}{{ .Params.view_count }}{{ else }}1,542{{ end }}</span>
-                            <span><i class="far fa-heart"></i> 77</span>
-                            <span><i class="far fa-comment"></i> 28</span>
-                            <span><i class="far fa-share-square"></i> 15</span>
+                            <span><i class="fas fa-eye"></i> {{ if .Params.view_count }}{{ partial "format-number.html" .Params.view_count }}{{ else }}1.5K{{ end }}</span>
+                            <span><i class="far fa-heart"></i> {{ if .Params.like_count }}{{ partial "format-number.html" .Params.like_count }}{{ else }}77{{ end }}</span>
+                            <span><i class="far fa-comment"></i> {{ if .Params.comment_count }}{{ partial "format-number.html" .Params.comment_count }}{{ else }}28{{ end }}</span>
+                            <span><i class="far fa-share-square"></i> {{ if .Params.share_count }}{{ partial "format-number.html" .Params.share_count }}{{ else }}15{{ end }}</span>
                         </div>
                     </div>
                 </div>

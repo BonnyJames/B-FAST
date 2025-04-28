@@ -343,16 +343,18 @@ main {
     display: flex;
     flex-direction: column;
     background-color: #fff;
-    border-radius: 6px;
+    border-radius: 16px;
     overflow: hidden;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
     height: 100%;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border: 1px solid rgba(0, 0, 0, 0.08);
 }
 
 .card:hover {
     transform: translateY(-3px);
-    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+    border-color: rgba(0, 0, 0, 0.12);
 }
 
 .card img {
@@ -362,7 +364,7 @@ main {
 }
 
 .card-content {
-    padding: 12px;
+    padding: 16px;
     display: flex;
     flex-direction: column;
     flex-grow: 1;
@@ -370,8 +372,8 @@ main {
 
 .card-content h3 {
     margin: 0 0 8px 0;
-    font-size: 15px;
-    font-weight: 600;
+    font-size: 18px;
+    font-weight: 700;
     line-height: 1.3;
 }
 
@@ -386,36 +388,69 @@ main {
 }
 
 .card-content .post-meta {
-    font-size: 12px;
+    font-size: 13px;
     color: #777;
     margin-bottom: 8px;
+    display: flex;
+    gap: 5px;
 }
 
 .card-content p {
-    font-size: 13px;
+    font-size: 14px;
     line-height: 1.4;
     color: #555;
-    margin-bottom: 12px;
+    margin-bottom: 16px;
     flex-grow: 1;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
 }
 
 /* Post Stats */
 .post-stats {
     display: flex;
-    gap: 12px;
-    font-size: 12px;
+    gap: 16px;
+    font-size: 14px;
     color: #777;
     margin-top: auto;
+    border-top: 1px solid rgba(0, 0, 0, 0.05);
+    padding-top: 12px;
+    justify-content: space-between;
 }
 
 .post-stats span {
     display: flex;
     align-items: center;
-    gap: 4px;
+    gap: 6px;
+    color: #666;
+    font-weight: 500;
 }
 
 .post-stats i {
-    font-size: 13px;
+    font-size: 16px;
+}
+
+/* Specific icon colors */
+.post-stats .fa-eye, 
+.post-stats .fas.fa-eye {
+    color: #8C8C8C;
+}
+
+.post-stats .fa-heart, 
+.post-stats .far.fa-heart {
+    color: #8C8C8C;
+}
+
+.post-stats .fa-comment, 
+.post-stats .far.fa-comment {
+    color: #8C8C8C;
+}
+
+.post-stats .fa-share-square, 
+.post-stats .far.fa-share-square {
+    color: #8C8C8C;
 }
 
 /* Tags and Categories */
@@ -811,19 +846,19 @@ main {
     border: none;
     cursor: pointer;
     padding: 0;
-    z-index: 1010;
+    z-index: 2001;
 }
 
 .mobile-menu-toggle span {
     width: 24px;
-    height: 2px;
-    background: var(--primary-color, #333);
+    height: 3px;
+    background: #000;
     border-radius: 3px;
     transition: all 0.3s ease;
 }
 
 .mobile-menu-toggle.active span:nth-child(1) {
-    transform: translateY(6px) rotate(45deg);
+    transform: translateY(8px) rotate(45deg);
 }
 
 .mobile-menu-toggle.active span:nth-child(2) {
@@ -831,23 +866,22 @@ main {
 }
 
 .mobile-menu-toggle.active span:nth-child(3) {
-    transform: translateY(-6px) rotate(-45deg);
+    transform: translateY(-8px) rotate(-45deg);
 }
 
 /* Mobile Sidebar */
 .mobile-sidebar {
     position: fixed;
-    left: 0;
-    width: 100%;
-    max-width: 240px;
-    height: 100%;
-    background-color: #fff;
-    z-index: 2000;
-    padding: 15px;
-    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    top: 0;
+    left: -300px;
+    width: 250px;
+    height: 100vh;
+    background-color: #f5f5f5;
+    z-index: 1000;
+    transition: left 0.3s ease;
     overflow-y: auto;
-    transform: translateX(-100%);
-    transition: transform 0.3s ease;
+    padding: 20px;
+    box-shadow: 2px 0 10px rgba(0, 0, 0, 0.2);
 }
 
 .mobile-sidebar-close {
@@ -862,7 +896,7 @@ main {
     color: #666;
 }
 
-/* Mobile menu open state */
+/* Mobile overlay when menu is open */
 body.mobile-menu-open::after {
     content: '';
     position: fixed;
@@ -872,16 +906,32 @@ body.mobile-menu-open::after {
     height: 100%;
     background: rgba(0, 0, 0, 0.5);
     z-index: 1500;
+    backdrop-filter: blur(2px);
 }
 
 body.mobile-menu-open .mobile-sidebar {
-    transform: translateX(0);
+    left: 0;
+}
+
+.mobile-sidebar-overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 999;
+}
+
+.mobile-menu-open .mobile-sidebar-overlay {
+    display: block;
 }
 
 /* Desktop styles */
 @media (min-width: 769px) {
     body {
-        padding-left: 240px;
+        padding-left: 0;
         padding-top: 40px;
     }
     
@@ -891,6 +941,23 @@ body.mobile-menu-open .mobile-sidebar {
         margin-top: 45px;
     }
     
+    .sidebar {
+        display: block;
+        position: fixed;
+        left: 0;
+        top: 0;
+        width: 240px;
+        height: 100%;
+        background-color: #fff;
+        padding: 15px;
+        box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+        overflow-y: auto;
+        z-index: 1000;
+    }
+    
+    .mobile-menu-toggle {
+        display: none;
+    }
 }
 
 /* Responsive Styles */
@@ -933,91 +1000,111 @@ body.mobile-menu-open .mobile-sidebar {
         margin-top: 120px; /* Adjusted for header height + TradingView widget height on mobile */
     }
     
+    /* Header adjustments for mobile */
     .header-content {
-        flex-wrap: wrap;
+        display: flex;
+        align-items: center;
+        padding: 8px 10px;
+        justify-content: space-between;
     }
     
-    .header-right .date-weather {
-        display: none;
+    .logo {
+        flex-grow: 0;
+        margin-right: auto;
+        width: auto;
+        max-width: 160px;
     }
     
-    .main-nav .categories-nav ul {
-        margin-bottom: 10px;
+    /* Hide search box on mobile */
+    .search-box {
+        display: none !important;
     }
     
-    .main-nav .categories-nav li {
-        margin-right: 8px;
+    /* Group menu toggle and user actions together on the right */
+    .header-right {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        margin-left: auto;
     }
     
-    .content-type-nav {
-        justify-content: center;
+    /* Style share button */
+    .share-btn {
+        display: flex;
+        font-size: 11px;
+        padding: 4px 8px;
+        background-color: #000;
     }
     
-    .content-type-nav li {
-        margin: 0 5px;
+    /* Ensure mobile menu toggle is properly styled */
+    .mobile-menu-toggle {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        width: 30px;
+        height: 21px;
+        background: transparent;
+        border: none;
+        cursor: pointer;
+        padding: 0;
+        margin-left: 15px;
     }
     
-    .main-nav .category-list {
-        flex-wrap: wrap;
+    .mobile-menu-toggle span {
+        width: 100%;
+        height: 3px;
+        background-color: #000;
+        border-radius: 3px;
+        transition: all 0.3s ease-in-out;
     }
     
-    .main-nav .category-list li {
-        margin-bottom: 5px;
+    body main,
+    body .main-content,
+    body [role="main"],
+    body .container,
+    body .content,
+    body .wrapper {
+        width: 100% !important;
+        max-width: 100% !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        flex: 1 1 100% !important;
     }
     
     .sidebar {
-        display: none; /* Hide sidebar on mobile */
-        position: static;
-        width: 100%;
-        height: auto !important;
-        order: 2; /* On mobile, sidebar comes second (though it's hidden) */
-    }
-    
-    .mobile-menu-toggle {
-        display: flex;
-        z-index: 1002; /* Ensure it's above the TradingView widget */
-    }
-    
-    .grid-3-col,
-    .grid-4-col,
-    .grid-2-col {
-        grid-template-columns: 1fr;
-    }
-    
-    .hero-section {
-        grid-template-columns: 1fr;
-    }
-    
-    .featured-column, .latest-column, .trending-column {
-        margin-bottom: 30px;
-    }
-    
-    .featured-secondary-row {
-        grid-template-columns: 1fr;
-    }
-    
-    .section-title {
-        flex-direction: column;
-    }
-    
-    .site-header {
-        top: 45px; /* Adjusted for TradingView widget */
-    }
-    
-    .tradingview-widget-container {
-        position: fixed;
-        top: 0;
-        left: 0;
-        width: 100%;
-        z-index: 1002; /* Ensure it's above everything else on mobile */
-    }
-    
-    .mobile-menu-toggle {
-        z-index: 1003; /* Ensure it appears above the TradingView widget */
+        display: none !important;
+        visibility: hidden !important;
     }
     
     .mobile-sidebar {
-        z-index: 1004; /* Make sure sidebar menu appears above everything when open */
+        transform: translateX(-100%);
+        display: block;
+        visibility: visible;
+    }
+    
+    body.mobile-menu-open .mobile-sidebar {
+        transform: translateX(0);
+    }
+    
+    /* Completely hide trending column on mobile */
+    .trending-column {
+        display: none !important;
+        visibility: hidden;
+    }
+    
+    /* Adjust hero section for mobile */
+    .hero-section {
+        grid-template-columns: 1fr;
+        gap: 15px;
+    }
+    
+    /* Override any other styles that could make the search box visible */
+    input[type="search"],
+    input[placeholder="SEARCH"] {
+        display: none !important;
+        visibility: hidden !important;
     }
 }
 
@@ -1065,8 +1152,13 @@ body.mobile-menu-open .mobile-sidebar {
 }
 
 .featured-primary {
-    margin-bottom: 12px;
+    margin-bottom: 16px;
     position: relative;
+    border-radius: 16px;
+    overflow: hidden;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    border: 1px solid rgba(0, 0, 0, 0.08);
 }
 
 .featured-image {
@@ -1087,14 +1179,14 @@ body.mobile-menu-open .mobile-sidebar {
 
 .featured-category-tag {
     position: absolute;
-    top: 8px;
-    left: 8px;
+    top: 12px;
+    left: 12px;
     background-color: var(--accent-color);
     color: #fff;
-    padding: 4px 8px;
-    font-size: 10px;
+    padding: 4px 10px;
+    font-size: 12px;
     font-weight: 600;
-    border-radius: 3px;
+    border-radius: 4px;
     display: inline-block;
     max-width: 90%;
     white-space: nowrap;
@@ -1105,40 +1197,46 @@ body.mobile-menu-open .mobile-sidebar {
 
 .card .featured-category-tag {
     position: absolute;
-    top: 8px;
-    left: 8px;
+    top: 12px;
+    left: 12px;
     z-index: 2;
 }
 
 .featured-content {
-    padding: 12px;
+    padding: 16px;
 }
 
 .featured-content h3 {
-    margin: 0 0 8px 0;
-    font-size: 15px;
-    font-weight: 600;
+    margin: 0 0 10px 0;
+    font-size: 18px;
+    font-weight: 700;
     line-height: 1.3;
 }
 
 .featured-secondary-row {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    gap: 12px;
+    gap: 16px;
 }
 
 .featured-secondary {
     position: relative;
+    border-radius: 16px;
+    overflow: hidden;
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    border: 1px solid rgba(0, 0, 0, 0.08);
 }
 
 .featured-secondary .featured-content h3 {
-    font-size: 13px;
+    font-size: 16px;
 }
 
 .featured-date-bottom {
     margin-top: 4px;
-    font-size: 11px;
-    color: #888;
+    font-size: 13px;
+    color: #777;
+    display: inline-block;
 }
 
 /* Latest Videos/Movies Tabs */
@@ -1579,4 +1677,108 @@ body.mobile-menu-open .mobile-sidebar {
     transform: translateY(-3px);
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
     background-color: var(--color-background-hover);
+}
+
+/* Latest News Section */
+.latest-news-section {
+    margin-bottom: 30px;
+}
+
+.latest-news-section .grid-container {
+    grid-template-columns: repeat(4, 1fr);
+    gap: 15px;
+    margin-bottom: 15px;
+}
+
+@media (max-width: 992px) {
+    .latest-news-section .grid-container {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+
+@media (max-width: 768px) {
+    .latest-news-section .grid-container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 576px) {
+    .latest-news-section .grid-container {
+        grid-template-columns: 1fr;
+    }
+}
+
+/* Mobile Search Bar Adjustments */
+@media (max-width: 768px) {
+    .search-box {
+        display: none !important;
+    }
+    
+    .sidebar {
+        display: none !important;
+        visibility: hidden !important;
+        width: 0 !important;
+        height: 0 !important;
+        opacity: 0 !important;
+        position: absolute !important;
+        left: -9999px !important;
+        top: -9999px !important;
+        z-index: -999 !important;
+        overflow: hidden !important;
+        pointer-events: none !important;
+    }
+    
+    .mobile-sidebar {
+        transform: translateX(-100%);
+        display: block;
+        visibility: visible;
+        transition: transform 0.3s ease;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        max-width: 240px;
+        height: 100vh;
+        z-index: 2000;
+        background-color: #fff;
+        box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+        overflow-y: auto;
+    }
+    
+    body.mobile-menu-open .mobile-sidebar {
+        transform: translateX(0);
+    }
+    
+    /* Improve mobile performance by disabling unnecessary animations and transitions */
+    .card:hover,
+    .trending-item:hover,
+    .featured-primary:hover,
+    .featured-secondary:hover,
+    .latest-item:hover {
+        transform: none;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    }
+    
+    /* Make sure the mobile menu toggle button is visible and works properly */
+    .mobile-menu-toggle {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        width: 30px;
+        height: 21px;
+        background: transparent;
+        border: none;
+        cursor: pointer;
+        padding: 0;
+        margin-left: 15px;
+        z-index: 2001;
+    }
+    
+    .mobile-menu-toggle span {
+        width: 100%;
+        height: 3px;
+        background-color: #000;
+        border-radius: 3px;
+        transition: all 0.3s ease-in-out;
+    }
 } 

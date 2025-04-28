@@ -1,0 +1,12 @@
+{{ $number := . }}
+{{ $formatted := $number }}
+
+{{ if ge $number 1000 }}
+  {{ $inK := div $number 100 | math.Round | div 10.0 }}
+  {{ $formatted = printf "%.1f%s" $inK "K" }}
+  {{ if hasPrefix (printf "%.1f" $inK) (string (int $inK)) }}
+    {{ $formatted = printf "%d%s" (int $inK) "K" }}
+  {{ end }}
+{{ end }}
+
+{{ return $formatted }} 

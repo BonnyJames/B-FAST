@@ -16,23 +16,29 @@
             {{ end }}
         </div>
         
-        {{ if or .Params.image .Params.featured_image }}
-            <div class="post-featured-image">
-                {{ if .Params.image }}
-                    {{ if hasPrefix .Params.image "http" }}
-                        <img src="{{ .Params.image }}" alt="{{ .Title }}">
-                    {{ else }}
-                        <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
-                    {{ end }}
-                {{ else if .Params.featured_image }}
-                    {{ if hasPrefix .Params.featured_image "http" }}
-                        <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
-                    {{ else }}
-                        <img src="{{ .Params.featured_image | relURL }}" alt="{{ .Title }}">
-                    {{ end }}
+        <div class="post-featured-image">
+            {{ if .Params.image }}
+                {{ if hasPrefix .Params.image "http" }}
+                    <img src="{{ .Params.image }}" alt="{{ .Title }}">
+                {{ else }}
+                    <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
                 {{ end }}
-            </div>
-        {{ end }}
+            {{ else if .Params.featured_image }}
+                {{ if hasPrefix .Params.featured_image "http" }}
+                    <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
+                {{ else }}
+                    <img src="{{ .Params.featured_image | relURL }}" alt="{{ .Title }}">
+                {{ end }}
+            {{ else }}
+                {{ if eq .Type "videos" }}
+                    <img src="{{ "images/samples/videos/default.jpg" | relURL }}" alt="{{ .Title }}">
+                {{ else if eq .Type "movies" }}
+                    <img src="{{ "images/samples/movies/default.jpg" | relURL }}" alt="{{ .Title }}">
+                {{ else }}
+                    <img src="{{ "images/samples/news/general/default.jpg" | relURL }}" alt="{{ .Title }}">
+                {{ end }}
+            {{ end }}
+        </div>
     </header>
 
     <div class="post-content">

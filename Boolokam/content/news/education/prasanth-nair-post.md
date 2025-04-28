@@ -5,34 +5,13 @@ draft: false
 categories: ["Education"]
 tags: ['Collector Bro', 'education', 'kerala sslc', 'Prasanth Nair']
 author: "Beaumaris"
+image: "https://cdn.boolokam.com/articles/2020/07/china-india-pm-border-issue-32.jpg"
+view_count: 598930
+like_count: 41276
+comment_count: 0
 ---
 
-<div class="kvgmc6g5 cxmmr5t8 oygrvhab hcukyx3x c1et5uql ii04i59q">
-<div dir="auto"><strong><a href="https://wordpress-972788-3403151.cloudwaysapps.com/prasanth-nair-post/279252/china-india-pm-border-issue-440" rel="attachment wp-att-279253"><img class="alignleft size-full wp-image-279253" src="https://cdn.boolokam.com/articles/2020/07/china-india-pm-border-issue-32.jpg" alt="" width="845" height="440" /></a>കളക്ടർ ബ്രോ Prasanth Nair എഴുതുന്നു</strong></div>
-</div>
-
-<div class="o9v6fnle cxmmr5t8 oygrvhab hcukyx3x c1et5uql ii04i59q">
-<div dir="auto"></div>
-<div dir="auto">A+ നല്ലത് തന്നെ. പക്ഷേ ഓവറാക്കി ചളമാക്കരുത്. എന്റെ ചെറിയ ബുദ്ധിയിലെ അഭിപ്രായം, മാർക്ക്ഷീറ്റ് ഒരു കുട്ടിയുടെ സ്വകാര്യതയാണ് എന്നാണ്. കാണിക്കേണ്ട സ്ഥലത്ത് മാത്രം കാണിക്കേണ്ടത്.</div>
-</div>
-
-<div class="o9v6fnle cxmmr5t8 oygrvhab hcukyx3x c1et5uql ii04i59q">
-<div dir="auto"></div>
-<div dir="auto">വലിയ കൊമ്പത്തെ ഗ്രേഡ് കിട്ടാത്ത കുഞ്ഞുങ്ങളിൽ ഈ മാർക്ക് ഷീറ്റ് പ്രദർശനം ഇടുന്ന പ്രഷർ എന്തായിരിക്കും... ഇത്രമാത്രം ഹൈപ്പ് അർഹിക്കാത്ത ഒരു പരീക്ഷയാണ് പത്താംതരം എന്നു കൂടെ ഓർക്കണം. ജീവിത വിജയവുമായിട്ട് വലിയ ബന്ധവുമില്ല. പത്താം തരത്തിലെ ഗ്രേഡിംഗ് നടത്തുന്നത് കുട്ടികളെ സാമൂഹികമായി വേർതിരിക്കാനല്ല, അക്കാദമിക് ചോയ്സുകൾ പ്രാവർത്തികമാക്കാൻ മാത്രമാണ്.</div>
-</div>
-
-<div class="o9v6fnle cxmmr5t8 oygrvhab hcukyx3x c1et5uql ii04i59q">
-<div dir="auto"></div>
-<div dir="auto">A+ ആഘോഷങ്ങളിലും സ്വീകരണങ്ങളിലും പങ്കെടുക്കാൻ വിളിക്കുന്നവരോട് സ്നേഹത്തോടെ വരാൻ നിർവാഹമില്ല എന്നേ പറയാൻ പറ്റൂ. ഇവർക്ക് സ്വീകരണവും ആഘോഷവും ഒരുക്കുമ്പോൾ അപമാനിക്കപ്പെടുകയും അവഗണനയുമായി ഓരത്ത് മാറി നിൽക്കുകയും ചെയ്യുന്ന ബാക്കി കുട്ടികളുടെ മനസ്സാര് വായിക്കും? അവരും മിടുക്കരും മിടുക്കികളും തന്നെയാണ്. ഇത്തരത്തിൽ സിസ്റ്റമാറ്റിക്കായി സമൂഹം ഒന്നടങ്കം അവരെ മാനസികമായി തളർത്താതിരുന്നാൽ മതി. ഈ രക്തത്തിൽ പങ്കാളിയാവാൻ വയ്യ ഉണ്ണീ.</div>
-</div>
-
-<div class="o9v6fnle cxmmr5t8 oygrvhab hcukyx3x c1et5uql ii04i59q">
-<div dir="auto"></div>
-<div dir="auto">വിജയങ്ങൾ നമ്രതയോടെ ഏറ്റ് വാങ്ങാനാണ് കുട്ടികളെ പഠിപ്പിക്കേണ്ടത്. വൾഗറായി ആഘോഷിക്കാനല്ല. പരാജയങ്ങളെ ഗ്രേസ്ഫുളായി കൈകാര്യം ചെയ്യാനും. ഗൗരവമുള്ള ഉന്നത പരീക്ഷകളും ശരിക്കുള്ള ജീവിതപരീക്ഷണങ്ങളും ഇനി വരാനിരിക്കുന്നേ ഉള്ളൂ.</div>
-</div>
-
-
-![A+ നല്ലത് തന്നെ. പക്ഷേ ഓവറാക്കി ചളമാക്കരുത്](https://cdn.boolokam.com/articles/2020/07/china-india-pm-border-issue-32.jpg)**[](https://wordpress-972788-3403151.cloudwaysapps.com/prasanth-nair-post/279252/china-india-pm-border-issue-440)കളക്ടർ ബ്രോ Prasanth Nair എഴുതുന്നു**
+**[](https://wordpress-972788-3403151.cloudwaysapps.com/prasanth-nair-post/279252/china-india-pm-border-issue-440)കളക്ടർ ബ്രോ Prasanth Nair എഴുതുന്നു**
 
 A+ നല്ലത് തന്നെ. പക്ഷേ ഓവറാക്കി ചളമാക്കരുത്. എന്റെ ചെറിയ ബുദ്ധിയിലെ അഭിപ്രായം, മാർക്ക്ഷീറ്റ് ഒരു കുട്ടിയുടെ സ്വകാര്യതയാണ് എന്നാണ്. കാണിക്കേണ്ട സ്ഥലത്ത് മാത്രം കാണിക്കേണ്ടത്.
 
