@@ -23,7 +23,9 @@
       </div>
       
       <div class="grid-container">
-          {{ range .Pages }}
+          <!-- Use Paginator instead of .Pages -->
+          {{ $paginator := .Paginate .Pages 12 }}
+          {{ range $paginator.Pages }}
           <div class="grid-item">
               <div class="card">
                   {{ if .Params.featured_image }}
@@ -67,6 +69,21 @@
           </div>
           {{ end }}
       </div>
+      
+      <!-- Pagination navigation -->
+      {{ if gt $paginator.TotalPages 1 }}
+      <div class="pagination">
+          {{ if $paginator.HasPrev }}
+          <a href="{{ $paginator.Prev.URL }}" class="pagination-prev">Previous</a>
+          {{ end }}
+          
+          <span class="pagination-info">Page {{ $paginator.PageNumber }} of {{ $paginator.TotalPages }}</span>
+          
+          {{ if $paginator.HasNext }}
+          <a href="{{ $paginator.Next.URL }}" class="pagination-next">Next</a>
+          {{ end }}
+      </div>
+      {{ end }}
   </div>
 {{ end }}
 {{ end }} 
