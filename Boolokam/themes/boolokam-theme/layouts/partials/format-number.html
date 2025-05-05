@@ -1,12 +1,18 @@
 {{ $number := . }}
-{{ $formatted := $number }}
 
-{{ if ge $number 1000 }}
-  {{ $inK := div $number 100 | math.Round | div 10.0 }}
-  {{ $formatted = printf "%.1f%s" $inK "K" }}
-  {{ if hasPrefix (printf "%.1f" $inK) (string (int $inK)) }}
-    {{ $formatted = printf "%d%s" (int $inK) "K" }}
+{{ if or (not $number) (eq $number 0) }}
+  0
+{{ else if lt $number 1000 }}
+  {{ $number }}
+{{ else if lt $number 10000 }}
+  {{ $inK := div (float $number) 1000.0 }}
+  {{ $formatted := printf "%.1fK" $inK }}
+  {{ if hasSuffix $formatted ".0K" }}
+    {{ replace $formatted ".0" "" }}
+  {{ else }}
+    {{ $formatted }}
   {{ end }}
-{{ end }}
-
-{{ return $formatted }} 
+{{ else }}
+  {{ $inK := div $number 1000 }}
+  {{ printf "%dK" $inK }}
+{{ end }} 

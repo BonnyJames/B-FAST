@@ -127,45 +127,33 @@ function initMobileMenuToggle() {
         
         header.querySelector('.header-content').appendChild(toggleBtn);
         
+        // Create mobile sidebar on page load
+        const originalSidebar = document.querySelector('.sidebar');
+        let mobileSidebar = document.querySelector('.mobile-sidebar');
+        
+        if (originalSidebar && !mobileSidebar) {
+            mobileSidebar = document.createElement('div');
+            mobileSidebar.className = 'mobile-sidebar';
+            mobileSidebar.innerHTML = originalSidebar.innerHTML;
+            document.body.appendChild(mobileSidebar);
+            
+            // Add close button to mobile sidebar
+            const closeBtn = document.createElement('button');
+            closeBtn.className = 'mobile-sidebar-close';
+            closeBtn.innerHTML = '&times;';
+            closeBtn.setAttribute('aria-label', 'Close menu');
+            mobileSidebar.prepend(closeBtn);
+            
+            closeBtn.addEventListener('click', function() {
+                document.body.classList.remove('mobile-menu-open');
+                document.querySelector('.mobile-menu-toggle').classList.remove('active');
+            });
+        }
+        
+        // Toggle mobile menu
         toggleBtn.addEventListener('click', function() {
             document.body.classList.toggle('mobile-menu-open');
             this.classList.toggle('active');
-            
-            // Create a mobile sidebar if it doesn't exist
-            let mobileSidebar = document.querySelector('.mobile-sidebar');
-            const originalSidebar = document.querySelector('.sidebar');
-            
-            if (!mobileSidebar && originalSidebar) {
-                mobileSidebar = document.createElement('div');
-                mobileSidebar.className = 'mobile-sidebar';
-                mobileSidebar.innerHTML = originalSidebar.innerHTML;
-                document.body.appendChild(mobileSidebar);
-                
-                // Add close button to mobile sidebar
-                const closeBtn = document.createElement('button');
-                closeBtn.className = 'mobile-sidebar-close';
-                closeBtn.innerHTML = '×';
-                mobileSidebar.prepend(closeBtn);
-                
-                closeBtn.addEventListener('click', function() {
-                    document.body.classList.remove('mobile-menu-open');
-                    toggleBtn.classList.remove('active');
-                });
-
-                // Add event listeners to the mobile sidebar nav buttons
-                const mobileNavButtons = mobileSidebar.querySelectorAll('.sidebar-navigation .nav-btn');
-                mobileNavButtons.forEach(btn => {
-                    btn.addEventListener('click', function() {
-                        // Close the mobile menu when navigating
-                        document.body.classList.remove('mobile-menu-open');
-                        toggleBtn.classList.remove('active');
-                        
-                        // Set the current section in localStorage
-                        const section = this.getAttribute('href').replace(/\//g, '');
-                        localStorage.setItem('currentSection', section || 'news');
-                    });
-                });
-            }
         });
     }
 }

@@ -1,0 +1,35 @@
+                        <h4 class="trending-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
+                        <div class="trending-stats">
+                            <span class="views"><i class="far fa-thumbs-up"></i> {{ partial "format-number.html" .Params.like_count }}</span>
+                            <span class="comments"><i class="far fa-comment"></i> {{ partial "format-number.html" .Params.comment_count }}</span>
+                            <span class="shares"><i class="fas fa-share"></i> {{ partial "format-number.html" .Params.share_count }}</span>
+                        </div> 
+
+            <div class="column-header">
+                <h2>TRENDING THIS WEEK</h2>
+            </div>
+            <div class="column-content">
+                <div class="trending-list">
+                    <!-- Debugging: Show all trending posts -->
+                    {{ $trendingPosts := where .Site.RegularPages "Params.trending" true }}
+                    <p>Found {{ len $trendingPosts }} trending posts</p>
+                    
+                    {{ range first 5 $trendingPosts }}
+                    <div class="trending-item">
+                        <a href="{{ .RelPermalink }}" class="full-card-link" aria-label="Read {{ .Title }}"></a>
+                        <div class="trending-meta">
+                            {{ with .Params.categories }}
+                            <span class="category">{{ index . 0 }}</span>
+                            {{ end }}
+                            <span class="date">• {{ .Date.Format "Jan 02, 2006" }} •</span>
+                        </div>
+                        <h4 class="trending-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
+                        <div class="trending-stats">
+                            <span class="views"><i class="far fa-thumbs-up"></i> {{ .Params.like_count }}</span>
+                            <span class="comments"><i class="far fa-comment"></i> {{ .Params.comment_count }}</span>
+                            <span class="shares"><i class="fas fa-share"></i> {{ .Params.share_count }}</span>
+                        </div>
+                    </div>
+                    {{ end }}
+                </div>
+            </div> 

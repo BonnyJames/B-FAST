@@ -7,29 +7,26 @@
             <div class="column-header">
                 <h2>TRENDING THIS WEEK</h2>
             </div>
-            <div class="trending-list">
-                {{ $trending_articles := where .Site.RegularPages "Section" "in" (slice "news" "videos" "movies") }}
-                {{ $trending_articles := where $trending_articles "Params.view_count" ">" 0 }}
-                {{ $trending_articles := $trending_articles.ByParam "view_count" }}
-                {{ $trending_articles := $trending_articles.Reverse }}
-                {{ $top_articles := first 5 $trending_articles }}
-                
-                {{ range $index, $article := $top_articles }}
-                <div class="trending-item">
-                    <a href="{{ $article.RelPermalink }}" class="full-card-link" aria-label="Read {{ $article.Title }}"></a>
-                    <div class="trending-number">{{ add $index 1 }}</div>
-                    <div class="trending-content">
-                        <div class="trending-category">{{ upper (index $article.Params.categories 0) }}<span class="trending-date">• {{ $article.Date.Format "Jan 02, 2006" }}</span></div>
-                        <h4><a href="{{ $article.RelPermalink }}">{{ $article.Title }}</a></h4>
+            <div class="column-content">
+                <div class="trending-list">
+                    {{ range $index, $element := first 5 (where .Site.RegularPages "Params.trending" "eq" true) }}
+                    <div class="trending-item">
+                        <a href="{{ .RelPermalink }}" class="full-card-link" aria-label="Read {{ .Title }}"></a>
+                        <div class="trending-meta">
+                            {{ with .Params.categories }}
+                            <span class="category">{{ index . 0 }}</span>
+                            {{ end }}
+                            <span class="date">• {{ .Date.Format "Jan 02, 2006" }} •</span>
+                        </div>
+                        <h4 class="trending-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h4>
                         <div class="trending-stats">
-                            <span class="trending-views"><i class="fas fa-eye"></i> {{ partial "format-number.html" $article.Params.view_count }}</span>
-                            <span class="trending-likes"><i class="far fa-heart"></i> {{ if $article.Params.like_count }}{{ partial "format-number.html" $article.Params.like_count }}{{ else }}423{{ end }}</span>
-                            <span class="trending-comments"><i class="far fa-comment"></i> {{ if $article.Params.comment_count }}{{ partial "format-number.html" $article.Params.comment_count }}{{ else }}89{{ end }}</span>
-                            <span class="trending-shares"><i class="far fa-share-square"></i> {{ if $article.Params.share_count }}{{ partial "format-number.html" $article.Params.share_count }}{{ else }}67{{ end }}</span>
+                            <span class="views"><i class="far fa-thumbs-up"></i> {{ partial "format-number.html" 12345 }}</span>
+                            <span class="comments"><i class="far fa-comment"></i> {{ partial "format-number.html" .Params.comment_count }}</span>
+                            <span class="shares"><i class="fas fa-share"></i> {{ partial "format-number.html" .Params.share_count }}</span>
                         </div>
                     </div>
+                    {{ end }}
                 </div>
-                {{ end }}
             </div>
         </div>
 
@@ -47,9 +44,9 @@
                     <a href="{{ .RelPermalink }}" class="full-card-link" aria-label="Read {{ .Title }}"></a>
                     <div class="featured-image">
                         {{ if .Params.image }}
-                        <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
+                        <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" loading="lazy">
                         {{ else }}
-                        <img src="{{ "images/samples/news/general/default.jpg" | relURL }}" alt="{{ .Title }}">
+                        <img src="{{ "images/placeholder.jpg" | relURL }}" alt="{{ .Title }}" loading="lazy">
                         {{ end }}
                         <div class="featured-category-tag">
                             {{ upper (index .Params.categories 0) }}
@@ -57,12 +54,20 @@
                     </div>
                     <div class="featured-content">
                         <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-                        <div class="featured-date-bottom">{{ .Date.Format "Jan 02, 2006" }}</div>
+                        <div class="post-meta">
+                            <span class="view-count"><i class="fas fa-eye"></i> {{ if .Params.view_count }}{{ partial "format-number.html" .Params.view_count }}{{ else }}1.5K{{ end }}</span>
+                            <span class="divider"></span>
+                            <span class="post-date">{{ .Date.Format "Jan 02, 2006" }}</span>
+                            {{ with .Params.author }}
+                            <span class="divider"></span>
+                            <span class="post-author">{{ . }}</span>
+                            {{ end }}
+                        </div>
+                        <p>{{ .Summary | truncate 120 }}</p>
                         <div class="post-stats">
-                            <span><i class="fas fa-eye"></i> {{ if .Params.view_count }}{{ partial "format-number.html" .Params.view_count }}{{ else }}1.5K{{ end }}</span>
-                            <span><i class="far fa-heart"></i> 77</span>
-                            <span><i class="far fa-comment"></i> 28</span>
-                            <span><i class="far fa-share-square"></i> 67</span>
+                            <span><i class="far fa-thumbs-up"></i> {{ partial "format-number.html" .Params.like_count }}</span>
+                            <span><i class="far fa-comment"></i> {{ partial "format-number.html" .Params.comment_count }}</span>
+                            <span><i class="fas fa-share"></i> {{ partial "format-number.html" .Params.share_count }}</span>
                         </div>
                     </div>
                 </div>
@@ -75,9 +80,9 @@
                         <a href="{{ .RelPermalink }}" class="full-card-link" aria-label="Read {{ .Title }}"></a>
                         <div class="featured-image">
                             {{ if .Params.image }}
-                            <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
+                            <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" loading="lazy">
                             {{ else }}
-                            <img src="{{ "images/samples/news/general/default.jpg" | relURL }}" alt="{{ .Title }}">
+                            <img src="{{ "images/placeholder.jpg" | relURL }}" alt="{{ .Title }}" loading="lazy">
                             {{ end }}
                             <div class="featured-category-tag">
                                 {{ upper (index .Params.categories 0) }}
@@ -85,12 +90,19 @@
                         </div>
                         <div class="featured-content">
                             <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-                            <div class="featured-date-bottom">{{ .Date.Format "Jan 02, 2006" }}</div>
+                            <div class="post-meta">
+                                <span class="view-count"><i class="fas fa-eye"></i> {{ if .Params.view_count }}{{ partial "format-number.html" .Params.view_count }}{{ else }}1.5K{{ end }}</span>
+                                <span class="divider"></span>
+                                <span class="post-date">{{ .Date.Format "Jan 02, 2006" }}</span>
+                                {{ with .Params.author }}
+                                <span class="divider"></span>
+                                <span class="post-author">{{ . }}</span>
+                                {{ end }}
+                            </div>
                             <div class="post-stats">
-                                <span><i class="fas fa-eye"></i> {{ if .Params.view_count }}{{ partial "format-number.html" .Params.view_count }}{{ else }}1.5K{{ end }}</span>
-                                <span><i class="far fa-heart"></i> 77</span>
-                                <span><i class="far fa-comment"></i> 28</span>
-                                <span><i class="far fa-share-square"></i> 67</span>
+                                <span><i class="far fa-thumbs-up"></i> {{ partial "format-number.html" .Params.like_count }}</span>
+                                <span><i class="far fa-comment"></i> {{ partial "format-number.html" .Params.comment_count }}</span>
+                                <span><i class="fas fa-share"></i> {{ partial "format-number.html" .Params.share_count }}</span>
                             </div>
                         </div>
                     </div>
@@ -100,7 +112,7 @@
         </div>
 
         <!-- Column 3: Latest Movies and Videos (Tabbed) -->
-        <div class="column latest-column">
+        <div class="column videos-column">
             <div class="column-header">
                 <h2>LATEST MOVIES AND VIDEOS</h2>
             </div>
@@ -112,31 +124,36 @@
                 <!-- Videos Tab -->
                 <div id="videos-tab" class="tab-content active">
                     {{ range first 5 (where .Site.RegularPages "Type" "videos") }}
-                    <div class="latest-item">
+                    <div class="latest-item" data-type="videos">
                         <a href="{{ .RelPermalink }}" class="full-card-link" aria-label="Read {{ .Title }}"></a>
-                        <div class="latest-thumb">
-                            {{ if .Params.image }}
-                            <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
-                            {{ else }}
-                            <img src="{{ "images/samples/videos/default.jpg" | relURL }}" alt="{{ .Title }}">
-                            {{ end }}
-                            <div class="play-icon">
-                                <i class="fas fa-play-circle"></i>
+                        <div class="latest-item-header">
+                            <div class="latest-thumb">
+                                {{ if .Params.image }}
+                                <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" loading="lazy">
+                                {{ else }}
+                                <img src="{{ "images/placeholder.jpg" | relURL }}" alt="{{ .Title }}" loading="lazy">
+                                {{ end }}
+                                <div class="play-icon">
+                                    <i class="fas fa-play-circle"></i>
+                                </div>
+                            </div>
+                            <div class="latest-details">
+                                <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+                                <div class="post-meta">
+                                    <span class="view-count"><i class="fas fa-eye"></i> {{ if .Params.view_count }}{{ partial "format-number.html" .Params.view_count }}{{ else }}123k{{ end }}</span>
+                                    <span class="post-date">{{ .Date.Format "02/01/2006" }}</span>
+                                    {{ with .Params.categories }}
+                                    <span class="category-tag">{{ index . 0 }}</span>
+                                    {{ else }}
+                                    <span class="category-tag">VIDEOS</span>
+                                    {{ end }}
+                                </div>
                             </div>
                         </div>
-                        <div class="latest-details">
-                            <div class="latest-category">
-                                {{ with .Params.categories }}
-                                <span class="category">{{ upper (index . 0) }}</span>
-                                {{ end }}
-                                <span class="date">• {{ .Date.Format "Jan 02, 2006" }}</span>
-                            </div>
-                            <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-                            <div class="post-stats">
-                                <span><i class="fas fa-eye"></i> {{ if .Params.view_count }}{{ partial "format-number.html" .Params.view_count }}{{ else }}8.5K{{ end }}</span>
-                                <span><i class="far fa-heart"></i> 423</span>
-                                <span><i class="far fa-comment"></i> 89</span>
-                            </div>
+                        <div class="post-stats">
+                            <span><i class="far fa-thumbs-up"></i> {{ partial "format-number.html" .Params.like_count }}</span>
+                            <span><i class="far fa-comment"></i> {{ partial "format-number.html" .Params.comment_count }}</span>
+                            <span><i class="fas fa-share"></i> {{ partial "format-number.html" .Params.share_count }}</span>
                         </div>
                     </div>
                     {{ end }}
@@ -145,31 +162,36 @@
                 <!-- Movies Tab -->
                 <div id="movies-tab" class="tab-content">
                     {{ range first 5 (where .Site.RegularPages "Type" "movies") }}
-                    <div class="latest-item">
+                    <div class="latest-item" data-type="movies">
                         <a href="{{ .RelPermalink }}" class="full-card-link" aria-label="Read {{ .Title }}"></a>
-                        <div class="latest-thumb">
-                            {{ if .Params.image }}
-                            <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
-                            {{ else }}
-                            <img src="{{ "images/samples/movies/default.jpg" | relURL }}" alt="{{ .Title }}">
-                            {{ end }}
-                            <div class="play-icon">
-                                <i class="fas fa-play-circle"></i>
+                        <div class="latest-item-header">
+                            <div class="latest-thumb">
+                                {{ if .Params.image }}
+                                <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" loading="lazy">
+                                {{ else }}
+                                <img src="{{ "images/placeholder.jpg" | relURL }}" alt="{{ .Title }}" loading="lazy">
+                                {{ end }}
+                                <div class="play-icon">
+                                    <i class="fas fa-play-circle"></i>
+                                </div>
+                            </div>
+                            <div class="latest-details">
+                                <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+                                <div class="post-meta">
+                                    <span class="view-count"><i class="fas fa-eye"></i> {{ if .Params.view_count }}{{ partial "format-number.html" .Params.view_count }}{{ else }}123k{{ end }}</span>
+                                    <span class="post-date">{{ .Date.Format "02/01/2006" }}</span>
+                                    {{ with .Params.categories }}
+                                    <span class="category-tag">{{ index . 0 }}</span>
+                                    {{ else }}
+                                    <span class="category-tag">MOVIES</span>
+                                    {{ end }}
+                                </div>
                             </div>
                         </div>
-                        <div class="latest-details">
-                            <div class="latest-category">
-                                {{ with .Params.categories }}
-                                <span class="category">{{ upper (index . 0) }}</span>
-                                {{ end }}
-                                <span class="date">• {{ .Date.Format "Jan 02, 2006" }}</span>
-                            </div>
-                            <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-                            <div class="post-stats">
-                                <span><i class="fas fa-eye"></i> {{ if .Params.view_count }}{{ partial "format-number.html" .Params.view_count }}{{ else }}6.3K{{ end }}</span>
-                                <span><i class="far fa-heart"></i> 312</span>
-                                <span><i class="far fa-comment"></i> 67</span>
-                            </div>
+                        <div class="post-stats">
+                            <span><i class="far fa-thumbs-up"></i> {{ partial "format-number.html" .Params.like_count }}</span>
+                            <span><i class="far fa-comment"></i> {{ partial "format-number.html" .Params.comment_count }}</span>
+                            <span><i class="fas fa-share"></i> {{ partial "format-number.html" .Params.share_count }}</span>
                         </div>
                     </div>
                     {{ end }}
@@ -188,25 +210,33 @@
             {{ $latestNews := where .Site.RegularPages "Type" "news" }}
             {{ range first 24 $latestNews }}
             <div class="grid-item">
-                <div class="card">
+                <div class="card" data-type="news">
                     <a href="{{ .RelPermalink }}" class="full-card-link" aria-label="Read {{ .Title }}"></a>
                     {{ if .Params.image }}
-                    <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
+                    <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}" loading="lazy">
                     {{ else }}
-                    <img src="{{ "images/samples/news/general/default.jpg" | relURL }}" alt="{{ .Title }}">
+                    <img src="{{ "images/placeholder.jpg" | relURL }}" alt="{{ .Title }}" loading="lazy">
                     {{ end }}
                     <div class="featured-category-tag">
                         {{ with .Params.categories }}{{ upper (index . 0) }}{{ end }}
                     </div>
                     <div class="card-content">
                         <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
-                        <p class="post-meta">{{ .Date.Format "Jan 2, 2006" }}</p>
-                        <div class="post-stats">
-                            <span><i class="fas fa-eye"></i> {{ if .Params.view_count }}{{ partial "format-number.html" .Params.view_count }}{{ else }}1.5K{{ end }}</span>
-                            <span><i class="far fa-heart"></i> {{ if .Params.like_count }}{{ partial "format-number.html" .Params.like_count }}{{ else }}77{{ end }}</span>
-                            <span><i class="far fa-comment"></i> {{ if .Params.comment_count }}{{ partial "format-number.html" .Params.comment_count }}{{ else }}28{{ end }}</span>
-                            <span><i class="far fa-share-square"></i> {{ if .Params.share_count }}{{ partial "format-number.html" .Params.share_count }}{{ else }}15{{ end }}</span>
+                        <div class="post-meta">
+                            <span class="view-count"><i class="fas fa-eye"></i> {{ if .Params.view_count }}{{ partial "format-number.html" .Params.view_count }}{{ else }}1.5K{{ end }}</span>
+                            <span class="divider"></span>
+                            <span class="post-date">{{ .Date.Format "Jan 2, 2006" }}</span>
+                            {{ with .Params.author }}
+                            <span class="divider"></span>
+                            <span class="post-author">{{ . }}</span>
+                            {{ end }}
                         </div>
+                        <p>{{ .Summary | truncate 80 }}</p>
+                    </div>
+                    <div class="post-stats">
+                        <span><i class="far fa-thumbs-up"></i> {{ partial "format-number.html" .Params.like_count }}</span>
+                        <span><i class="far fa-comment"></i> {{ partial "format-number.html" .Params.comment_count }}</span>
+                        <span><i class="fas fa-share"></i> {{ partial "format-number.html" .Params.share_count }}</span>
                     </div>
                 </div>
             </div>

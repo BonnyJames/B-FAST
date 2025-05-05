@@ -1,76 +1,50 @@
 {{ define "main" }}
-<div class="list-header">
-    <h1>{{ .Title }}</h1>
-    {{ with .Description }}
-    <p>{{ . }}</p>
-    {{ end }}
-</div>
-
-{{ if eq .Data.Plural "movie_genres" }}
-    <div class="movie-list">
-        {{ range .Paginator.Pages }}
-        <div class="movie-item">
-            <a href="{{ .Permalink }}" class="movie-item-link" aria-label="View {{ .Title }}"></a>
-            <div class="movie-item-poster">
-                {{ if .Params.image }}
-                <img src="{{ .Params.image | relURL }}" alt="{{ .Title }} Poster">
-                {{ else if .Params.poster }}
-                <img src="{{ .Params.poster | relURL }}" alt="{{ .Title }} Poster">
-                {{ else }}
-                <img src="https://images.unsplash.com/photo-1579353977828-2a4eab540b9a" alt="{{ .Title }} Poster">
-                {{ end }}
-                
-                {{ if .Params.movie_genres }}
-                {{ range first 1 .Params.movie_genres }}
-                <span class="featured-category-tag">{{ . }}</span>
-                {{ end }}
-                {{ else if .Params.genres }}
-                {{ range first 1 .Params.genres }}
-                <span class="featured-category-tag">{{ . }}</span>
-                {{ end }}
-                {{ end }}
-            </div>
-            <div class="movie-item-details">
-                <h3 class="movie-item-title">{{ .Title }}</h3>
-                <div class="movie-item-meta">
-                    {{ with .Params.release_year }}
-                    <span class="movie-year">{{ . }}</span>
-                    {{ end }}
-                    
-                    {{ with .Params.rating }}
-                    <span class="movie-rating">{{ . }}/10</span>
-                    {{ end }}
-                </div>
-            </div>
-        </div>
-        {{ end }}
+<div class="taxonomy-container">
+    <div class="section-title">
+        <h2>{{ .Title }}</h2>
+        <span class="view-all">{{ len .Pages }} articles</span>
     </div>
-{{ else }}
+    
     <div class="content-grid">
-        {{ range .Paginator.Pages }}
+        {{ range .Pages }}
         <div class="grid-item">
             <div class="card">
+                <a href="{{ .RelPermalink }}" class="full-card-link" aria-label="Read {{ .Title }}"></a>
                 {{ if .Params.image }}
                 <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
                 {{ else }}
-                <img src="/images/samples/placeholder.jpg" alt="{{ .Title }}">
+                    {{ if eq .Type "videos" }}
+                    <img src="{{ "images/samples/videos/default.jpg" | relURL }}" alt="{{ .Title }}">
+                    {{ else if eq .Type "movies" }}
+                    <img src="{{ "images/samples/movies/default.jpg" | relURL }}" alt="{{ .Title }}">
+                    {{ else }}
+                    <img src="{{ "images/samples/news/general/default.jpg" | relURL }}" alt="{{ .Title }}">
+                    {{ end }}
                 {{ end }}
+                <div class="featured-category-tag">
+                    {{ with .Params.categories }}{{ upper (index . 0) }}{{ end }}
+                </div>
                 <div class="card-content">
                     <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
                     <div class="post-meta">
-                        <span class="post-date">{{ .Date.Format "January 2, 2006" }}</span>
+                        <span class="view-count"><i class="fas fa-eye"></i> {{ partial "format-number.html" (default 0 .Params.view_count) }}</span>
+                        <span class="divider"></span>
+                        <span class="post-date">{{ .Date.Format "Jan 2, 2006" }}</span>
+                        {{ with .Params.author }}
+                        <span class="divider"></span>
+                        <span class="post-author">{{ . }}</span>
+                        {{ end }}
                     </div>
-                    <p>{{ .Summary }}</p>
+                    <p>{{ .Summary | truncate 150 }}</p>
                     <div class="post-stats">
-                        <span><i class="fas fa-eye"></i> {{ if .Params.view_count }}{{ partial "format-number.html" .Params.view_count }}{{ else }}1.2K{{ end }}</span>
-                        <span><i class="fas fa-comment"></i> {{ if .Params.comment_count }}{{ partial "format-number.html" .Params.comment_count }}{{ else }}8{{ end }}</span>
+                        <span><i class="far fa-heart"></i> {{ partial "format-number.html" (default 0 .Params.like_count) }}</span>
+                        <span><i class="far fa-comment"></i> {{ partial "format-number.html" (default 0 .Params.comment_count) }}</span>
+                        <span><i class="far fa-share-square"></i> {{ partial "format-number.html" (default 0 .Params.share_count) }}</span>
                     </div>
                 </div>
             </div>
         </div>
         {{ end }}
     </div>
-{{ end }}
-
-{{ template "_internal/pagination.html" . }}
+</div>
 {{ end }} 

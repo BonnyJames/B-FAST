@@ -1,0 +1,19 @@
+{{ $number := . }}
+{{ if not $number }}
+  {{ return 0 }}
+{{ end }}
+
+{{ if eq $number 0 }}
+  {{ return 0 }}
+{{ else if lt $number 1000 }}
+  {{ return $number }}
+{{ else if lt $number 10000 }}
+  {{ $formatted := printf "%.1fK" (div (float $number) 1000) }}
+  {{ if hasSuffix $formatted ".0K" }}
+    {{ return replace $formatted ".0" "" }}
+  {{ else }}
+    {{ return $formatted }}
+  {{ end }}
+{{ else }}
+  {{ return printf "%dK" (div $number 1000) }}
+{{ end }} 
