@@ -1,6 +1,7 @@
 /* 
  * Boolokam Main CSS File
  * A consolidated CSS file for the entire site
+ * Version: 2.0.3
  */
 
 /* Base Styles */
@@ -53,6 +54,10 @@
     /* Layout Variables */
     --container-width: 1200px;
     --gutter: 20px;
+    --sidebar-width: 240px;
+    --sidebar-width-collapsed: 60px;
+    --header-height: 50px;
+    --tradingview-height: 40px;
     
     /* Transitions */
     --transition: all 0.3s ease;
@@ -69,10 +74,10 @@ body {
     font-size: 14px;
     line-height: 1.6;
     color: var(--text-color);
-    background-color: var(--bg-color);
+    background-color: var(--bg-color, #fff);
     margin: 0;
     padding: 0;
-    padding-top: 40px; /* Add padding for the fixed TradingView widget */
+    padding-top: var(--tradingview-height); /* Add padding for the fixed TradingView widget */
     overflow-x: hidden;
 }
 
@@ -104,11 +109,12 @@ img {
     padding: 0 12px;
 }
 
-/* Layout styles */
+/* Layout styles - Improved for better responsiveness */
 .main-content {
     display: flex;
-    min-height: calc(100vh - 40px); /* Account for TradingView widget height */
+    min-height: calc(100vh - var(--tradingview-height)); /* Account for TradingView widget height */
     position: relative;
+    width: 100%;
 }
 
 main {
@@ -116,6 +122,9 @@ main {
     min-width: 0;
     padding: 15px;
     order: 2; /* Make main content load after sidebar */
+    transition: margin-left 0.3s ease, width 0.3s ease;
+    margin-left: var(--sidebar-width);
+    width: calc(100% - var(--sidebar-width));
 }
 
 /* Hero Section Styles */
@@ -263,6 +272,14 @@ main {
     grid-row: span 2;
 }
 
+/* Add featured-secondary-row with explicit 2-column layout */
+.featured-secondary-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    width: 100%;
+}
+
 .featured-primary {
     position: relative;
     border-radius: 16px;
@@ -272,6 +289,9 @@ main {
     border: 1px solid rgba(0, 0, 0, 0.08);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
 }
 
 .featured-secondary {
@@ -284,6 +304,9 @@ main {
     border: 1px solid rgba(0, 0, 0, 0.08);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     cursor: pointer;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
 }
 
 .featured-primary:hover,
@@ -353,6 +376,9 @@ main {
     flex-direction: column;
     height: 100%;
     background-color: #fff;
+    display: flex;
+    flex-direction: column;
+    flex: 1;
 }
 
 .featured-content h3 {
@@ -416,7 +442,7 @@ main {
     margin: 0 5px;
 }
 
-/* Post Stats - Updated styling - Icon only with numbers */
+/* Post Stats - Updated styling for proper positioning and interactions */
 .post-stats {
     display: flex;
     align-items: center;
@@ -424,6 +450,8 @@ main {
     border-top: 1px solid rgba(0, 0, 0, 0.08);
     background-color: #fafafa;
     width: 100%;
+    margin-top: auto; /* Push to the bottom of flex container */
+    padding: 0;
 }
 
 .post-stats span {
@@ -438,7 +466,7 @@ main {
     cursor: pointer;
     transition: color 0.2s ease, background-color 0.2s ease;
     padding: 12px 0;
-    border-right: 1px solid rgba(0, 0, 0, 0.08);
+    border-right: 1px solid rgba(0, 0, 0, 0.05);
 }
 
 .post-stats span:last-child {
@@ -447,189 +475,102 @@ main {
 
 .post-stats span:hover {
     background-color: #f0f0f0;
-    color: #000;
+    color: #0078ff;
+}
+
+.post-stats span.active {
+    color: #0078ff;
+    font-weight: 600;
+}
+
+.post-stats span.active i {
+    transform: scale(1.1);
 }
 
 .post-stats span i {
-    margin-right: 4px;
-    font-size: 16px;
+    margin-right: 6px;
+    transition: transform 0.2s ease;
 }
 
 /* Featured content post stats */
 .featured-content .post-stats {
-    align-items: center;
+    margin-top: auto; /* Push to bottom */
     background-color: #fafafa;
-    z-index: 5;
-    width: 100%;
-    padding: 0;
-    border-radius: 0 0 16px 16px;
-    border-top: 1px solid rgba(0, 0, 0, 0.08);
-    margin-bottom: 0;
+    width: calc(100% + 30px);
     margin-left: -15px;
     margin-right: -15px;
-    width: calc(100% + 30px);
+    border-radius: 0 0 16px 16px;
+    border-top: 1px solid rgba(0, 0, 0, 0.08);
+    margin-bottom: 0; /* Remove margin to avoid spacing issues */
+    position: relative;
 }
 
 .featured-primary .featured-content .post-stats {
-
     bottom: 0;
     left: 0;
 }
 
-.featured-date-bottom {
-    margin-top: 4px;
-    font-size: 13px;
-    color: #777;
-    display: inline-block;
-}
-
-.featured-secondary-row {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 15px;
-    margin-top: 15px;
-}
-
-.featured-secondary .featured-content h3 {
-    font-size: 16px;
-}
-
-/* Section titles with View All */
-.section-title {
+/* Latest item stats */
+.latest-item .post-stats {
     display: flex;
-    justify-content: space-between;
     align-items: center;
-    margin-bottom: 20px;
-    padding-bottom: 8px;
-    border-bottom: 1px solid #eee;
+    justify-content: space-between;
+    margin-top: auto; /* Push to bottom */
+    border-top: 1px solid rgba(0, 0, 0, 0.08);
+    width: 100%;
+    background-color: #fafafa;
+    border-radius: 0 0 12px 12px;
 }
 
-.section-title h2 {
-    font-size: 18px;
-    font-weight: 700;
-    margin: 0;
-    color: var(--heading-color);
-}
-
-.view-all {
+.latest-item .post-stats span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #8b8b8b;
     font-size: 13px;
-    font-weight: 600;
-    color: var(--secondary-color);
-    text-decoration: none;
-}
-
-.view-all:hover {
-    color: var(--accent-color);
-    text-decoration: underline;
-}
-
-/* Grid container for cards */
-.grid-container {
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    gap: 15px;
-}
-
-.grid-item {
-    display: flex;
-    flex-direction: column;
-    position: relative;
-    height: 100%;
-}
-
-/* Article Card Styles */
-.card {
-    display: flex;
-    flex-direction: column;
-    background-color: #fff;
-    border-radius: 16px;
-    overflow: hidden;
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
-    height: 100%;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-    border: 1px solid rgba(0, 0, 0, 0.08);
-    position: relative;
-}
-
-.card:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
-    border-color: rgba(0, 0, 0, 0.12);
-}
-
-.card-image-container {
-    position: relative;
-    overflow: hidden;
-    aspect-ratio: 16/9;
-    width: 100%;
-}
-
-/* Ensure card images are consistent */
-.card img {
-    width: 100%;
-    object-fit: cover;
-    height: 200px; /* Fixed height for all card images */
-}
-
-.card-content {
-    padding: 12px;
-    display: flex;
-    flex-direction: column;
+    font-weight: 500;
     flex: 1;
-}
-
-.card-text-wrapper {
-    flex: 1;
-    display: flex;
-    flex-direction: column;
-    margin-bottom: 12px;
-}
-
-.card-content > * {
+    text-align: center;
+    cursor: pointer;
+    transition: color 0.2s ease, background-color 0.2s ease;
+    padding: 10px 0;
+    border-right: 1px solid rgba(0, 0, 0, 0.08);
     position: relative;
-    z-index: 2;
+    z-index: 3; /* Higher than card link */
 }
 
-.card-content h3 {
-    margin: 0 0 8px 0;
-    font-size: 16px;
-    font-weight: 700;
-    line-height: 1.3;
-    height: 42px; /* Fixed height for 2 lines at font-size 16px and line-height 1.3 */
-    overflow: hidden;
-    display: -webkit-box;
-    -webkit-line-clamp: 2;
-    -webkit-box-orient: vertical;
+.latest-item .post-stats span:last-child {
+    border-right: none;
 }
 
-.card-content h3 a {
-    color: var(--heading-color);
-    text-decoration: none;
-    transition: color 0.2s ease;
+.latest-item .post-stats span:hover {
+    background-color: #f0f0f0;
+    color: #000;
 }
 
-.card-content h3 a:hover {
+.latest-item .post-stats span.active {
     color: var(--accent-color);
 }
 
-.card-content .post-meta {
-    font-size: 13px;
-    color: #777;
-    margin-bottom: 8px;
-    display: flex;
-    gap: 5px;
-    height: 20px; /* Fixed height for metadata */
+.latest-item .post-stats span i {
+    margin-right: 8px;
+    font-size: 14px;
 }
 
-.card-content p {
-    font-size: 13px;
-    line-height: 1.5;
-    color: #555;
-    display: -webkit-box;
-    -webkit-line-clamp: 2;
-    -webkit-box-orient: vertical;
+/* Card post stats */
+.card .post-stats {
+    margin-top: auto;
+    border-radius: 0 0 16px 16px;
     overflow: hidden;
-    text-overflow: ellipsis;
+}
+
+/* Latest news section cards */
+.latest-news-section .card .post-stats {
+    margin-top: auto;
+    border-top: 1px solid rgba(0, 0, 0, 0.08);
+    background-color: #fafafa;
+    height: 40px; /* Fixed height for the stats section */
+    border-radius: 0 0 16px 16px; /* Match the card's border radius */
 }
 
 /* Tags and Categories */
@@ -758,9 +699,10 @@ main {
 /* Header Styles */
 .site-header {
     position: fixed;
-    top: 45px;
+    top: var(--tradingview-height);
     left: 0;
     width: 100%;
+    height: var(--header-height);
     z-index: 1000;
     background-color: var(--header-bg);
     padding: 0;
@@ -969,6 +911,10 @@ main {
     margin: 0 auto;
     padding: 0 12px;
     overflow-x: auto;
+    overflow-y: hidden;
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none; /* Firefox */
 }
 
 .categories-nav {
@@ -1107,17 +1053,15 @@ body.mobile-menu-open .mobile-sidebar {
     display: block;
 }
 
-/* Desktop styles */
+/* Desktop styles with improved sidebar handling */
 @media (min-width: 769px) {
     body {
         padding-left: 0;
-        padding-top: 40px;
+        padding-top: var(--tradingview-height);
     }
     
     main {
-        padding: 15px;
-        margin-left:14%;
-        margin-top: 45px;
+        margin-top: var(--header-height);
     }
     
     .layout-wrapper {
@@ -1126,65 +1070,7 @@ body.mobile-menu-open .mobile-sidebar {
     }
     
     .sidebar {
-        position: fixed;
-        left: 0;
-        top: 0;
-        width: 240px;
-        height: 100%;
-        background-color: #fff;
-        padding: 15px;
-        box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
-        overflow-y: auto;
-        z-index: 900;
-        transition: width 0.3s;
-    }
-    
-    .main-content {
-        transition: margin-left 0.3s, width 0.3s;
-    }
-    
-    .sidebar.collapsed {
-        width: 60px !important;
-        min-width: 60px !important;
-    }
-    
-    .sidebar.collapsed .sidebar-content,
-    .sidebar.collapsed .sidebar-section,
-    .sidebar.collapsed .sidebar-navigation,
-    .sidebar.collapsed .whatsapp-follow,
-    .sidebar.collapsed .social-media-component {
-        opacity: 0;
-        pointer-events: none;
-        width: 0;
-        height: 0;
-        overflow: hidden;
-        transition: opacity 0.2s;
-    }
-    
-    .main-content.sidebar-collapsed {
-        width: calc(100% - 60px);
-        margin-left: 60px !important;
-    }
-    
-    .sidebar-collapse {
-        display: block;
-        position: absolute;
-        top: 10px;
-        right: -18px;
-        z-index: 1100;
-    }
-    
-    #sidebar-collapse-btn {
-        background: white;
-        border: 1px solid #ddd;
-        border-radius: 50%;
-        width: 28px;
-        height: 28px;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        cursor: pointer;
-        box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+        transition: width 0.3s ease;
     }
     
     .mobile-menu-toggle {
@@ -1192,7 +1078,7 @@ body.mobile-menu-open .mobile-sidebar {
     }
 }
 
-/* Medium Screens */
+/* Medium Screens - improved responsive behavior */
 @media (max-width: 992px) {
     .grid-container {
         grid-template-columns: repeat(3, 1fr);
@@ -1206,6 +1092,7 @@ body.mobile-menu-open .mobile-sidebar {
         grid-row: auto;
     }
     
+    /* Adjust hero section for medium screens - only override the grid-template-columns */
     .hero-section {
         grid-template-columns: 1fr 1fr 1fr;
     }
@@ -1222,9 +1109,24 @@ body.mobile-menu-open .mobile-sidebar {
     .latest-news-section .grid-container {
         grid-template-columns: repeat(3, 1fr);
     }
+    
+    /* Adjust sidebar and main content for medium screens */
+    .sidebar {
+        width: 200px;
+    }
+    
+    main {
+        margin-left: 200px;
+        width: calc(100% - 200px);
+    }
+    
+    .main-content.sidebar-collapsed {
+        margin-left: var(--sidebar-width-collapsed);
+        width: calc(100% - var(--sidebar-width-collapsed));
+    }
 }
 
-/* Mobile Devices */
+/* Mobile Devices - completely redesigned for mobile */
 @media (max-width: 768px) {
     /* Layout adjustments */
     .main-content {
@@ -1233,25 +1135,21 @@ body.mobile-menu-open .mobile-sidebar {
     
     body {
         padding-left: 0 !important;
-        padding-top: 40px; /* Space for TradingView widget */
+        padding-top: var(--tradingview-height); /* Space for TradingView widget */
     }
     
     main {
-        width: 100%;
+        width: 100% !important;
         order: 1; /* On mobile, main content comes first */
-        margin-top: 50px; /* Adjusted for header height + TradingView widget height on mobile */
+        margin-top: var(--header-height); /* Adjusted for header height + TradingView widget height on mobile */
+        margin-left: 0 !important; /* Remove sidebar margin */
+        padding: 10px;
     }
     
-    /* Ensure the trending column is visible on mobile */
-    .trending-column {
-        display: block;
-        margin-bottom: 15px;
-    }
-    
-    /* Make hero section stack vertically */
+    /* Stack hero section vertically on mobile - only override the grid-template-columns */
     .hero-section {
         grid-template-columns: 1fr;
-        gap: 15px;
+        gap: 10px;
     }
     
     .trending-column,
@@ -1260,76 +1158,90 @@ body.mobile-menu-open .mobile-sidebar {
         grid-column: 1;
     }
     
-    /* Latest item mobile styles */
-    .latest-item {
-        border-radius: 12px;
-        margin-bottom: 12px;
+    /* Mobile sidebar handling */
+    .sidebar {
+        display: none !important; /* Hide the desktop sidebar on mobile */
     }
     
-    .latest-item-header {
-        padding: 12px 12px 0 12px;
-        gap: 12px;
+    /* Show the mobile toggle button */
+    .mobile-menu-toggle {
+        display: flex !important;
+        flex-direction: column;
+        justify-content: space-between;
+        width: 30px;
+        height: 21px;
+        background: transparent;
+        border: none;
+        cursor: pointer;
+        padding: 0;
+        margin-left: 15px;
+        z-index: 2001;
     }
     
-    .latest-thumb {
-        width: 80px;
-        height: 80px;
-        border-radius: 6px;
+    .mobile-menu-toggle span {
+        width: 100%;
+        height: 3px;
+        background-color: #000;
+        border-radius: 3px;
+        transition: all 0.3s ease-in-out;
     }
     
-    .latest-details h1 {
-        font-size: 16px !important;
-        margin-bottom: 6px;
+    /* Mobile sidebar specific styles */
+    .mobile-sidebar {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 250px;
+        height: 100vh;
+        background-color: #fff;
+        box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+        z-index: 2000;
+        overflow-y: auto;
+        transform: translateX(-100%);
+        transition: transform 0.3s ease;
+        visibility: visible;
+        padding: 15px;
     }
     
-    .latest-details .category-tag {
-        padding: 3px 8px;
-        font-size: 10px;
+    body.mobile-menu-open .mobile-sidebar {
+        transform: translateX(0);
     }
     
-    .latest-details .view-count {
-        font-size: 14px;
+    /* Mobile overlay when menu is open */
+    body.mobile-menu-open::after {
+        content: '';
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background: rgba(0, 0, 0, 0.5);
+        z-index: 1500;
+        backdrop-filter: blur(2px);
     }
     
-    .latest-details .view-count i {
-        font-size: 14px;
+    /* Mobile sidebar close button */
+    .mobile-sidebar-close {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        font-size: 24px;
+        background: none;
+        border: none;
+        cursor: pointer;
     }
     
-    .latest-details .post-date {
-        font-size: 12px;
-    }
-    
-    .latest-item .post-stats span {
-        font-size: 12px;
-        padding: 10px 0;
-    }
-    
-    .latest-item .post-stats span i {
-        font-size: 14px;
-        margin-right: 6px;
-    }
-    
-    /* Post stats and meta adjustments */
-    .post-stats {
-        padding-top: 8px;
-    }
-    
-    .post-stats span {
-        font-size: 12px;
-    }
-    
-    .post-meta {
-        font-size: 12px;
-        margin-bottom: 6px;
-    }
-    
-    /* Navigation adjustments */
+    /* Side-scrolling nav container on mobile */
     .nav-container {
         overflow-x: auto !important;
         overflow-y: hidden !important;
         white-space: nowrap !important;
         -webkit-overflow-scrolling: touch;
         scrollbar-width: none; /* Firefox */
+    }
+    
+    .nav-container::-webkit-scrollbar {
+        display: none; /* Chrome, Safari, Opera */
     }
     
     .categories-nav,
@@ -1658,13 +1570,13 @@ body.mobile-menu-open .mobile-sidebar {
     }
 }
 
-/* Sidebar styles */
+/* Improved Sidebar styles */
 .sidebar {
     position: fixed;
-    top: 0;
+    top: calc(var(--tradingview-height) + var(--header-height));
     bottom: 0;
     left: 0;
-    width: 200px;
+    width: var(--sidebar-width);
     z-index: 900;
     background-color: #f5f5f5;
     display: flex;
@@ -1674,9 +1586,54 @@ body.mobile-menu-open .mobile-sidebar {
     padding: 15px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
     order: 1;
+    transition: width 0.3s ease, transform 0.3s ease;
 }
 
-/* Sidebar Navigation */
+.sidebar.collapsed {
+    width: var(--sidebar-width-collapsed);
+    min-width: var(--sidebar-width-collapsed);
+}
+
+.sidebar.collapsed .sidebar-content,
+.sidebar.collapsed .sidebar-section,
+.sidebar.collapsed .sidebar-navigation,
+.sidebar.collapsed .whatsapp-follow,
+.sidebar.collapsed .social-media-component {
+    opacity: 0;
+    pointer-events: none;
+    width: 0;
+    height: 0;
+    overflow: hidden;
+    transition: opacity 0.2s;
+}
+
+.main-content.sidebar-collapsed {
+    margin-left: var(--sidebar-width-collapsed);
+    width: calc(100% - var(--sidebar-width-collapsed));
+}
+
+.sidebar-collapse {
+    display: block;
+    position: absolute;
+    top: 10px;
+    right: -14px;
+    z-index: 1100;
+}
+
+#sidebar-collapse-btn {
+    background: white;
+    border: 1px solid #ddd;
+    border-radius: 50%;
+    width: 28px;
+    height: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Enhanced Sidebar Navigation */
 .sidebar-navigation {
     display: flex;
     flex-direction: column;
@@ -1686,7 +1643,7 @@ body.mobile-menu-open .mobile-sidebar {
 
 .sidebar-navigation .nav-btn {
     display: block;
-    padding: 5px 0px;
+    padding: 8px 12px;
     text-align: center;
     background-color: #eaeaea;
     color: #333;
@@ -1699,6 +1656,7 @@ body.mobile-menu-open .mobile-sidebar {
 
 .sidebar-navigation .nav-btn:hover {
     background-color: #ddd;
+    transform: translateY(-2px);
 }
 
 .sidebar-navigation .nav-btn.active {
@@ -1706,7 +1664,7 @@ body.mobile-menu-open .mobile-sidebar {
     color: #fff;
 }
 
-/* Sidebar Categories */
+/* Sidebar Categories with improved spacing */
 .sidebar-section h3 {
     font-size: 13px;
     font-weight: 600;
@@ -2016,209 +1974,28 @@ body.mobile-menu-open .mobile-sidebar {
     transition: transform 0.3s ease;
 }
 
+/* Image loading animation */
+.image-loading {
+    position: relative;
+    background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+    background-size: 200% 100%;
+    animation: shimmer 1.5s infinite;
+}
+
+@keyframes shimmer {
+    0% {
+        background-position: -200% 0;
+    }
+    100% {
+        background-position: 200% 0;
+    }
+}
+
 .card:hover img,
 .featured-primary:hover img, 
 .featured-secondary:hover img,
 .latest-item:hover img {
     transform: scale(1.05);
-}
-
-/* Make all card images the same height across all breakpoints */
-@media (max-width: 992px) {
-    .latest-news-section .grid-container {
-        grid-template-columns: repeat(3, 1fr);
-    }
-    
-    .latest-news-section .card img {
-        height: 180px;
-    }
-}
-
-@media (max-width: 768px) {
-    .latest-news-section .grid-container {
-        grid-template-columns: repeat(2, 1fr);
-    }
-    
-    .latest-news-section .card img {
-        height: 160px;
-    }
-}
-
-@media (max-width: 576px) {
-    .latest-news-section .grid-container {
-        grid-template-columns: 1fr;
-    }
-    
-    .latest-news-section .card img {
-        height: 200px;
-    }
-}
-
-/* Mobile Search Bar Adjustments */
-@media (max-width: 768px) {
-    .search-box {
-        display: none !important;
-    }
-    
-    .sidebar {
-        display: none !important;
-        visibility: hidden !important;
-        width: 0 !important;
-        height: 0 !important;
-        opacity: 0 !important;
-        position: absolute !important;
-        left: -9999px !important;
-        top: -9999px !important;
-        z-index: -999 !important;
-        overflow: hidden !important;
-        pointer-events: none !important;
-    }
-    
-    .mobile-sidebar {
-        transform: translateX(-100%);
-        display: block;
-        visibility: visible;
-    }
-    
-    body.mobile-menu-open .mobile-sidebar {
-        transform: translateX(0);
-    }
-    
-    /* Improve mobile performance by disabling unnecessary animations and transitions */
-    .card:hover,
-    .trending-item:hover,
-    .featured-primary:hover,
-    .featured-secondary:hover,
-    .latest-item:hover {
-        transform: none;
-        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
-    }
-    
-    /* Make sure the mobile menu toggle button is visible and works properly */
-    .mobile-menu-toggle {
-        display: flex;
-        flex-direction: column;
-        justify-content: space-between;
-        width: 30px;
-        height: 21px;
-        background: transparent;
-        border: none;
-        cursor: pointer;
-        padding: 0;
-        margin-left: 15px;
-        z-index: 2001;
-    }
-    
-    .mobile-menu-toggle span {
-        width: 100%;
-        height: 3px;
-        background-color: #000;
-        border-radius: 3px;
-        transition: all 0.3s ease-in-out;
-    }
-}
-
-/* Mobile side-scrolling nav container */
-.nav-container {
-    max-width: 100%;
-    margin: 0 auto;
-    padding: 0 12px;
-    overflow-x: auto;
-    overflow-y: hidden;
-    white-space: nowrap;
-    -webkit-overflow-scrolling: touch;
-    scrollbar-width: none; /* Firefox */
-}
-
-.nav-container::-webkit-scrollbar {
-    display: none; /* Chrome, Safari, Opera */
-}
-
-.categories-nav,
-.categories-nav ul {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
-    white-space: nowrap;
-}
-
-/* Prevent stacking of nav items */
-.main-nav li,
-.categories-nav li {
-    flex: 0 0 auto;
-}
-
-/* Mobile sidebar slide-in */
-@media (max-width: 768px) {
-    .mobile-sidebar {
-        position: fixed;
-        top: 0;
-        left: 0;
-        width: 240px;
-        height: 100vh;
-        background-color: #fff;
-        box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
-        z-index: 2000;
-        overflow-y: auto;
-        transform: translateX(-100%);
-        transition: transform 0.3s ease;
-        visibility: visible;
-    }
-    
-    body.mobile-menu-open .mobile-sidebar {
-        transform: translateX(0);
-    }
-    
-    .mobile-sidebar-close {
-        position: absolute;
-        top: 10px;
-        right: 10px;
-        font-size: 24px;
-        background: none;
-        border: none;
-        cursor: pointer;
-    }
-    
-    /* Side-scrolling nav container on mobile */
-    .nav-container {
-        overflow-x: auto !important;
-        overflow-y: hidden !important;
-        white-space: nowrap !important;
-        -webkit-overflow-scrolling: touch;
-        scrollbar-width: none; /* Firefox */
-    }
-    
-    .nav-container::-webkit-scrollbar {
-        display: none; /* Chrome, Safari, Opera */
-    }
-    
-    .categories-nav,
-    .categories-nav ul {
-        display: flex !important;
-        flex-direction: row !important;
-        flex-wrap: nowrap !important;
-        white-space: nowrap !important;
-    }
-    
-    .categories-nav li {
-        flex: 0 0 auto !important;
-    }
-}
-
-/* Card-based components - common styles */
-.card, .latest-item, .featured-primary, .featured-secondary {
-    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
-    border: 1px solid rgba(0, 0, 0, 0.08);
-    background-color: #fff;
-    border-radius: 16px;
-    overflow: hidden;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-
-.card:hover, .latest-item:hover, .featured-primary:hover, .featured-secondary:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
-    border-color: rgba(0, 0, 0, 0.12);
 }
 
 /* Fix grid layout for latest news */
@@ -2258,7 +2035,7 @@ body.mobile-menu-open .mobile-sidebar {
     margin-top: auto;
     border-top: 1px solid rgba(0, 0, 0, 0.08);
     background-color: #fafafa;
-    height: 35px; /* Fixed height for the stats section */
+    height: 40px; /* Fixed height for the stats section */
     border-radius: 0 0 16px 16px; /* Match the card's border radius */
 }
 
@@ -2277,39 +2054,240 @@ body.mobile-menu-open .mobile-sidebar {
     z-index: 10;
 }
 
-/* Image Fallback Styles */
+/* Improved mobile layout for latest news section */
+@media (max-width: 992px) {
+    .latest-news-section .grid-container {
+        grid-template-columns: repeat(3, 1fr);
+    }
+    
+    .latest-news-section .card img {
+        height: 180px;
+    }
+}
+
+@media (max-width: 768px) {
+    .latest-news-section .grid-container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+    .latest-news-section .card img {
+        height: 160px;
+    }
+}
+
+@media (max-width: 576px) {
+    .latest-news-section .grid-container {
+        grid-template-columns: 1fr;
+    }
+    
+    .latest-news-section .card img {
+        height: 200px;
+    }
+    
+    /* Full width cards on mobile */
+    .latest-news-section .card {
+        width: 100%;
+        margin-bottom: 15px;
+        border-radius: 12px;
+        box-shadow: 0 3px 10px rgba(0, 0, 0, 0.1);
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+    }
+    
+    .latest-news-section .card:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+    }
+}
+
+/* Image Placeholder Styles with transition */
 .img-fallback {
-    object-fit: cover !important;
-    object-position: center !important;
-    width: 100% !important;
-    background-color: #f8f8f8;
+    object-fit: cover;
+    background-color: #f0f0f0;
+    border: 1px solid #e0e0e0;
+    display: block;
+    width: 100%;
+    max-width: 100%;
+    transition: opacity 0.3s ease;
 }
 
 .broken-image {
     position: relative;
-    overflow: hidden;
 }
 
-/* Container-specific image sizes */
+.broken-image::before {
+    content: "Image Unavailable";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: #888;
+    font-size: 12px;
+    z-index: 1;
+    text-align: center;
+    width: 100%;
+}
+
 .card .img-fallback {
-    height: 200px !important;
+    height: 180px;
+    width: 100%;
 }
 
 .featured-image .img-fallback {
-    height: 100% !important;
-    position: absolute;
-    top: 0;
-    left: 0;
+    height: 100%;
+    min-height: 300px;
 }
 
 .latest-thumb .img-fallback {
-    width: 100px !important;
-    height: 100px !important;
+    aspect-ratio: 16/9;
+    min-height: 180px;
 }
 
 @media (max-width: 768px) {
     .latest-thumb .img-fallback {
-        width: 80px !important;
-        height: 80px !important;
+        min-height: 120px;
     }
+}
+
+/* Fix for mobile sidebar issue */
+#mobile-sidebar {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: -280px;
+    width: 280px;
+    height: 100vh;
+    background-color: white;
+    z-index: 1000;
+    overflow-y: auto;
+    transition: left 0.3s ease;
+    box-shadow: 2px 0 5px rgba(0, 0, 0, 0.1);
+}
+
+body.mobile-menu-open #mobile-sidebar {
+    display: block;
+    left: 0;
+}
+
+body.mobile-menu-open::after {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 999;
+}
+
+/* Mobile sidebar button */
+.mobile-sidebar-close {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: transparent;
+    border: none;
+    font-size: 24px;
+    cursor: pointer;
+    color: #333;
+    padding: 5px;
+    z-index: 2;
+}
+
+/* Cards - Ensure proper flex layout to push stats to bottom */
+.card {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    background-color: #fff;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.15);
+}
+
+.card-content {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    padding: 15px;
+    position: relative;
+}
+
+.card-text-wrapper {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+/* Post Stats - Updated styling for proper positioning and interactions */
+.post-stats {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-top: 1px solid rgba(0, 0, 0, 0.08);
+    background-color: #fafafa;
+    width: 100%;
+    margin-top: auto; /* Push to the bottom of flex container */
+    padding: 0;
+}
+
+.post-stats span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #555;
+    font-size: 14px;
+    font-weight: 500;
+    flex: 1;
+    text-align: center;
+    cursor: pointer;
+    transition: color 0.2s ease, background-color 0.2s ease;
+    padding: 12px 0;
+    border-right: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.post-stats span:last-child {
+    border-right: none;
+}
+
+.post-stats span:hover {
+    background-color: #f0f0f0;
+    color: #0078ff;
+}
+
+.post-stats span.active {
+    color: #0078ff;
+    font-weight: 600;
+}
+
+.post-stats span.active i {
+    transform: scale(1.1);
+}
+
+.post-stats span i {
+    margin-right: 6px;
+    transition: transform 0.2s ease;
+}
+
+/* Ensure stats are at bottom in featured posts */
+.featured-primary {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.featured-content {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.featured-content .post-stats {
+    margin-top: auto;
 } 

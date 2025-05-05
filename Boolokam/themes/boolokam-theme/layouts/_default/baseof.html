@@ -1,58 +1,61 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- Cache-busting timestamp: {{ now.Format "2006-01-02 15:04:05.000" }} -->
     {{ partial "head.html" . }}
     <!-- TradingView Widget -->
 </head>
 <body>
     <!-- TradingView Widget BEGIN -->
-<!-- TradingView Widget BEGIN -->
-<div class="tradingview-widget-container">
-  <div class="tradingview-widget-container__widget"></div>
-  <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/" rel="noopener nofollow" target="_blank"></a></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
-  {
-  "symbols": [
-    {
-      "proName": "BITSTAMP:BTCUSD",
-      "title": "Bitcoin"
-    },
-    {
-      "proName": "BITSTAMP:ETHUSD",
-      "title": "Ethereum"
-    },
-    {
-      "description": "USD/INR",
-      "proName": "FX_IDC:USDINR"
-    },
-    {
-      "description": "SOL",
-      "proName": "BYBIT:SOLUSDT.P"
-    },
-    {
-      "description": "TESLA",
-      "proName": "NASDAQ:TSLA"
-    },
-    {
-      "description": "APPLE",
-      "proName": "NASDAQ:AAPL"
+    <div class="tradingview-widget-container">
+      <div class="tradingview-widget-container__widget"></div>
+      <div class="tradingview-widget-copyright"><a href="https://www.tradingview.com/" rel="noopener nofollow" target="_blank"></a></div>
+      <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
+      {
+      "symbols": [
+        {
+          "proName": "BITSTAMP:BTCUSD",
+          "title": "Bitcoin"
+        },
+        {
+          "proName": "BITSTAMP:ETHUSD",
+          "title": "Ethereum"
+        },
+        {
+          "description": "USD/INR",
+          "proName": "FX_IDC:USDINR"
+        },
+        {
+          "description": "SOL",
+          "proName": "BYBIT:SOLUSDT.P"
+        },
+        {
+          "description": "TESLA",
+          "proName": "NASDAQ:TSLA"
+        },
+        {
+          "description": "APPLE",
+          "proName": "NASDAQ:AAPL"
+        }
+      ],
+      "showSymbolLogo": true,
+      "isTransparent": false,
+      "displayMode": "regular",
+      "colorTheme": "dark",
+      "locale": "en"
     }
-  ],
-  "showSymbolLogo": true,
-  "isTransparent": false,
-  "displayMode": "regular",
-  "colorTheme": "dark",
-  "locale": "en"
-}
-  </script>
-</div>
-<!-- TradingView Widget END -->
+      </script>
+    </div>
     <!-- TradingView Widget END -->
     
     {{ partial "header.html" . }}
     
-    <div class="main-content">
+    <div id="main-content" class="main-content">
+        <!-- Desktop Sidebar -->
         {{ partial "sidebar.html" . }}
+        
+        <!-- Mobile Sidebar - Empty container that will be populated by JavaScript -->
+        <div id="mobile-sidebar" class="mobile-sidebar"></div>
         
         <main>
             {{ block "main" . }}{{ end }}
@@ -61,6 +64,170 @@
     
     {{ partial "footer.html" . }}
     
-    <script src="{{ "js/main.js" | relURL }}"></script>
+    <!-- Add sidebar toggle button only on desktop -->
+    <div class="sidebar-collapse">
+        <button id="sidebar-toggle-btn" aria-label="Toggle Sidebar">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+                <path fill-rule="evenodd" d="M6 8a.5.5 0 0 0 .5.5h5.793l-2.147 2.146a.5.5 0 0 0 .708.708l3-3a.5.5 0 0 0 0-.708l-3-3a.5.5 0 0 0-.708.708L12.293 7.5H6.5A.5.5 0 0 0 6 8zm-2.5 7a.5.5 0 0 1-.5-.5v-13a.5.5 0 0 1 1 0v13a.5.5 0 0 1-.5.5z"/>
+            </svg>
+        </button>
+    </div>
+    
+    <script src="{{ "js/main.js" | relURL }}?v={{ now.Unix }}"></script>
+    
+    <!-- Inline script for sidebar toggle functionality -->
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // Initialize mobile sidebar by cloning the desktop sidebar
+            const desktopSidebar = document.querySelector('.sidebar');
+            const mobileSidebar = document.getElementById('mobile-sidebar');
+            
+            if (desktopSidebar && mobileSidebar) {
+                // Clone the desktop sidebar content for mobile
+                const sidebarClone = desktopSidebar.cloneNode(true);
+                
+                // Remove the id attribute from the clone to avoid duplicate IDs
+                sidebarClone.removeAttribute('id');
+                
+                // Copy only the content from the cloned sidebar to the mobile sidebar
+                mobileSidebar.innerHTML = sidebarClone.innerHTML;
+                
+                // Add mobile-specific close button
+                const closeBtn = document.createElement('button');
+                closeBtn.className = 'mobile-sidebar-close';
+                closeBtn.innerHTML = '&times;';
+                closeBtn.setAttribute('aria-label', 'Close menu');
+                mobileSidebar.prepend(closeBtn);
+                
+                closeBtn.addEventListener('click', function() {
+                    document.body.classList.remove('mobile-menu-open');
+                    const mobileMenuToggle = document.querySelector('.mobile-menu-toggle');
+                    if (mobileMenuToggle) {
+                        mobileMenuToggle.classList.remove('active');
+                    }
+                });
+            }
+            
+            // Sidebar toggle functionality
+            const sidebarToggle = document.getElementById('sidebar-toggle-btn');
+            const sidebar = document.querySelector('.sidebar');
+            const mainContent = document.getElementById('main-content');
+            
+            if (sidebarToggle && sidebar && mainContent) {
+                // Check if user has a preference already
+                const sidebarCollapsed = localStorage.getItem('sidebar-collapsed') === 'true';
+                
+                // Apply the initial state
+                if (sidebarCollapsed) {
+                    sidebar.classList.add('collapsed');
+                    mainContent.classList.add('sidebar-collapsed');
+                }
+                
+                sidebarToggle.addEventListener('click', function() {
+                    sidebar.classList.toggle('collapsed');
+                    mainContent.classList.toggle('sidebar-collapsed');
+                    
+                    // Save the preference
+                    localStorage.setItem('sidebar-collapsed', sidebar.classList.contains('collapsed'));
+                });
+            }
+            
+            // Mobile menu toggle
+            const mobileToggle = document.querySelector('.mobile-menu-toggle');
+            const body = document.body;
+            
+            if (mobileToggle) {
+                mobileToggle.addEventListener('click', function() {
+                    body.classList.toggle('mobile-menu-open');
+                    this.classList.toggle('active');
+                });
+            }
+            
+            // Close mobile sidebar when clicking the overlay
+            document.addEventListener('click', function(event) {
+                if (body.classList.contains('mobile-menu-open') && 
+                    !event.target.closest('.mobile-sidebar') && 
+                    !event.target.closest('.mobile-menu-toggle')) {
+                    body.classList.remove('mobile-menu-open');
+                    if (mobileToggle) {
+                        mobileToggle.classList.remove('active');
+                    }
+                }
+            });
+            
+            // Handle broken images with placeholder
+            handleBrokenImages();
+        });
+        
+        // Function to handle broken images with a placeholder
+        function handleBrokenImages() {
+            const placeholderPath = "https://flowbite.com/docs/images/examples/image-1@2x.jpg";
+            
+            // Process all images on the page
+            document.querySelectorAll('img').forEach(function(img) {
+                // Skip images that are already handled
+                if (img.hasAttribute('data-handled')) return;
+                
+                // Mark as handled to avoid processing twice
+                img.setAttribute('data-handled', 'true');
+                
+                // Add loading animation class
+                img.classList.add('image-loading');
+                
+                // When image loads successfully, remove loading class
+                img.onload = function() {
+                    this.classList.remove('image-loading');
+                };
+                
+                // Store original source
+                if (img.src && !img.getAttribute('data-original-src')) {
+                    img.setAttribute('data-original-src', img.src);
+                }
+                
+                // Handle image loading errors
+                img.onerror = function() {
+                    // Prevent infinite loop if placeholder itself fails
+                    if (this.classList.contains('img-fallback')) return;
+                    
+                    // Replace with placeholder
+                    this.src = placeholderPath;
+                    this.classList.add('img-fallback');
+                    this.classList.remove('image-loading');
+                    
+                    // Add class to parent element
+                    if (this.parentElement) {
+                        this.parentElement.classList.add('broken-image');
+                    }
+                    
+                    // Prevent further error triggers
+                    this.onerror = null;
+                };
+            });
+            
+            // Check existing images
+            setTimeout(function() {
+                document.querySelectorAll('img').forEach(function(img) {
+                    // Check if image is broken, empty or invalid
+                    if (!img.complete || 
+                        !img.naturalWidth || 
+                        img.naturalWidth === 0 || 
+                        img.src === '' || 
+                        img.src === 'data:,' || 
+                        img.src === window.location.href) {
+                        
+                        if (!img.classList.contains('img-fallback')) {
+                            img.src = placeholderPath;
+                            img.classList.add('img-fallback');
+                            img.classList.remove('image-loading');
+                            
+                            if (img.parentElement) {
+                                img.parentElement.classList.add('broken-image');
+                            }
+                        }
+                    }
+                });
+            }, 500);
+        }
+    </script>
 </body>
 </html> 
