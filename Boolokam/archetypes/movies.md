@@ -12,4 +12,7 @@ duration: ""
 rating: ""
 trailer_id: ""
 view_count: 0
+like_count: 0
+comment_count: 0
+share_count: 0
 --- 

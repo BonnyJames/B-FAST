@@ -1,5 +1,8 @@
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="0">
 <title>{{ if .Title }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
 <meta name="description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}">
 
@@ -18,7 +21,10 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
 
 <!-- CSS -->
-<link rel="stylesheet" href="{{ "css/main.css" | relURL }}">
+<link rel="stylesheet" href="{{ "css/main.css" | relURL }}?v={{ now.Unix }}">
+
+<!-- JavaScript -->
+<script defer src="{{ "js/stats-updater.js" | relURL }}?v={{ now.Unix }}"></script>
 
 <!-- Open Graph / Social Media Meta Tags -->
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
@@ -51,114 +57,4 @@
 <meta name="twitter:image" content="{{ .Site.Params.og_image | absURL }}">
 {{ else }}
 <meta name="twitter:image" content="https://images.unsplash.com/photo-1579353977828-2a4eab540b9a">
-{{ end }}
-
-<!-- Enhanced Image Fallback Script -->
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    // Single placeholder image for all content types
-    const placeholderImage = '{{ "images/placeholder.jpg" | relURL }}';
-    
-    // Handle image elements
-    function handleImageElements() {
-      const allImages = document.querySelectorAll('img:not([data-handled])');
-      
-      allImages.forEach(function(img) {
-        // Mark as handled to avoid processing twice
-        img.setAttribute('data-handled', 'true');
-        
-        // Add loading="lazy" for better performance
-        if (!img.hasAttribute('loading')) {
-          img.setAttribute('loading', 'lazy');
-        }
-        
-        // Store the original source for reference
-        if (!img.getAttribute('data-original-src') && img.src) {
-          img.setAttribute('data-original-src', img.src);
-        }
-        
-        // Error handling for images
-        img.onerror = function() {
-          if (this.classList.contains('img-fallback')) {
-            return; // Prevent infinite loop
-          }
-          
-          // Apply the standard placeholder image
-          this.src = placeholderImage;
-          this.classList.add('img-fallback');
-          
-          // Add a CSS class to parent for styling
-          if (this.parentElement) {
-            this.parentElement.classList.add('broken-image');
-          }
-          
-          // Set appropriate dimensions based on container
-          setAppropriateImageDimensions(this);
-          
-          // Prevent infinite error loop
-          this.onerror = null;
-        };
-      });
-    }
-    
-    // Set appropriate dimensions based on container
-    function setAppropriateImageDimensions(img) {
-      const container = img.parentElement;
-      if (!container) return;
-      
-      // Add appropriate classes based on container
-      if (img.closest('.card')) {
-        img.style.aspectRatio = '16/9';
-        img.style.height = '200px';
-      } else if (img.closest('.latest-thumb')) {
-        img.style.aspectRatio = '1/1';
-      } else if (img.closest('.featured-image')) {
-        if (container.offsetHeight) {
-          img.style.height = container.offsetHeight + 'px';
-        }
-      }
-      
-      img.style.width = '100%';
-      img.style.objectFit = 'cover';
-    }
-    
-    // Check if images are already loaded, handle the ones that failed
-    function checkExistingImages() {
-      document.querySelectorAll('img').forEach(function(img) {
-        // Check if image is broken/empty
-        if (!img.complete || !img.naturalWidth || img.naturalWidth === 0 || 
-            img.src === '' || img.src === 'data:,' || 
-            img.src === window.location.href) {
-          
-          if (!img.classList.contains('img-fallback')) {
-            img.src = placeholderImage;
-            img.classList.add('img-fallback');
-            
-            if (img.parentElement) {
-              img.parentElement.classList.add('broken-image');
-            }
-            
-            setAppropriateImageDimensions(img);
-          }
-        }
-      });
-    }
-    
-    // Initial handling
-    handleImageElements();
-    
-    // Check for existing broken images
-    setTimeout(checkExistingImages, 500);
-    
-    // For dynamically added content (tabs, ajax, etc.)
-    const observer = new MutationObserver(function(mutations) {
-      mutations.forEach(function(mutation) {
-        if (mutation.addedNodes.length) {
-          handleImageElements();
-        }
-      });
-    });
-    
-    observer.observe(document.body, { childList: true, subtree: true });
-  });
-</script> 
+{{ end }} 

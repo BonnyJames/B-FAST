@@ -1,0 +1,19 @@
+---
+author: Beaumaris
+categories:
+- Entertainment
+comment_count: 0
+date: 2022-09-29 12:31:18
+draft: false
+image: ''
+like_count: 84487
+share_count: 13664
+tags:
+- nivin pauly
+- saturday night movie
+- siju wilson
+title: സാറ്റർഡേ നൈറ്റിലെ ആദ്യ ലിറിക്കൽ വീഡിയോ സോങ് പുറത്തിറങ്ങി
+view_count: 1513430
+---
+
+പുത്തൻ തലമുറയിലെ സൗഹൃദത്തിന്റെ കഥ പറയുന്ന ചിത്രമാണ് സാറ്റർഡേ നൈറ്റ്. കായംകുളം കൊച്ചുണ്ണിക്കു ശേഷം റോഷൻ ആൻഡ്രൂസും നിവിൻ പോളിയും വീണ്ടും ഒന്നിക്കുന്ന ചിത്രംകൂടിയാണ് ഇത്. സ്റ്റാൻലി എന്ന കഥാപാത്രത്തെയാണ് നിവിൻ പോളി അവതരിപ്പിക്കുന്നത്. പ്രതാപ്‌ പോത്തൻ, സാനിയ ഇയ്യപ്പൻ, മാളവിക ശ്രീനാഥ്‌, ഗ്രെയ്സ്‌ ആന്റണി, ശാരി, വിജയ്‌ മേനോൻ, അശ്വിൻ മാത്യു എന്നിവരാണ്‌ മറ്റു പ്രധാന കഥാപാത്രങ്ങളെ അവതരിപ്പിക്കുന്നത്‌. ചിത്രത്തിന്റെ ആദ്യ ലിറിക്കൽ വീഡിയോ സോങ് പുറത്തിറങ്ങി. നിലാത്തുമ്പി നീ എന്ന സോങ് ആണ് പുറത്തിറങ്ങിയത്. https://youtu.be/ULNc21Jmoso Music Composed and Arranged by JAKES BEJOY Singer : VIJAY YESUDAS Lyrics : JOE PAUL Music Producers : JAKES BEJOY, EBIN PALLICHAN,

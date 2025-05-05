@@ -1,0 +1,41 @@
+---
+author: Beaumaris
+categories:
+- Entertainment
+comment_count: 0
+date: 2023-12-01 12:50:30
+draft: false
+image: https://cdn.boolokam.com/articles/2023/12/fff-3.jpg
+like_count: 97286
+share_count: 10833
+tags:
+- Parvathy Thiruvothu
+title: പാർവ്വതി തിരുവോത്തിന്റ പുതിയ ചിത്രങ്ങൾ ശ്രദ്ധിക്കപ്പെടുന്നു
+view_count: 1710246
+---
+
+ദക്ഷിണേന്ത്യൻ ഭാഷകളിൽ മികവ് തെളിയിച്ച ചലച്ചിത്രനടിയാണ് പാർവ്വതി തിരുവോത്ത്. 2006-ൽ ഔട്ട് ഓഫ് എന്ന ചലച്ചിത്രത്തിലൂടെയാണു പാർവ്വതി അഭിനയരംഗത്തെത്തുന്നത്. വിനോദയാത്ര നോട്ട്ബുക്ക് (2006), സിറ്റി ഓഫ് ഗോഡ് (2011), മരിയാൻ (2013), ബാംഗ്ലൂർ ഡെയ്സ് ( 2014), എന്ന് നിന്റെ മൊയ്തീൻ (2015), ചാർലി ( 2015) ടേക്ക് ഓഫ്‌, ഉയരെ, പുഴു, വണ്ടർവുമണ് … എന്നീ ചലച്ചിത്രങ്ങളിൽ പാർവ്വതി അഭിനയിച്ച കഥാപാത്രങ്ങൾ ശ്രദ്ധിക്കപ്പെട്ടിരുന്നു. ![](https://cdn.boolokam.com/articles/2023/12/fff-3.jpg) ![](https://cdn.boolokam.com/articles/2023/12/fff-4.jpg) 2015-ലെ കേരളസംസ്ഥാന ചലച്ചിത്രപുരസ്കാരത്തിൽ എന്ന് നിന്റെ മൊയ്തീൻ , ചാർലി എന്നീ ചിത്രങ്ങളിലെ അഭിനയത്തിനു മികച്ച നടിക്കള്ള പുരസ്കാരം ലഭിച്ചു. മികച്ച നടിയ്ക്കുള്ള 2017 ലെ കേരളസംസ്ഥാന ചലച്ചിത്രപുരസ്കാരവും പാർവതിയ്ക്ക് ലഭിച്ചു. നല്ലൊരു ആരാധകവൃന്ദം ഉള്ള താരമാണ് പാർവതി.വിക്രമിന്റെ ‘തങ്കലാനിൽ’ ആണ് പാർവതി തിരുവോത്ത് നിലവിൽ അഭിനയിച്ചു കൊണ്ടിരിക്കുന്നത്. ![](https://cdn.boolokam.com/articles/2023/12/fff-5.jpg)പാ രഞ്‍ജിത്ത് സംവിധാനം ചെയ്യുന്ന ചിത്രത്തിൽ പശുപതി, ഹരി കൃഷ്‍ണൻ, അൻപു ദുരൈ എന്നിവരും മറ്റ് ചില പ്രമുഖ അഭിനേതാക്കളും സിനിമയുടെ ഭാഗമാകും. പത്തൊമ്പതാം നൂറ്റാണ്ടിൽ ബ്രിട്ടീഷ് കാലഘട്ടത്തിൽ കോളാര്‍ ഗോള്‍ഡ് ഫീല്‍ഡ്‍സില്‍ നടന്ന ഒരു സംഭവത്തെ ആസ്‍പദമാക്കിയാണ് ചിത്രം ഒരുങ്ങുന്നതെന്നാണ് വിവരം ![](https://cdn.boolokam.com/articles/2023/12/fff-2.jpg)ഇത്രയധികം ആരാധകർ ഉള്ളതുകൊണ്ടുതന്നെ പാർവതി പങ്കുവെക്കുന്ന ചിത്രങ്ങളെല്ലാം തന്നെ വൈറലായി മാറാറുണ്ട് താരത്തിന്റെ ഏറ്റവും പുതിയ ചിത്രങ്ങളും ഇപ്പോൾ സമൂഹമാധ്യമങ്ങളിൽ വൈറലായി മാറിയിരിക്കുകയാണ് . ഒറ്റനോട്ടത്തിൽ ഇത് പാർവതി തിരുവോത്ത് തന്നെയാണോ എന്ന് സംശയം തോന്നുമെന്നാണ് ആരാധകർ പറയുന്നത്. 
+
+> View this post on Instagram
+> 
+> [A post shared by Parvathy Thiruvothu (@par_vathy)](https://www.instagram.com/p/C0ToRagNSuM/?utm_source=ig_embed&utm_campaign=loading)
+
+> View this post on Instagram
+> 
+> [A post shared by Parvathy Thiruvothu (@par_vathy)](https://www.instagram.com/p/C0Tn4ymNaj3/?utm_source=ig_embed&utm_campaign=loading)
+
+> View this post on Instagram
+> 
+> [A post shared by Parvathy Thiruvothu (@par_vathy)](https://www.instagram.com/p/C0TnrL0N_PQ/?utm_source=ig_embed&utm_campaign=loading)
+
+> View this post on Instagram
+> 
+> [A post shared by Parvathy Thiruvothu (@par_vathy)](https://www.instagram.com/p/C0HKkQJv6gV/?utm_source=ig_embed&utm_campaign=loading)
+
+> View this post on Instagram
+> 
+> [A post shared by Parvathy Thiruvothu (@par_vathy)](https://www.instagram.com/p/C0HKRYFPank/?utm_source=ig_embed&utm_campaign=loading)
+
+> View this post on Instagram
+> 
+> [A post shared by Parvathy Thiruvothu (@par_vathy)](https://www.instagram.com/p/CxvgawQyT4S/?utm_source=ig_embed&utm_campaign=loading)

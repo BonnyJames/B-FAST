@@ -1,0 +1,46 @@
+{{ $post := . }}
+<div class="card" data-post-id="{{ $post.RelPermalink }}">
+    {{ if $post.Params.thumbnail }}
+        <div class="card-image-container">
+            <img src="{{ $post.Params.thumbnail | relURL }}" alt="{{ $post.Title }}">
+            {{ if $post.Params.categories }}
+                <div class="featured-category-tag">
+                    {{ index $post.Params.categories 0 | upper }}
+                </div>
+            {{ end }}
+        </div>
+    {{ end }}
+    <div class="card-content">
+        <div class="card-text-wrapper">
+            <h3><a href="{{ $post.RelPermalink }}">{{ $post.Title }}</a></h3>
+            <div class="post-meta">
+                <span class="view-count">
+                    <i class="fas fa-eye"></i> <span data-count="{{ if $post.Params.view_count }}{{ $post.Params.view_count }}{{ else }}0{{ end }}">
+                        {{ partial "format-number.html" (default 0 $post.Params.view_count) }}
+                    </span>
+                </span>
+                <span class="divider"></span>
+                <span class="date">{{ $post.Date.Format "Jan 2, 2006" }}</span>
+            </div>
+            <p>{{ $post.Summary | truncate 120 }}</p>
+        </div>
+        <div class="post-stats">
+            <span data-type="like">
+                <i class="fas fa-thumbs-up"></i> <span data-count="{{ if $post.Params.like_count }}{{ $post.Params.like_count }}{{ else }}0{{ end }}">
+                    {{ partial "format-number.html" (default 0 $post.Params.like_count) }}
+                </span>
+            </span>
+            <span data-type="comment">
+                <i class="fas fa-comment"></i> <span data-count="{{ if $post.Params.comment_count }}{{ $post.Params.comment_count }}{{ else }}0{{ end }}">
+                    {{ partial "format-number.html" (default 0 $post.Params.comment_count) }}
+                </span>
+            </span>
+            <span data-type="share">
+                <i class="fas fa-share-alt"></i> <span data-count="{{ if $post.Params.share_count }}{{ $post.Params.share_count }}{{ else }}0{{ end }}">
+                    {{ partial "format-number.html" (default 0 $post.Params.share_count) }}
+                </span>
+            </span>
+        </div>
+    </div>
+    <a href="{{ $post.RelPermalink }}" class="full-card-link" aria-label="Read {{ $post.Title }}"></a>
+</div> 

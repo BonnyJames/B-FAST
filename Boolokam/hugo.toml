@@ -69,7 +69,7 @@ theme = "boolokam-theme"
 
 # Build optimization settings
 [build]
-  useResourceCacheWhen = "always"
+  useResourceCacheWhen = "never"
   [build.buildStats]
     enable = false
   [[build.cachebusters]]
@@ -78,12 +78,17 @@ theme = "boolokam-theme"
   [[build.cachebusters]]
     source = "assets/.*"
     target = "js"
+  [[build.cachebusters]]
+    source = "static/css/.*\\.css"
+    target = "css"
 
 [server]
   [[server.headers]]
     for = "/**"
     [server.headers.values]
-      Cache-Control = "max-age=3600"
+      Cache-Control = "no-cache, no-store, must-revalidate"
+      Pragma = "no-cache"
+      Expires = "0"
 
 [watch]
   [watch.pathspec]
@@ -95,12 +100,12 @@ theme = "boolokam-theme"
 # Resource cache settings
 [caches]
   [caches.getjson]
-    maxAge = "30m"
+    maxAge = "0s"
   [caches.getcsv]
-    maxAge = "30m"
+    maxAge = "0s"
   [caches.images]
-    maxAge = "30m"
+    maxAge = "0s"
   [caches.assets]
-    maxAge = "30m"
+    maxAge = "0s"
   [caches.modules]
-    maxAge = "30m"
+    maxAge = "0s"

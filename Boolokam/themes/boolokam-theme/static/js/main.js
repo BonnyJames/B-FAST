@@ -1,5 +1,6 @@
 /**
  * Boolokam - Main JavaScript
+ * Version: 1.3.0
  */
 
 // Layout initialization
@@ -76,7 +77,72 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Handle content type navigation in header
     initHeaderNavigation();
+    
+    // Initialize image placeholders
+    initImagePlaceholders();
+    
+    // Initialize post stats handling
+    initPostStats();
 });
+
+/**
+ * Initialize image placeholders for broken images
+ */
+function initImagePlaceholders() {
+    const placeholderPath = "/images/placeholder.jpg";
+    
+    // Process all images on the page
+    document.querySelectorAll('img').forEach(function(img) {
+        // Skip images that are already handled
+        if (img.hasAttribute('data-handled')) return;
+        
+        // Mark as handled to avoid processing twice
+        img.setAttribute('data-handled', 'true');
+        
+        // Add loading="lazy" for better performance
+        if (!img.hasAttribute('loading')) {
+            img.setAttribute('loading', 'lazy');
+        }
+        
+        // Store original source
+        if (img.src && !img.getAttribute('data-original-src')) {
+            img.setAttribute('data-original-src', img.src);
+        }
+        
+        // Handle image loading errors
+        img.onerror = function() {
+            if (this.classList.contains('img-fallback')) return;
+            
+            // Replace with placeholder
+            this.src = placeholderPath;
+            this.classList.add('img-fallback');
+            
+            // Add class to parent element
+            if (this.parentElement) {
+                this.parentElement.classList.add('broken-image');
+            }
+            
+            // Prevent further error triggers
+            this.onerror = null;
+        };
+    });
+    
+    // Check existing images that may have already failed to load
+    setTimeout(function() {
+        document.querySelectorAll('img').forEach(function(img) {
+            if (!img.complete || !img.naturalWidth || img.naturalWidth === 0) {
+                if (!img.classList.contains('img-fallback')) {
+                    img.src = placeholderPath;
+                    img.classList.add('img-fallback');
+                    
+                    if (img.parentElement) {
+                        img.parentElement.classList.add('broken-image');
+                    }
+                }
+            }
+        });
+    }, 500);
+}
 
 /**
  * Initialize sidebar section navigation
@@ -115,29 +181,25 @@ function initHeaderNavigation() {
  * Initialize mobile menu toggle
  */
 function initMobileMenuToggle() {
-    // Add mobile menu toggle button to header if it doesn't exist
-    const header = document.querySelector('.site-header');
     const mobileMenuToggle = document.querySelector('.mobile-menu-toggle');
+    const body = document.body;
+    const mobileSidebar = document.getElementById('mobile-sidebar');
+    const desktopSidebar = document.querySelector('.sidebar');
     
-    if (header && !mobileMenuToggle) {
-        const toggleBtn = document.createElement('button');
-        toggleBtn.className = 'mobile-menu-toggle';
-        toggleBtn.setAttribute('aria-label', 'Toggle Mobile Menu');
-        toggleBtn.innerHTML = `<span></span><span></span><span></span>`;
+    // Skip if elements don't exist
+    if (!mobileMenuToggle || !mobileSidebar || !desktopSidebar) return;
+    
+    // Initialize mobile sidebar content (only if empty)
+    if (mobileSidebar.children.length === 0) {
+        // Clone the desktop sidebar content
+        const sidebarClone = desktopSidebar.cloneNode(true);
+        sidebarClone.removeAttribute('id'); // Remove ID to avoid duplicates
         
-        header.querySelector('.header-content').appendChild(toggleBtn);
+        // Extract only the content
+        mobileSidebar.innerHTML = sidebarClone.innerHTML;
         
-        // Create mobile sidebar on page load
-        const originalSidebar = document.querySelector('.sidebar');
-        let mobileSidebar = document.querySelector('.mobile-sidebar');
-        
-        if (originalSidebar && !mobileSidebar) {
-            mobileSidebar = document.createElement('div');
-            mobileSidebar.className = 'mobile-sidebar';
-            mobileSidebar.innerHTML = originalSidebar.innerHTML;
-            document.body.appendChild(mobileSidebar);
-            
-            // Add close button to mobile sidebar
+        // Add mobile-specific close button if it doesn't exist
+        if (!mobileSidebar.querySelector('.mobile-sidebar-close')) {
             const closeBtn = document.createElement('button');
             closeBtn.className = 'mobile-sidebar-close';
             closeBtn.innerHTML = '&times;';
@@ -145,17 +207,27 @@ function initMobileMenuToggle() {
             mobileSidebar.prepend(closeBtn);
             
             closeBtn.addEventListener('click', function() {
-                document.body.classList.remove('mobile-menu-open');
-                document.querySelector('.mobile-menu-toggle').classList.remove('active');
+                body.classList.remove('mobile-menu-open');
+                mobileMenuToggle.classList.remove('active');
             });
         }
-        
-        // Toggle mobile menu
-        toggleBtn.addEventListener('click', function() {
-            document.body.classList.toggle('mobile-menu-open');
-            this.classList.toggle('active');
-        });
     }
+    
+    // Toggle mobile menu
+    mobileMenuToggle.addEventListener('click', function() {
+        body.classList.toggle('mobile-menu-open');
+        this.classList.toggle('active');
+    });
+    
+    // Close mobile sidebar when clicking outside
+    document.addEventListener('click', function(event) {
+        if (body.classList.contains('mobile-menu-open') && 
+            !event.target.closest('.mobile-sidebar') && 
+            !event.target.closest('.mobile-menu-toggle')) {
+            body.classList.remove('mobile-menu-open');
+            mobileMenuToggle.classList.remove('active');
+        }
+    });
 }
 
 /**
@@ -164,8 +236,6 @@ function initMobileMenuToggle() {
 function initTradingViewWidget() {
     // The TradingView widget is now configured directly in the baseof.html file
     // This function is kept for backward compatibility but doesn't need to do anything
-    
-    // Previously this was causing an error by trying to inject a script element with JSON
     console.log("TradingView widget is configured via HTML");
 }
 
@@ -177,23 +247,45 @@ function initStickyLayout() {
     const tradingViewWidget = document.querySelector('.tradingview-widget-container');
     const header = document.querySelector('.site-header');
     const sidebar = document.querySelector('.sidebar');
+    const mainContent = document.getElementById('main-content');
+    
+    // Get saved sidebar state
+    const sidebarCollapsed = localStorage.getItem('sidebar-collapsed') === 'true';
     
     // Calculate heights
     const tradingViewHeight = tradingViewWidget ? tradingViewWidget.offsetHeight : 0;
     
-    // Calculate header height and apply to body padding
+    // Set CSS variables for consistent layout across components
+    if (tradingViewHeight > 0) {
+        document.documentElement.style.setProperty('--tradingview-height', tradingViewHeight + 'px');
+    }
+    
+    // Calculate header height and apply to CSS variables
     if (header) {
         const headerHeight = header.offsetHeight;
+        document.documentElement.style.setProperty('--header-height', headerHeight + 'px');
+        
         const totalHeight = tradingViewHeight + headerHeight;
         
-        // Body padding already includes TradingView height via CSS
-        // We don't need to adjust it dynamically
-        
-        // Adjust sidebar if it exists
+        // Apply dynamic top position to sidebar based on header height
         if (sidebar) {
             sidebar.style.top = totalHeight + 'px';
             sidebar.style.height = `calc(100vh - ${totalHeight}px)`;
+            
+            // Apply initial collapsed state if needed
+            if (sidebarCollapsed) {
+                sidebar.classList.add('collapsed');
+                if (mainContent) {
+                    mainContent.classList.add('sidebar-collapsed');
+                }
+            }
         }
+    }
+    
+    // Update main content top margin for mobile
+    if (window.innerWidth <= 768 && mainContent) {
+        const headerHeight = header ? header.offsetHeight : 0;
+        mainContent.querySelector('main').style.marginTop = headerHeight + 'px';
     }
 }
 
@@ -287,4 +379,255 @@ window.addEventListener('load', function() {
         window.addEventListener('resize', lazyLoad);
         window.addEventListener('orientationChange', lazyLoad);
     }
-}); 
+});
+
+/**
+ * Format a number for display with K/M/B suffixes
+ * @param {number} num - The number to format
+ * @returns {string} - Formatted number
+ */
+function formatNumber(num) {
+    if (num === undefined || num === null) return '0';
+    
+    // Convert to number if it's a string
+    num = typeof num === 'string' ? parseInt(num, 10) : num;
+    
+    if (isNaN(num)) return '0';
+    
+    if (num < 1000) {
+        return num.toString();
+    } else if (num < 1000000) {
+        const k = num / 1000;
+        return num % 1000 === 0 ? Math.floor(k) + 'K' : k.toFixed(1) + 'K';
+    } else if (num < 1000000000) {
+        const m = num / 1000000;
+        return num % 1000000 === 0 ? Math.floor(m) + 'M' : m.toFixed(1) + 'M';
+    } else {
+        const b = num / 1000000000;
+        return num % 1000000000 === 0 ? Math.floor(b) + 'B' : b.toFixed(1) + 'B';
+    }
+}
+
+/**
+ * Initialize post stats
+ */
+function initPostStats() {
+    // Check if we're on a post page by looking for data-post-id
+    const postContainer = document.querySelector('[data-post-id]');
+    if (!postContainer) return;
+    
+    const postId = postContainer.getAttribute('data-post-id');
+    
+    // Set up event listeners for like, comment and share buttons
+    const likeButton = document.querySelector('.post-stats [data-type="like"]');
+    const commentButton = document.querySelector('.post-stats [data-type="comment"]');
+    const shareButton = document.querySelector('.post-stats [data-type="share"]');
+    
+    // Check if user has already liked this post
+    const storedLikes = getStoredStats('like_count');
+    if (likeButton && storedLikes[postId]) {
+        likeButton.classList.add('active');
+    }
+    
+    // Add click handlers
+    if (likeButton) {
+        likeButton.addEventListener('click', function() {
+            handleLikeClick(this, postId);
+        });
+    }
+    
+    if (commentButton) {
+        commentButton.addEventListener('click', function() {
+            handleCommentClick(this, postId);
+        });
+    }
+    
+    if (shareButton) {
+        shareButton.addEventListener('click', function() {
+            handleShareClick(this, postId);
+        });
+    }
+    
+    // Increment view count for this page
+    incrementViewCount();
+}
+
+/**
+ * Handle like button click
+ * @param {HTMLElement} element - The clicked element
+ * @param {string} postId - The post ID
+ */
+function handleLikeClick(element, postId) {
+    // Get stored likes from localStorage
+    const storedLikes = getStoredStats('like_count');
+    
+    // Toggle like state
+    const wasLiked = storedLikes[postId];
+    const counter = element.querySelector('[data-count]');
+    
+    if (!counter) return;
+    
+    // Get current like count
+    const currentLikes = parseInt(counter.getAttribute('data-count'), 10) || 0;
+    
+    if (wasLiked) {
+        // User already liked, remove the like
+        delete storedLikes[postId];
+        const newLikes = Math.max(0, currentLikes - 1);
+        
+        counter.setAttribute('data-count', newLikes);
+        counter.textContent = formatNumber(newLikes);
+        element.classList.remove('active');
+    } else {
+        // User hasn't liked yet, add the like
+        storedLikes[postId] = true;
+        const newLikes = currentLikes + 1;
+        
+        counter.setAttribute('data-count', newLikes);
+        counter.textContent = formatNumber(newLikes);
+        element.classList.add('active');
+    }
+    
+    // Store the updated likes
+    setStoredStats('like_count', storedLikes);
+    
+    // Send the like to server
+    sendStatToServer(postId, 'like', wasLiked ? currentLikes - 1 : currentLikes + 1);
+}
+
+/**
+ * Handle comment button click
+ * @param {HTMLElement} element - The clicked element
+ * @param {string} postId - The post ID
+ */
+function handleCommentClick(element, postId) {
+    // For comments, we typically navigate to the comments section
+    // or open a comment form modal
+    
+    const commentSection = document.querySelector('#comments');
+    if (commentSection) {
+        // Scroll to comments section if it exists
+        commentSection.scrollIntoView({ behavior: 'smooth' });
+    } else {
+        // Otherwise, could open a comment modal
+        // For now, increment comment count temporarily to demonstrate functionality
+        const counter = element.querySelector('[data-count]');
+        if (counter) {
+            const currentComments = parseInt(counter.getAttribute('data-count'), 10) || 0;
+            const newComments = currentComments + 1;
+            
+            counter.setAttribute('data-count', newComments);
+            counter.textContent = formatNumber(newComments);
+            
+            // Send the comment count to server
+            sendStatToServer(postId, 'comment', newComments);
+        }
+    }
+}
+
+/**
+ * Handle share button click
+ * @param {HTMLElement} element - The clicked element
+ * @param {string} postId - The post ID
+ */
+function handleShareClick(element, postId) {
+    const url = window.location.href;
+    const title = document.title;
+    
+    // Try to use the Web Share API if available
+    if (navigator.share) {
+        navigator.share({
+            title: title,
+            url: url
+        }).then(() => {
+            incrementShareCount(element, postId);
+        }).catch(err => {
+            console.error('Share failed:', err);
+            // Still increment the count even if sharing failed
+            // since the user tried to share
+            incrementShareCount(element, postId);
+        });
+    } else {
+        // Fallback for browsers that don't support Web Share API
+        // Create a temporary input to copy the URL
+        const tempInput = document.createElement('input');
+        document.body.appendChild(tempInput);
+        tempInput.value = url;
+        tempInput.select();
+        document.execCommand('copy');
+        document.body.removeChild(tempInput);
+        
+        // Show a tooltip or message
+        alert('URL copied to clipboard!');
+        
+        // Increment share count
+        incrementShareCount(element, postId);
+    }
+}
+
+/**
+ * Increment share count
+ * @param {HTMLElement} element - The share button element
+ * @param {string} postId - The post ID
+ */
+function incrementShareCount(element, postId) {
+    const counter = element.querySelector('[data-count]');
+    if (!counter) return;
+    
+    // Get stored shares from localStorage
+    const storedShares = getStoredStats('share_count');
+    
+    // Get current share count
+    const currentShares = parseInt(counter.getAttribute('data-count'), 10) || 0;
+    const newShares = currentShares + 1;
+    
+    // Update share count
+    counter.setAttribute('data-count', newShares);
+    counter.textContent = formatNumber(newShares);
+    
+    // Store that user has shared this post
+    if (!storedShares[postId]) {
+        storedShares[postId] = 0;
+    }
+    storedShares[postId]++;
+    
+    // Store the updated shares
+    setStoredStats('share_count', storedShares);
+    
+    // Send the share to server
+    sendStatToServer(postId, 'share', newShares);
+}
+
+/**
+ * Get stored stats from localStorage
+ * @param {string} statType - The type of stat (view_count, like_count, etc.)
+ * @returns {Object} - Stored stats object
+ */
+function getStoredStats(statType) {
+    const stored = localStorage.getItem(`boolokam_${statType}`);
+    return stored ? JSON.parse(stored) : {};
+}
+
+/**
+ * Set stored stats in localStorage
+ * @param {string} statType - The type of stat (views, likes, etc.)
+ * @param {Object} data - The stats data to store
+ */
+function setStoredStats(statType, data) {
+    localStorage.setItem(`boolokam_${statType}`, JSON.stringify(data));
+}
+
+/**
+ * Send statistics to server (placeholder function)
+ * @param {string} postId - The post ID
+ * @param {string} statType - The type of statistic ('view', 'like', 'comment', 'share')
+ * @param {number} value - The current value
+ */
+function sendStatToServer(postId, statType, value) {
+    // Send the stat to the stat updater if available
+    if (window.boolokamStatsUpdater) {
+        window.boolokamStatsUpdater.queueUpdate(postId, statType, value);
+    } else {
+        console.log(`Stats updater not available: Post ${postId}, ${statType} = ${value}`);
+    }
+} 

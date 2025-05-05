@@ -1,0 +1,32 @@
+{{ $postId := .Params.post_id }}
+{{ $type := .Params.type }}
+{{ $value := .Params.value }}
+{{ $posts := (where .Site.RegularPages "RelPermalink" $postId) }}
+
+{{ $response := dict "success" false }}
+
+{{ if and $postId $type (gt (len $posts) 0) }}
+  {{ $post := index $posts 0 }}
+  {{ $stats := dict }}
+
+  {{ if eq $type "view" }}
+    {{ $stats = dict "view_count" (default 0 $post.Params.view_count) }}
+  {{ else if eq $type "like" }}
+    {{ $stats = dict "like_count" (default 0 $post.Params.like_count) }}
+  {{ else if eq $type "comment" }}
+    {{ $stats = dict "comment_count" (default 0 $post.Params.comment_count) }}
+  {{ else if eq $type "share" }}
+    {{ $stats = dict "share_count" (default 0 $post.Params.share_count) }}
+  {{ else if eq $type "all" }}
+    {{ $stats = dict 
+      "view_count" (default 0 $post.Params.view_count)
+      "like_count" (default 0 $post.Params.like_count) 
+      "comment_count" (default 0 $post.Params.comment_count)
+      "share_count" (default 0 $post.Params.share_count)
+    }}
+  {{ end }}
+
+  {{ $response = dict "success" true "data" $stats "post_id" $postId }}
+{{ end }}
+
+{{ $response | jsonify }} 

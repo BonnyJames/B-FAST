@@ -98,13 +98,9 @@ start_hugo() {
     fi
   fi
   
-  if [ "$MODE" == "fix" ]; then
-    print_message "Starting Hugo in FIX mode (disableFastRender)..."
-    hugo server -D --theme=boolokam-theme --disableFastRender
-  else
-    print_message "Starting Hugo in NORMAL mode..."
-    hugo server -D --theme=boolokam-theme --navigateToChanged
-  fi
+  # Always start with disableFastRender and other cache-busting flags
+  print_message "Starting Hugo with cache-busting settings..."
+  hugo server -D --theme=boolokam-theme --disableFastRender --noHTTPCache --navigateToChanged
   
   EXIT_CODE=$?
   if [ $EXIT_CODE -ne 0 ]; then
@@ -116,6 +112,48 @@ start_hugo() {
   fi
 }
 
+# Verify CSS integrity and image placeholders
+verify_assets() {
+  print_message "Verifying asset file integrity..."
+  
+  # Check if main.css exists in theme
+  if [ ! -f "Boolokam/themes/boolokam-theme/static/css/main.css" ]; then
+    print_error "main.css not found in theme directory!"
+    return 1
+  fi
+  
+  # Clean public CSS directory
+  rm -rf Boolokam/public/css
+  mkdir -p Boolokam/public/css
+  
+  # Copy CSS files to public directory
+  cp Boolokam/themes/boolokam-theme/static/css/*.css Boolokam/public/css/
+  
+  # Ensure placeholder image exists and is copied
+  if [ ! -f "Boolokam/themes/boolokam-theme/static/images/placeholder.jpg" ]; then
+    print_warning "placeholder.jpg not found in theme directory. Creating placeholder directory..."
+    mkdir -p Boolokam/themes/boolokam-theme/static/images/placeholders
+    
+    # Check if we already have a placeholder image to copy
+    if [ -f "Boolokam/static/images/placeholder.jpg" ]; then
+      cp Boolokam/static/images/placeholder.jpg Boolokam/themes/boolokam-theme/static/images/
+      print_message "Copied placeholder.jpg from static directory"
+    else
+      print_warning "No placeholder image found. Website might show broken images."
+    fi
+  fi
+  
+  # Ensure placeholder image is in public directory
+  mkdir -p Boolokam/public/images
+  if [ -f "Boolokam/themes/boolokam-theme/static/images/placeholder.jpg" ]; then
+    cp Boolokam/themes/boolokam-theme/static/images/placeholder.jpg Boolokam/public/images/
+    print_message "Copied placeholder.jpg to public directory"
+  fi
+  
+  print_message "Asset files validated and copied to public directory"
+  return 0
+}
+
 # Main execution based on mode
 verify_directory
 
@@ -125,6 +163,7 @@ case $MODE in
     cleanup
     clean_basic
     verify_theme
+    verify_assets
     start_hugo
     ;;
   clean)
@@ -136,6 +175,7 @@ case $MODE in
   start|*)
     print_message "Running in NORMAL mode"
     cleanup
+    verify_assets
     start_hugo
     ;;
 esac 

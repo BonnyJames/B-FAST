@@ -1,0 +1,18 @@
+---
+author: Beaumaris
+categories:
+- Entertainment
+comment_count: 0
+date: 2022-09-28 11:23:14
+draft: false
+image: https://cdn.boolokam.com/articles/2022/09/t3yyy-1-1-2-1-2.jpg
+like_count: 32217
+share_count: 13385
+tags:
+- Jim McBride
+- The Big Easy (1986)
+title: ഒരു കിടിലൻ റോമാൻ്റിക് ത്രില്ലർ സിനിമയാണ് ദി ബിഗ് എസ്സേ
+view_count: 623626
+---
+
+The Big Easy (1986)???????????????? ഒരു കിടിലൻ റോമാൻ്റിക് ത്രില്ലർ സിനിമ പരിചയപ്പെടാം. ന്യൂ ഓർലിയൻസിലെ ഒരു പോലീസ് ലെഫ്റ്റനന്റാണ് റെമി മക്‌സ്‌വെയ്‌ൻ. മക്‌സ്‌വെയ്‌ൻ അന്വേഷിച്ച ഒരു കൊലപാതകേസിന്റെ അന്വേഷണം പോലീസ് സേനയിലെ ഉദ്യോഗസ്ഥർക്ക് നേരെയാണ് എത്തിയത്. ആനി ഓസ്ബോൺ എന്ന സ്‌റ്റേറ്റ് ഡിസ്‌ട്രിക്‌റ്റ് അറ്റോർണിയെ പോലീസ് അഴിമതിയെ കുറിച്ച് അന്വേഷിക്കാൻ അധികൃതർ അയക്കുന്നു. കുറച്ചു ദിവസത്തിനുള്ളിൽ തന്നെ ന്യൂ ഓർലിയൻസിലെ പോലീസ് ഉദ്യോഗസ്ഥരെപറ്റി ആനി ഓസ്ബോനു സംശയം തോന്നി. പിന്നീട് കൂടുതൽ അന്വേഷണത്തിൽ ഞെട്ടിക്കുന്ന വിവരങ്ങളാണ് പുറത്ത് വന്നത്. തുടർന്ന് കാണുക. റൊമാൻ്റിക് ത്രില്ലർ സിനിമ ഇഷ്ടപ്പെടുന്നവർ ഒരിക്കലും മിസ്സ് ചെയ്യരുത്. The Big Easy is a 1986 American neo-noir romantic thriller film directed by Jim McBride and written by Daniel Petrie Jr. The film stars Dennis Quaid, Ellen Barkin, John Goodman, and Ned Beatty. The film was both set and shot on location in New Orleans, Louisiana.The film was later adapted for a television series for two seasons on the USA Network (1996–1997). Remy McSwain (Dennis Quaid) is a New Orleans police lieutenant who investigates the murder of a local mobster. His investigation leads him to suspect that fellow members of the police force may be involved.Anne Osborne (Ellen Barkin), a state district attorney, is sent to investigate alleged police corruption. After seeing firsthand some unorthodox practices by Remy, Anne accuses him of being on the take. He argues that she does not have an understanding of how the system works in New Orleans for police. Despite Osborne's suspicious and apprehensive feelings towards him, they form a relationship. McSwain is caught accepting payoffs in an Internal Affairs sting, and Osborne has the burden of prosecuting him. With the assistance of fellow officers within the police force, the evidence is destroyed and suppressed. McSwain is cleared of the charges, at which point Anne, now clued in, is faced with the conflict of her personal feelings for Remy and her duty to uphold the law. It is later revealed that Jack Kellom (Ned Beatty), Remy's boss, and the two detectives De Soto (John Goodman) and Dodge (Ebbe Roe Smith) are behind the murder, and a stash of heroin is hidden at a boat yard. Kellom goes to the boat and is confronted by De Soto and Dodge. Kellom suggests getting rid of the drugs, but De Soto shoots Kellom. Remy and Anne arrive and are confronted by De Soto and Dodge, and a shootout starts, resulting in De Soto being shot by a fatally wounded Kellom, and Dodge being shot with a flare gun by Remy, which starts a fire, and Remy and Anne make a run for it in the nick of time just before the boat explodes. The final scene shows Remy dancing with Anne, and it appears they had just been married. ![](https://cdn.boolokam.com/articles/2022/09/t3yyy-1-1-2-1-2.jpg)Dennis Quaid as Detective Lieutenant Remy McSwain Ellen Barkin as A.D.A. Anne Osborne Ned Beatty as Captain Jack Kellom John Goodman as Detective Sergeant Andre DeSoto Lisa Jane Persky as Detective McCabe Ebbe Roe Smith as Detective Ed Dodge Tom O'Brien as Bobby McSwain Charles Ludlam as Lamar Parmentel Grace Zabriskie as Mama Marc Lawrence as Vinnie "The Cannon" DiMotti Solomon Burke as Daddy Mention Gailard Sartain as Chef Paul Jim Garrison as Judge Jim Garrison Bob Kearney as Detective Sergeant Kearney

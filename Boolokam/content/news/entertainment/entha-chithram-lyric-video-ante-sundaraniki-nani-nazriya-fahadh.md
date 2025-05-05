@@ -1,0 +1,21 @@
+---
+author: Beaumaris
+categories:
+- Entertainment
+comment_count: 0
+date: 2022-05-10 10:53:40
+draft: false
+image: ''
+like_count: 16672
+share_count: 10151
+tags:
+- Ante Sundaraniki
+- nani
+- Nazriya Fahadh
+- song
+- Vivek Athreya
+title: നസ്രിയ നായികയായ തെലുങ്ക് ചിത്രം 'അണ്ടേ സുന്ദരാനികി'യുടെ ഗാനം പുറത്തുവിട്ടു
+view_count: 463743
+---
+
+നസ്രിയ നായികയാകുന്ന പുതിയ ചിത്രമായ 'അണ്ടേ സുന്ദരാനികി' വളരെ നേരത്തെ തന്നെ വാർത്തകളിൽ ഇടംപിടിച്ചിരുന്നു. നാനിയാണ് ഈ ചിത്രത്തിലെ നായകൻ. അണ്ടേ സുന്ദരാനികിയുടെ ഗാനം ഇപ്പോൾ പുറത്തുവിട്ടിരിക്കുന്നു. ചിത്രം ഒരു റൊമാന്റിക് കോമഡിയാണ് . ഒരു ഹിന്ദു യുവാവും ക്രിസ്ത്യൻ യുവതിയും തമ്മിലുള്ള പ്രണയമാണ് ചിത്രത്തിന്റെ പ്രമേയമെന്ന് ടീസറില്‍ നിന്ന് മനസിലാക്കാം. &nbsp; ലീല തോമസ് എന്ന കഥാപാത്രത്തെയാണ് നസ്രിയ 'അണ്ടേ സുന്ദരാനികി'യില്‍ അവതരിപ്പിക്കുന്നത് വിവേക് അത്രേയ സംവിധാനം ചെയ്യുന്ന അണ്ടേ സുന്ദരാനികി ജൂൺ 10ന് റിലീസ് ചെയുന്നു. ഛായാഗ്രാഹണം : നികേത് ബൊമ്മിറെഡ്ഡി, നിർമ്മാണം : മൈത്രി മൂവി മേക്കേസിന്റെ ബാനറിൽ നവീൻ യെര്‍നേനി & രവി ശങ്കർ . സംഗീത സംവിധാനം :വിവേക് സാഗർ , എഡിറ്റിങ് : രവി തേജ ഗിരിജാല . നാദിയ മൊയ്തു , ഹര്‍ഷ വര്‍ദ്ധൻ, രാഹുല്‍ രാമകൃഷ്‍ണ, സുഹാസ്, അളഗം പെരുമാള്‍, ശ്രീകാന്ത് അയങ്കാര്‍ തുടങ്ങിയ താരങ്ങളും ചിത്രത്തിൽ അഭിനയിക്കുന്നുണ്ട്. &nbsp; [embed]https://youtu.be/kjJEx3SGSDU[/embed] &nbsp; The dazzling melody Entha Chithram is here.. Celebrate love like never before! ♥️ Ante Sundaraniki on June 10th in Cinemas. Ante Sundaraniki cast includes Nani and Nazriya in lead roles. The film has been Written and Directed by Vivek Athreya, Music composed by Vivek Sagar, Cinematography helmed by Niketh Bommi and Editing by Raviteja Girijala. Produced by Naveen Yerneni and Ravi Shankar Y, under the banner Mythri Movie Makers. Entha Chitram Song Credits: Music composed and Arranged by Vivek Sagar Singers - Anurag Kulkarni, Keerthana Vaidyanathan Choir - EL Fé, Vocal Arranger : Roe Vincent Lyrics - ‘Saraswathi Puthra’ Ramajogayya Sastry Bass - Keba Jeremiah Acoustic and Electric Guitars - Vivek Sagar Violin - Abhijeet Gurjale Fiddle - Ray Legere Flute - Lalith Thalluri Additional Programming and Synth - Vivek Sagar Recorded and Produced at Tapeloop Mixing & Mastering- Sanjay Das at Rhythmonline Studio Movie Details: Film - Ante Sundaraniki Starring - Nani & Nazriya Fahadh Writer & Director - Vivek Athreya Produced by Mythri Movie Makers Producers - Naveen Yerneni and Ravi Shankar Y Music - Vivek Sagar Cinematography - Niketh Bommi CEO - Cherry (Chiranjeevi) Executive Producer - Anil Yerneni Editor - Raviteja Girijala Art Director - Latha Naidu Styling - Pallavi Singh Lyrics - Ramajogayya Sastry, Chandrabose, Hasith Goli and Bharadwaj Choreography - Sekhar V J and Vishwa Raghu Sound Design - Varun Venugopal Publicity Design - Anil & Bhanu PRO - Vamsi - Shekar Chief Co-Director - Radhakrishna Poosala Direction Team - Sachwin R, Dinesh Puranam, Anil Kumar Karella, Srividya V, Swamy Nathan, Vijay Paluri, Tarak Ramtej, Keerthi Seethalam and Ma Vickey Publicity - Baba Sai Kumar Marketing - First Show Digital Partner - Whacked Out Media Music Label - Saregama India Limited, A RPSG Group Company Sound Mixing - Sanjay Bitla @ Rhythm Online Studio, Hyderabad DI - Annapurna Studios, Hyderabad Colorist - Raghu Dubbing - Annapurna Studios, Hyderabad Lyrical Video Credits: Walls & Trends Lyrics: Entha chitram Ennesi gnapakaalo Oopiraadedhelaa Entha maatram Oohalo leni Utsavaalalo munigi thelaa Ollalaa viruchukuntuu Roju thellavaarutondi Enchetho Assalem jarugutundo Emo emito Emani nannadigaa emaindani Aamani naa manasantha Poolu challe rammani Ekkado chinni aasha Kulaasa ooyalesaa Hey hey Ninnalo nannu teesaa Kottagaa rangulesaa CHARANAM 1... addaalake kannu kuttelaa Andala aanandamoutunna Emayindemite halaa Aa vennele vennu thattela Lokanike kanthinistunna.. Inthalo inni vinthala.. Phalana peru lenide.. Ullasame naa jathainade.. ee gaalilo jolalilo Gathaala dairy kadulutondi CHARANAM 2.. Ennallakennallako malli Marinta naaku nenu dorikaane Kaalame maaya chesene Ee konnallala ninnalokelli Aanaati nannu nenu kalisaane Ori maa chinni nayane Oo sukhee sukhaana jeevitham Oorantha kerinthalaadene Ee koncheme inkonchamai Etelli agutundo emo &nbsp;

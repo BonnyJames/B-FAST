@@ -1,18 +1,27 @@
-{{ $number := . }}
+{{ $number := int . }}
 
-{{ if or (not $number) (eq $number 0) }}
-  0
-{{ else if lt $number 1000 }}
-  {{ $number }}
-{{ else if lt $number 10000 }}
-  {{ $inK := div (float $number) 1000.0 }}
-  {{ $formatted := printf "%.1fK" $inK }}
-  {{ if hasSuffix $formatted ".0K" }}
-    {{ replace $formatted ".0" "" }}
-  {{ else }}
-    {{ $formatted }}
+{{ $formatted := "" }}
+
+{{ if lt $number 1000 }}
+  {{ $formatted = $number }}
+{{ else if lt $number 1000000 }}
+  {{ $k := div (float $number) 1000.0 }}
+  {{ $formatted = printf "%.1fK" $k }}
+  {{ if eq (mod $number 1000) 0 }}
+    {{ $formatted = printf "%.0fK" $k }}
+  {{ end }}
+{{ else if lt $number 1000000000 }}
+  {{ $m := div (float $number) 1000000.0 }}
+  {{ $formatted = printf "%.1fM" $m }}
+  {{ if eq (mod $number 1000000) 0 }}
+    {{ $formatted = printf "%.0fM" $m }}
   {{ end }}
 {{ else }}
-  {{ $inK := div $number 1000 }}
-  {{ printf "%dK" $inK }}
-{{ end }} 
+  {{ $b := div (float $number) 1000000000.0 }}
+  {{ $formatted = printf "%.1fB" $b }}
+  {{ if eq (mod $number 1000000000) 0 }}
+    {{ $formatted = printf "%.0fB" $b }}
+  {{ end }}
+{{ end }}
+
+{{ return $formatted }} 

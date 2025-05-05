@@ -1,5 +1,5 @@
 ---
-title: "{{ replace .File.ContentBaseName "-" " " | title }}"
+title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 draft: true
 categories: []
@@ -9,4 +9,7 @@ image: ""
 video_id: ""
 duration: ""
 view_count: 0
+like_count: 0
+comment_count: 0
+share_count: 0
 --- 

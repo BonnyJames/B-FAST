@@ -1,78 +1,139 @@
 {{ define "main" }}
-<article class="post">
-    <header class="post-header">
-        <h1 class="post-title">{{ .Title }}</h1>
-        <div class="post-meta">
-            <span class="view-count"><i class="fas fa-eye"></i> {{ partial "format-number.html" (default 0 .Params.view_count) }}</span>
-            <span class="divider"></span>
-            <span class="post-date">{{ .Date.Format "Jan 2, 2006" }}</span>
-            {{ if .Params.author }}
-                <span class="divider"></span>
-                <span class="post-author">{{ .Params.author }}</span>
-            {{ end }}
-            {{ if .Params.categories }}
-                <span class="divider"></span>
-                <span class="category">
-                {{ range .Params.categories }}
-                    <a href="/categories/{{ . | urlize }}">{{ . }}</a>
+    <article class="content-single" data-post-id="{{ .RelPermalink }}">
+        <header class="post-header">
+            <div class="category-badge">
+                {{ if .Params.categories }}
+                    {{ $category := index .Params.categories 0 }}
+                    <a href="{{ printf "categories/%s" (. | urlize) | relURL }}">{{ $category | upper }}</a>
+                {{ else }}
+                    <a href="{{ "categories" | relURL }}">UNCATEGORIZED</a>
                 {{ end }}
+            </div>
+            <h1 class="post-title">{{ .Title }}</h1>
+            <div class="post-meta">
+                {{ if .Params.author }}
+                    <span class="author">
+                        <i class="fas fa-user"></i> {{ .Params.author }}
+                    </span>
+                    <span class="divider"></span>
+                {{ end }}
+                <span class="date">
+                    <i class="fas fa-calendar"></i> {{ .Date.Format "Jan 2, 2006" }}
                 </span>
-            {{ end }}
+                <span class="divider"></span>
+                <span class="view-count">
+                    <i class="fas fa-eye"></i> <span data-count="{{ if .Params.view_count }}{{ .Params.view_count }}{{ else }}0{{ end }}">
+                        {{ partial "format-number.html" (default 0 .Params.view_count) }}
+                    </span>
+                </span>
+            </div>
+        </header>
+        
+        {{ if .Params.image }}
+            <div class="featured-image">
+                <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
+            </div>
+        {{ end }}
+        
+        <div class="post-content">
+            {{ .Content }}
         </div>
         
-        <div class="post-featured-image">
-            {{ if .Params.image }}
-                {{ if hasPrefix .Params.image "http" }}
-                    <img src="{{ .Params.image }}" alt="{{ .Title }}">
-                {{ else }}
-                    <img src="{{ .Params.image | relURL }}" alt="{{ .Title }}">
-                {{ end }}
-            {{ else if .Params.featured_image }}
-                {{ if hasPrefix .Params.featured_image "http" }}
-                    <img src="{{ .Params.featured_image }}" alt="{{ .Title }}">
-                {{ else }}
-                    <img src="{{ .Params.featured_image | relURL }}" alt="{{ .Title }}">
-                {{ end }}
-            {{ else }}
-                {{ if eq .Type "videos" }}
-                    <img src="{{ "images/samples/videos/default.jpg" | relURL }}" alt="{{ .Title }}">
-                {{ else if eq .Type "movies" }}
-                    <img src="{{ "images/samples/movies/default.jpg" | relURL }}" alt="{{ .Title }}">
-                {{ else }}
-                    <img src="{{ "images/samples/news/general/default.jpg" | relURL }}" alt="{{ .Title }}">
-                {{ end }}
-            {{ end }}
-        </div>
-    </header>
-
-    <div class="post-content">
-        {{ .Content }}
-    </div>
-
-    <div class="post-stats">
-        <span><i class="far fa-heart"></i> {{ if .Params.like_count }}{{ partial "format-number.html" .Params.like_count }}{{ else }}77{{ end }} Like</span>
-        <span><i class="far fa-comment"></i> Comment</span>
-        <span><i class="far fa-share-square"></i> Share</span>
-    </div>
-
-    <footer class="post-footer">
-        {{ with .Params.tags }}
+        {{ if .Params.tags }}
             <div class="post-tags">
-                <span>Tags:</span>
-                {{ range . }}
-                    <a href="/tags/{{ . | urlize }}">{{ . }}</a>
+                {{ range .Params.tags }}
+                    <a href="{{ printf "tags/%s" (. | urlize) | relURL }}" class="tag">{{ . }}</a>
                 {{ end }}
             </div>
         {{ end }}
         
-        {{ with .Params.categories }}
-            <div class="post-categories">
-                <span>Categories:</span>
-                {{ range . }}
-                    <a href="/categories/{{ . | urlize }}">{{ . }}</a>
+        <div class="post-stats">
+            <span data-type="like">
+                <i class="fas fa-thumbs-up"></i> <span data-count="{{ if .Params.like_count }}{{ .Params.like_count }}{{ else }}0{{ end }}">
+                    {{ partial "format-number.html" (default 0 .Params.like_count) }}
+                </span>
+            </span>
+            <span data-type="comment">
+                <i class="fas fa-comment"></i> <span data-count="{{ if .Params.comment_count }}{{ .Params.comment_count }}{{ else }}0{{ end }}">
+                    {{ partial "format-number.html" (default 0 .Params.comment_count) }}
+                </span>
+            </span>
+            <span data-type="share">
+                <i class="fas fa-share-alt"></i> <span data-count="{{ if .Params.share_count }}{{ .Params.share_count }}{{ else }}0{{ end }}">
+                    {{ partial "format-number.html" (default 0 .Params.share_count) }}
+                </span>
+            </span>
+        </div>
+        
+        <div class="author-box">
+            <div class="author-avatar">
+                {{ if .Params.author_avatar }}
+                    <img src="{{ .Params.author_avatar | relURL }}" alt="{{ .Params.author }}">
+                {{ else }}
+                    <img src="{{ "images/placeholder.jpg" | relURL }}" alt="{{ .Params.author }}">
                 {{ end }}
             </div>
-        {{ end }}
-    </footer>
-</article>
+            <div class="author-info">
+                <h4 class="author-name">{{ if .Params.author }}{{ .Params.author }}{{ else }}Boolokam{{ end }}</h4>
+                <p class="author-bio">{{ if .Params.author_bio }}{{ .Params.author_bio }}{{ else }}Contributing editor at Boolokam.{{ end }}</p>
+                <div class="author-social">
+                    <a href="#"><i class="fab fa-twitter"></i></a>
+                    <a href="#"><i class="fab fa-facebook-f"></i></a>
+                    <a href="#"><i class="fab fa-instagram"></i></a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="related-posts">
+            <h3>Related Posts</h3>
+            <div class="grid-container">
+                {{ $related := .Site.RegularPages.Related . | first 4 }}
+                {{ with $related }}
+                    {{ range . }}
+                        <div class="grid-item">
+                            <div class="card" data-post-id="{{ .RelPermalink }}">
+                                {{ if .Params.thumbnail }}
+                                    <div class="card-image-container">
+                                        <img src="{{ .Params.thumbnail | relURL }}" alt="{{ .Title }}">
+                                        {{ if .Params.categories }}
+                                            <div class="featured-category-tag">
+                                                {{ index .Params.categories 0 | upper }}
+                                            </div>
+                                        {{ end }}
+                                    </div>
+                                {{ end }}
+                                <div class="card-content">
+                                    <div class="card-text-wrapper">
+                                        <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+                                        <div class="post-meta">
+                                            <span class="date">{{ .Date.Format "Jan 2, 2006" }}</span>
+                                        </div>
+                                        <p>{{ .Summary | truncate 80 }}</p>
+                                    </div>
+                                    <div class="post-stats">
+                                        <span data-type="like">
+                                            <i class="fas fa-thumbs-up"></i> <span data-count="{{ if .Params.like_count }}{{ .Params.like_count }}{{ else }}0{{ end }}">
+                                                {{ partial "format-number.html" (default 0 .Params.like_count) }}
+                                            </span>
+                                        </span>
+                                        <span data-type="comment">
+                                            <i class="fas fa-comment"></i> <span data-count="{{ if .Params.comment_count }}{{ .Params.comment_count }}{{ else }}0{{ end }}">
+                                                {{ partial "format-number.html" (default 0 .Params.comment_count) }}
+                                            </span>
+                                        </span>
+                                        <span data-type="share">
+                                            <i class="fas fa-share-alt"></i> <span data-count="{{ if .Params.share_count }}{{ .Params.share_count }}{{ else }}0{{ end }}">
+                                                {{ partial "format-number.html" (default 0 .Params.share_count) }}
+                                            </span>
+                                        </span>
+                                    </div>
+                                </div>
+                                <a href="{{ .RelPermalink }}" class="full-card-link" aria-label="Read {{ .Title }}"></a>
+                            </div>
+                        </div>
+                    {{ end }}
+                {{ end }}
+            </div>
+        </div>
+    </article>
 {{ end }} 
