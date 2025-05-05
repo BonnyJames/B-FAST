@@ -16,6 +16,20 @@ theme = "boolokam-theme"
     instagram = "boolokam"
     youtube = "boolokam"
 
+# RSS settings to limit file size
+[outputFormats.RSS]
+  mediatype = "application/rss+xml"
+  baseName = "index"
+  isPlainText = false
+  rel = "alternate"
+  isHTML = false
+  noUgly = true
+  permalinkable = false
+
+# RSS Feed limits
+[services.rss]
+  limit = 100
+
 # Menu configuration
 [menu]
   # Main menu
@@ -109,3 +123,10 @@ theme = "boolokam-theme"
     maxAge = "0s"
   [caches.modules]
     maxAge = "0s"
+
+# Output format configurations
+[outputs]
+  home = ["HTML", "RSS"]
+  section = ["HTML"]
+  taxonomy = ["HTML"]
+  term = ["HTML"]
