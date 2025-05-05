@@ -56,8 +56,8 @@
     --gutter: 20px;
     --sidebar-width: 240px;
     --sidebar-width-collapsed: 60px;
-    --header-height: 80px;
-    --tradingview-height: 40px;
+    --header-height: 70px;
+    --tradingview-height: 120px;
     
     /* Transitions */
     --transition: all 0.3s ease;
@@ -278,6 +278,7 @@ main {
     grid-template-columns: 1fr 1fr;
     gap: 20px;
     width: 100%;
+    margin-top: 15px;
 }
 
 .featured-primary {
@@ -330,7 +331,7 @@ main {
 
 .featured-image {
     position: relative;
-    height: 0;
+    height: 190px;
     padding-bottom: 30%;
     overflow: hidden;
 }
@@ -1579,7 +1580,7 @@ body.mobile-menu-open .mobile-sidebar {
 /* Improved Sidebar styles */
 .sidebar {
     position: fixed;
-    top: calc(var(--tradingview-height) + var(--header-height));
+    top: var(--header-height);
     bottom: 0;
     left: 0;
     width: var(--sidebar-width);
@@ -1954,7 +1955,7 @@ body.mobile-menu-open .mobile-sidebar {
 
 .latest-news-section .grid-container {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     gap: clamp(10px, 2vw, 20px);
     margin-bottom: 15px;
     width: 100%;
@@ -2010,7 +2011,7 @@ body.mobile-menu-open .mobile-sidebar {
 /* Fix grid layout for latest news */
 .latest-news-section .grid-container {
     display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     gap: clamp(10px, 2vw, 20px);
     margin-bottom: 15px;
     width: 100%;
@@ -2118,11 +2119,11 @@ body.mobile-menu-open .mobile-sidebar {
     
     .latest-news-section .grid-container {
         grid-template-columns: 1fr;
-        gap: 15px;
+        gap: 30px;
     }
     
     .latest-news-section .card img {
-        height: 180px;
+        height: 300px;
     }
     
     /* Full width cards on mobile */
