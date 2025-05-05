@@ -54,6 +54,14 @@ theme = "boolokam-theme"
 [pagination]
   postsPerPage = 9
 
+# Specific section pagination
+[params.pagination]
+  newsPostsPerPage = 21
+
+# Add global pagination settings
+paginate = 21
+paginatePath = "page"
+
 # Taxonomies
 [taxonomies]
   category = "categories"

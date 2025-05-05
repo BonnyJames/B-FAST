@@ -6,7 +6,8 @@
     </div>
     
     <div class="grid-container">
-        {{ range .Pages }}
+        {{ $paginator := .Paginate (where .Pages "Type" "news") (index .Site.Params.pagination "newsPostsPerPage" | default 21) }}
+        {{ range $paginator.Pages }}
         <div class="grid-item">
             <div class="card">
                 {{ if .Params.featured_image }}
@@ -41,6 +42,16 @@
                 </div>
             </div>
         </div>
+        {{ end }}
+    </div>
+
+    <div class="pagination">
+        {{ if $paginator.HasPrev }}
+        <a href="{{ $paginator.Prev.URL }}" class="pagination-prev">&laquo; Previous</a>
+        {{ end }}
+        <span class="pagination-info">Page {{ $paginator.PageNumber }} of {{ $paginator.TotalPages }}</span>
+        {{ if $paginator.HasNext }}
+        <a href="{{ $paginator.Next.URL }}" class="pagination-next">Next &raquo;</a>
         {{ end }}
     </div>
 </div>
